@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KatzKapper MLB Picks</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0D1B2A;
+    color: #E8E8E8;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+  }
+  .header {
+    background: #0D1B2A;
+    border-bottom: 3px solid #E8873A;
+    padding: 18px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header-left { display: flex; align-items: center; gap: 14px; }
+  .logo { font-size: 26px; font-weight: 900; color: #E8873A; letter-spacing: 1px; }
+  .subtitle { font-size: 13px; color: #9DB0C8; margin-top: 2px; }
+  .record-bar {
+    background: #1A2D42;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 13px;
+    color: #9DB0C8;
+    text-align: right;
+  }
+  .record-bar .pnl-pos { color: #4CAF50; font-weight: 700; }
+  .record-bar .pnl-neg { color: #E05252; font-weight: 700; }
+  .date-banner {
+    background: #1A2D42;
+    padding: 10px 24px;
+    font-size: 13px;
+    color: #9DB0C8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .updated { font-size: 11px; color: #5A7A9A; }
+  .content { padding: 20px 24px; max-width: 900px; margin: 0 auto; }
+  .section-header {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #E8873A;
+    margin: 22px 0 10px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #1E3450;
+  }
+  .pick-card {
+    background: #1A2D42;
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin-bottom: 10px;
+    border-left: 4px solid #E8873A;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .pick-card.units-3 { border-left-color: #4CAF50; }
+  .pick-card.units-2 { border-left-color: #2196F3; }
+  .pick-card.units-1 { border-left-color: #E8873A; }
+  .pick-card.result-win { border-left-color: #4CAF50; background: #1A2D42; }
+  .pick-card.result-loss { border-left-color: #E05252; background: #1A2D42; }
+  .pick-card.result-push { border-left-color: #9DB0C8; background: #1A2D42; }
+  .pick-left { flex: 1; }
+  .pick-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 3px;
+  }
+  .pick-type {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    margin-right: 6px;
+    background: #0D3B6A;
+    color: #7EC8E3;
+  }
+  .pick-type.tb { background: #1A3A1A; color: #4CAF50; }
+  .pick-type.outs { background: #3A1A3A; color: #CE93D8; }
+  .pick-line {
+    font-size: 14px;
+    color: #C8D8E8;
+    margin-top: 5px;
+  }
+  .pick-meta {
+    font-size: 11px;
+    color: #5A7A9A;
+    margin-top: 4px;
+  }
+  .pick-flags {
+    font-size: 11px;
+    color: #7A9AB8;
+    margin-top: 4px;
+    font-style: italic;
+  }
+  .pick-right { text-align: right; min-width: 70px; }
+  .units-badge {
+    font-size: 22px;
+    font-weight: 900;
+    color: #FFFFFF;
+    line-height: 1;
+  }
+  .units-label { font-size: 11px; color: #5A7A9A; }
+  .score-bar-outer {
+    background: #0D1B2A;
+    border-radius: 4px;
+    height: 5px;
+    width: 60px;
+    margin: 6px 0 0 auto;
+  }
+  .score-bar-inner {
+    background: #E8873A;
+    border-radius: 4px;
+    height: 5px;
+  }
+  .result-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin-top: 4px;
+    letter-spacing: 1px;
+  }
+  .result-badge.win { background: #1B4A1B; color: #4CAF50; }
+  .result-badge.loss { background: #4A1B1B; color: #E05252; }
+  .result-badge.push { background: #2A2A3A; color: #9DB0C8; }
+  .no-picks {
+    text-align: center;
+    padding: 60px 20px;
+    color: #5A7A9A;
+    font-size: 15px;
+  }
+  .no-picks .icon { font-size: 40px; margin-bottom: 12px; }
+  .footer {
+    text-align: center;
+    padding: 24px;
+    color: #5A7A9A;
+    font-size: 11px;
+    border-top: 1px solid #1E3450;
+    margin-top: 30px;
+  }
+  @media (max-width: 600px) {
+    .pick-card { flex-direction: column; }
+    .pick-right { text-align: left; margin-top: 10px; display: flex; gap: 12px; align-items: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <div>
+      <div class="logo">KATZKAPPER</div>
+      <div class="subtitle">MLB Prop Model</div>
+    </div>
+  </div>
+  <div class="record-bar" id="record-bar">Loading...</div>
+</div>
+
+<div class="date-banner">
+  <span id="date-label">Loading picks...</span>
+  <span class="updated" id="updated-label"></span>
+</div>
+
+<div class="content" id="main-content">
+  <div class="no-picks"><div class="icon">⚾</div>Loading picks...</div>
+</div>
+
+<div class="footer">
+  KatzKapper MLB Prop Model &nbsp;|&nbsp; @KatzKapper on X
+</div>
+
+<script>
+async function loadPicks() {
+  try {
+    const resp = await fetch('picks.json?v=' + Date.now());
+    const data = await resp.json();
+    renderPage(data);
+  } catch(e) {
+    document.getElementById('main-content').innerHTML =
+      '<div class="no-picks"><div class="icon">⚾</div>No picks posted yet. Check back after 9 AM ET.</div>';
+    document.getElementById('date-label').textContent = 'No picks yet today';
+    document.getElementById('record-bar').textContent = 'KatzKapper MLB';
+  }
+}
+
+function renderPage(data) {
+  const record = data.season_record || {};
+  const wins = record.wins || 0;
+  const losses = record.losses || 0;
+  const pushes = record.pushes || 0;
+  const pnl = record.units_pnl || 0;
+  const pnlClass = pnl >= 0 ? 'pnl-pos' : 'pnl-neg';
+  const pnlStr = (pnl >= 0 ? '+' : '') + pnl.toFixed(1) + 'u';
+
+  document.getElementById('record-bar').innerHTML =
+    wins + 'W-' + losses + 'L-' + pushes + 'P &nbsp;|&nbsp; P&L: <span class="' + pnlClass + '">' + pnlStr + '</span>';
+
+  const date = data.date || '';
+  const updated = data.updated || '';
+  document.getElementById('date-label').textContent = 'Picks for ' + date;
+  document.getElementById('updated-label').textContent = 'Updated: ' + updated;
+
+  const bets = data.bets || [];
+  if (bets.length === 0) {
+    document.getElementById('main-content').innerHTML =
+      '<div class="no-picks"><div class="icon">⚾</div>No qualifying picks today. Check back after 11 AM ET for TB props.</div>';
+    return;
+  }
+
+  const threeU = bets.filter(b => b.units === 3);
+  const twoU   = bets.filter(b => b.units === 2);
+  const oneU   = bets.filter(b => b.units === 1);
+
+  let html = '';
+  if (threeU.length) html += renderSection('3-UNIT PLAYS', threeU);
+  if (twoU.length)   html += renderSection('2-UNIT PLAYS', twoU);
+  if (oneU.length)   html += renderSection('1-UNIT PLAYS', oneU);
+
+  const total = bets.reduce((s, b) => s + b.units, 0);
+  html += '<div style="text-align:right;color:#5A7A9A;font-size:12px;margin-top:12px;">Total units at risk: ' + total + 'u</div>';
+
+  document.getElementById('main-content').innerHTML = html;
+}
+
+function renderSection(title, bets) {
+  let html = '<div class="section-header">' + title + '</div>';
+  bets.forEach(bet => { html += renderCard(bet); });
+  return html;
+}
+
+function renderCard(bet) {
+  const typeMap = { pitcher_k: 'K', batter_tb: 'TB', pitcher_outs: 'OUTS' };
+  const typeClass = { pitcher_k: '', batter_tb: 'tb', pitcher_outs: 'outs' };
+  const typeLabel = typeMap[bet.type] || bet.type;
+  const tClass = typeClass[bet.type] || '';
+
+  const odds = bet.odds > 0 ? '+' + bet.odds : '' + bet.odds;
+  const score = bet.score || 0;
+  const barWidth = Math.min(score, 100);
+
+  let resultBadge = '';
+  let cardClass = 'pick-card units-' + bet.units;
+  if (bet.result) {
+    cardClass += ' result-' + bet.result;
+    const rLabel = bet.result.toUpperCase();
+    resultBadge = '<span class="result-badge ' + bet.result + '">' + rLabel + '</span>';
+  }
+
+  let subLine = '';
+  if (bet.type === 'pitcher_k') {
+    subLine = 'W.Avg K: ' + (bet.w_avg_k || '?') + '  |  W.Over: ' + (bet.w_over_rate ? Math.round(bet.w_over_rate * 100) + '%' : '?');
+    if (bet.umpire) subLine += '  |  Ump: ' + bet.umpire;
+  } else if (bet.type === 'batter_tb') {
+    subLine = 'W.Avg TB: ' + (bet.w_avg_tb || '?') + '  |  Platoon: ' + (bet.platoon || 'neutral');
+  } else if (bet.type === 'pitcher_outs') {
+    subLine = 'W.Avg Outs: ' + (bet.w_avg_outs || '?') + '  |  Implied IP: ' + (bet.implied_ip || '?');
+  }
+
+  const flags = (bet.flags || []).slice(0, 2).join('  |  ');
+
+  return '<div class="' + cardClass + '">' +
+    '<div class="pick-left">' +
+      '<div class="pick-name">' +
+        '<span class="pick-type ' + tClass + '">' + typeLabel + '</span>' +
+        bet.name +
+      '</div>' +
+      '<div class="pick-line">OVER ' + bet.line + ' (' + odds + ')  &nbsp; Score: ' + score + '/100</div>' +
+      (subLine ? '<div class="pick-meta">' + subLine + '</div>' : '') +
+      (flags ? '<div class="pick-flags">' + flags + '</div>' : '') +
+    '</div>' +
+    '<div class="pick-right">' +
+      '<div class="units-badge">' + bet.units + 'u</div>' +
+      '<div class="units-label">units</div>' +
+      '<div class="score-bar-outer"><div class="score-bar-inner" style="width:' + barWidth + '%"></div></div>' +
+      resultBadge +
+    '</div>' +
+  '</div>';
+}
+
+loadPicks();
+</script>
+</body>
+</html>
