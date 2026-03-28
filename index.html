@@ -99,6 +99,12 @@
     color: #5A7A9A;
     margin-top: 4px;
   }
+  .pick-game {
+    font-size: 11px;
+    color: #7EC8E3;
+    margin-top: 3px;
+    letter-spacing: 0.5px;
+  }
   .pick-flags {
     font-size: 11px;
     color: #7A9AB8;
@@ -278,6 +284,7 @@ function renderCard(bet) {
         '<span class="pick-type ' + tClass + '">' + typeLabel + '</span>' +
         bet.name +
       '</div>' +
+      (bet.game ? '<div class="pick-game">' + bet.game + (bet.game_time ? '  &nbsp;·&nbsp;  ' + bet.game_time : '') + '</div>' : '') +
       '<div class="pick-line">OVER ' + bet.line + ' (' + odds + ')  &nbsp; Score: ' + score + '/100</div>' +
       (subLine ? '<div class="pick-meta">' + subLine + '</div>' : '') +
       (flags ? '<div class="pick-flags">' + flags + '</div>' : '') +
