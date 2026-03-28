@@ -1,12 +1,12 @@
 {
   "date": "2026-03-27",
-  "updated": "06:46 PM ET",
+  "updated": "09:56 AM ET",
   "season_record": {
-    "wins": 6,
-    "losses": 12,
-    "pushes": 0,
-    "units_pnl": -7.856,
-    "bets_placed": 18
+    "wins": 12,
+    "losses": 17,
+    "pushes": 1,
+    "units_pnl": -10.996,
+    "bets_placed": 30
   },
   "bets": [
     {
@@ -85,7 +85,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 9,
         "batting_order": 12
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Jorge Soler",
@@ -125,7 +126,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 9,
         "batting_order": 12
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Christian Walker",
@@ -164,7 +166,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 9,
         "batting_order": 12
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Javier Baez",
@@ -243,7 +246,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 6,
         "batting_order": 12
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Ramon Laureano",
@@ -282,7 +286,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 6,
         "batting_order": 12
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Miguel Andujar",
@@ -321,7 +326,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 6,
         "batting_order": 12
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Luis Severino",
@@ -362,7 +368,8 @@
         "pitcher_stuff": 6,
         "contextual": 14,
         "line_value": 10
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Michael King",
@@ -399,7 +406,8 @@
         "pitcher_stuff": 20,
         "contextual": 5,
         "line_value": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Kevin Gausman",
@@ -440,7 +448,8 @@
         "pitcher_stuff": 6,
         "contextual": 17,
         "line_value": 10
-      }
+      },
+      "result": "win"
     },
     {
       "name": "George Kirby",
@@ -479,7 +488,8 @@
         "pitcher_stuff": 6,
         "contextual": 11,
         "line_value": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Robbie Ray",
@@ -519,7 +529,8 @@
         "pitcher_stuff": 6,
         "contextual": 11,
         "line_value": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Michael King",
@@ -556,7 +567,8 @@
         "manager_leash": 14,
         "opp_contact": 6,
         "game_total": 6
-      }
+      },
+      "result": "push"
     }
   ]
 }
