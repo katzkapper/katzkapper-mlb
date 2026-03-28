@@ -162,6 +162,49 @@
     .pick-card { flex-direction: column; }
     .pick-right { text-align: left; margin-top: 10px; display: flex; gap: 12px; align-items: center; }
   }
+  .stats-section-header {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #E8873A;
+    margin: 8px 0 12px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #1E3450;
+  }
+  .stats-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .stats-table th {
+    background: #0D1B2A;
+    color: #E8873A;
+    font-weight: 700;
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #E8873A;
+  }
+  .stats-table th.right { text-align: right; }
+  .stats-table td {
+    padding: 10px 14px;
+    border-bottom: 1px solid #1E3450;
+    color: #C8D8E8;
+  }
+  .stats-table td.right { text-align: right; }
+  .stats-table tr:last-child td { border-bottom: none; }
+  .stats-table tr:nth-child(even) td { background: #141F2E; }
+  .stats-table .prop-label { font-weight: 700; color: #FFFFFF; }
+  .stats-table .pos { color: #4CAF50; font-weight: 700; }
+  .stats-table .neg { color: #E05252; font-weight: 700; }
+  .stats-total td {
+    background: #1A2D42 !important;
+    font-weight: 700;
+    color: #FFFFFF;
+    border-top: 2px solid #E8873A;
+  }
 </style>
 </head>
 <body>
@@ -181,13 +224,17 @@
   <span class="updated" id="updated-label"></span>
 </div>
 
+<div class="content" id="stats-section" style="max-width:900px;margin:0 auto 0 auto;padding:0 24px 20px 24px;"></div>
+
 <div class="content" id="main-content">
   <div class="no-picks"><div class="icon">⚾</div>Loading picks...</div>
 </div>
 
+
 <div class="footer">
   KatzKapper MLB Prop Model &nbsp;|&nbsp; @KatzKapper on X
 </div>
+
 
 <script>
 async function loadPicks() {
@@ -239,9 +286,73 @@ function renderPage(data) {
   const total = bets.reduce((s, b) => s + b.units, 0);
   html += '<div style="text-align:right;color:#5A7A9A;font-size:12px;margin-top:12px;">Total units at risk: ' + total + 'u</div>';
 
+  renderStatsTable(data);
   document.getElementById('main-content').innerHTML = html;
 }
+function renderStatsTable(data) {
+  const breakdown = data.season_breakdown || {};
+  const record    = data.season_record || {};
+  const section   = document.getElementById('stats-section');
 
+  if (!section) return;
+
+  const types = ['pitcher_k', 'pitcher_outs', 'batter_tb'];
+  const rows  = types.map(t => breakdown[t]).filter(Boolean);
+
+  if (rows.length === 0) {
+    section.innerHTML = '';
+    return;
+  }
+
+  const totalWins   = rows.reduce((s, r) => s + r.wins, 0);
+  const totalLosses = rows.reduce((s, r) => s + r.losses, 0);
+  const totalPushes = rows.reduce((s, r) => s + r.pushes, 0);
+  const totalPnl    = rows.reduce((s, r) => s + r.pnl, 0);
+  const totalBets   = rows.reduce((s, r) => s + r.bets, 0);
+  const totalDecided = totalWins + totalLosses;
+  const totalWinPct = totalDecided > 0 ? (totalWins / totalDecided * 100).toFixed(1) : '0.0';
+  const totalPnlStr = (totalPnl >= 0 ? '+' : '') + totalPnl.toFixed(2) + 'u';
+  const totalPnlClass = totalPnl >= 0 ? 'pos' : 'neg';
+
+  let tableRows = '';
+  rows.forEach(function(r) {
+    const pnlStr   = (r.pnl >= 0 ? '+' : '') + r.pnl.toFixed(2) + 'u';
+    const pnlClass = r.pnl >= 0 ? 'pos' : 'neg';
+    const record   = r.wins + 'W-' + r.losses + 'L' + (r.pushes > 0 ? '-' + r.pushes + 'P' : '');
+    tableRows += '<tr>' +
+      '<td class="prop-label">' + r.label + '</td>' +
+      '<td class="right">' + r.bets + '</td>' +
+      '<td class="right">' + record + '</td>' +
+      '<td class="right">' + r.win_pct + '%</td>' +
+      '<td class="right ' + pnlClass + '">' + pnlStr + '</td>' +
+      '<td class="right">' + (r.roi >= 0 ? '+' : '') + r.roi + '%</td>' +
+    '</tr>';
+  });
+
+  section.innerHTML =
+    '<div class="stats-section-header">SEASON STATS BY PROP TYPE</div>' +
+    '<table class="stats-table">' +
+      '<thead><tr>' +
+        '<th>Prop Type</th>' +
+        '<th class="right">Bets</th>' +
+        '<th class="right">Record</th>' +
+        '<th class="right">Win %</th>' +
+        '<th class="right">P&amp;L</th>' +
+        '<th class="right">ROI</th>' +
+      '</tr></thead>' +
+      '<tbody>' +
+        tableRows +
+        '<tr class="stats-total">' +
+          '<td>TOTAL</td>' +
+          '<td class="right">' + totalBets + '</td>' +
+          '<td class="right">' + totalWins + 'W-' + totalLosses + 'L' + (totalPushes > 0 ? '-' + totalPushes + 'P' : '') + '</td>' +
+          '<td class="right">' + totalWinPct + '%</td>' +
+          '<td class="right ' + totalPnlClass + '">' + totalPnlStr + '</td>' +
+          '<td class="right"></td>' +
+        '</tr>' +
+      '</tbody>' +
+    '</table>';
+}
 function renderSection(title, bets) {
   let html = '<div class="section-header">' + title + '</div>';
   bets.forEach(bet => { html += renderCard(bet); });
