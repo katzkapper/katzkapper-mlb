@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-27",
-  "updated": "09:58 AM ET",
+  "date": "2026-03-28",
+  "updated": "11:40 AM ET",
   "season_record": {
     "wins": 13,
     "losses": 18,
@@ -10,99 +10,19 @@
   },
   "bets": [
     {
-      "name": "Mauricio Dubon",
+      "name": "Max Muncy (2002)",
       "type": "batter_tb",
-      "team": "ATL",
-      "opponent": "Cole Ragans",
+      "team": "TOR",
+      "opponent": "Jeffrey Springs",
       "line": 0.5,
-      "odds": -140,
-      "raw_score": 86,
-      "score": 86,
+      "odds": -114,
+      "raw_score": 78,
+      "score": 78,
       "units": 3,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": 1.0,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot vs this pitcher handedness"
-      ],
-      "breakdown": {
-        "batter_form": 25,
-        "platoon": 20,
-        "pitcher_vulnerability": 20,
-        "park_weather": 9,
-        "batting_order": 12
-      },
-      "result": "win"
-    },
-    {
-      "name": "Yoan Moncada",
-      "type": "batter_tb",
-      "team": "HOU",
-      "opponent": "Yusei Kikuchi",
-      "line": 0.5,
-      "odds": -136,
-      "raw_score": 86,
-      "score": 86,
-      "units": 3,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 1.0,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot vs this pitcher handedness"
-      ],
-      "breakdown": {
-        "batter_form": 25,
-        "platoon": 20,
-        "pitcher_vulnerability": 20,
-        "park_weather": 9,
-        "batting_order": 12
-      },
-      "result": "loss"
-    },
-    {
-      "name": "Jorge Soler",
-      "type": "batter_tb",
-      "team": "HOU",
-      "opponent": "Yusei Kikuchi",
-      "line": 0.5,
-      "odds": -140,
-      "raw_score": 86,
-      "score": 86,
-      "units": 3,
-      "trend": "cold",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 1.333,
       "w_avg_outs": null,
       "implied_ip": null,
       "umpire": "",
@@ -119,26 +39,69 @@
       "mv_recommendation": "proceed",
       "flags": [
         "Hot vs this pitcher handedness",
-        "Hot in this series"
+        "Cold weather game (34.6F)"
       ],
       "breakdown": {
         "batter_form": 25,
         "platoon": 20,
         "pitcher_vulnerability": 20,
-        "park_weather": 9,
+        "park_weather": 1,
         "batting_order": 12
       },
-      "result": "loss"
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
+    },
+    {
+      "name": "Kazuma Okamoto",
+      "type": "batter_tb",
+      "team": "TOR",
+      "opponent": "Jeffrey Springs",
+      "line": 0.5,
+      "odds": -172,
+      "raw_score": 78,
+      "score": 78,
+      "units": 3,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 1.0,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot vs this pitcher handedness",
+        "Cold weather game (34.6F)"
+      ],
+      "breakdown": {
+        "batter_form": 25,
+        "platoon": 20,
+        "pitcher_vulnerability": 20,
+        "park_weather": 1,
+        "batting_order": 12
+      },
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
     },
     {
       "name": "Christian Walker",
       "type": "batter_tb",
       "team": "HOU",
-      "opponent": "Yusei Kikuchi",
+      "opponent": "Reid Detmers",
       "line": 0.5,
-      "odds": -168,
-      "raw_score": 84,
-      "score": 84,
+      "odds": -154,
+      "raw_score": 78,
+      "score": 78,
       "units": 3,
       "trend": "hot",
       "w_avg_k": null,
@@ -159,27 +122,29 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Hot vs this pitcher handedness"
+        "Cold vs this pitcher handedness",
+        "Hot in this series"
       ],
       "breakdown": {
-        "batter_form": 23,
+        "batter_form": 17,
         "platoon": 20,
         "pitcher_vulnerability": 20,
         "park_weather": 9,
         "batting_order": 12
       },
-      "result": "loss"
+      "game": "LAA @ HOU",
+      "game_time": "7:10 PM ET"
     },
     {
-      "name": "Javier Baez",
+      "name": "Julio Rodriguez",
       "type": "batter_tb",
-      "team": "SD",
-      "opponent": "Framber Valdez",
+      "team": "SEA",
+      "opponent": "Joey Cantillo",
       "line": 0.5,
-      "odds": -131,
-      "raw_score": 83,
-      "score": 83,
-      "units": 3,
+      "odds": -286,
+      "raw_score": 77,
+      "score": 77,
+      "units": 2,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
@@ -199,31 +164,34 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Hot vs this pitcher handedness"
+        "Hot vs this pitcher handedness",
+        "Pitcher's park (PF=0.96)",
+        "Low game total (7.0) - fewer PA expected"
       ],
       "breakdown": {
         "batter_form": 25,
         "platoon": 20,
         "pitcher_vulnerability": 20,
-        "park_weather": 6,
-        "batting_order": 12
+        "park_weather": 3,
+        "batting_order": 9
       },
-      "result": "loss"
+      "game": "CLE @ SEA",
+      "game_time": "9:40 PM ET"
     },
     {
-      "name": "Dillon Dingler",
+      "name": "Chase DeLauter",
       "type": "batter_tb",
-      "team": "SD",
-      "opponent": "Framber Valdez",
-      "line": 0.5,
-      "odds": -159,
-      "raw_score": 83,
-      "score": 83,
-      "units": 3,
+      "team": "SEA",
+      "opponent": "Joey Cantillo",
+      "line": 1.5,
+      "odds": 116,
+      "raw_score": 77,
+      "score": 77,
+      "units": 2,
       "trend": "hot",
       "w_avg_k": null,
       "w_over_rate": null,
-      "w_avg_tb": 2.667,
+      "w_avg_tb": 3.333,
       "w_avg_outs": null,
       "implied_ip": null,
       "umpire": "",
@@ -240,116 +208,39 @@
       "mv_recommendation": "proceed",
       "flags": [
         "Cold vs this pitcher handedness",
-        "Hot in this series"
+        "Hot in this series",
+        "Pitcher's park (PF=0.96)",
+        "Low game total (7.0) - fewer PA expected"
       ],
       "breakdown": {
         "batter_form": 25,
         "platoon": 20,
         "pitcher_vulnerability": 20,
-        "park_weather": 6,
-        "batting_order": 12
+        "park_weather": 3,
+        "batting_order": 9
       },
-      "result": "win"
+      "game": "CLE @ SEA",
+      "game_time": "9:40 PM ET"
     },
     {
-      "name": "Ramon Laureano",
-      "type": "batter_tb",
-      "team": "SD",
-      "opponent": "Framber Valdez",
-      "line": 0.5,
-      "odds": -166,
-      "raw_score": 83,
-      "score": 83,
-      "units": 3,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 1.0,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot vs this pitcher handedness"
-      ],
-      "breakdown": {
-        "batter_form": 25,
-        "platoon": 20,
-        "pitcher_vulnerability": 20,
-        "park_weather": 6,
-        "batting_order": 12
-      },
-      "result": "win"
-    },
-    {
-      "name": "Miguel Andujar",
-      "type": "batter_tb",
-      "team": "SD",
-      "opponent": "Framber Valdez",
-      "line": 0.5,
-      "odds": -161,
-      "raw_score": 83,
-      "score": 83,
-      "units": 3,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 1.0,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot vs this pitcher handedness"
-      ],
-      "breakdown": {
-        "batter_form": 25,
-        "platoon": 20,
-        "pitcher_vulnerability": 20,
-        "park_weather": 6,
-        "batting_order": 12
-      },
-      "result": "win"
-    },
-    {
-      "name": "Luis Severino",
-      "type": "pitcher_k",
-      "team": "ATH",
-      "opponent": "TOR",
-      "line": 3.5,
-      "odds": -122,
-      "raw_score": 73,
-      "score": 73,
+      "name": "Jacob deGrom",
+      "type": "pitcher_outs",
+      "team": "TEX",
+      "opponent": "PHI",
+      "line": 16.5,
+      "odds": -115,
+      "raw_score": 76,
+      "score": 76,
       "units": 2,
       "trend": "flat",
-      "w_avg_k": 6.25,
+      "w_avg_k": null,
       "w_over_rate": 1.0,
       "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "Marvin Hudson",
-      "ump_tier": "K Booster (Tier 1)",
-      "effective_line": 2.0,
+      "w_avg_outs": 17.0,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
       "platoon": "",
       "movement_summary": "No data",
       "movement_penalty": 0,
@@ -360,28 +251,71 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Favorable lineup handedness",
-        "BOOST: Elite K zone umpire - Marvin Hudson",
-        "Extra rest (7 days)"
+        "Weak bullpen (ERA 5.63) - SP goes deeper",
+        "High K% opponent - more pitches per PA, shorter outing",
+        "Low game total (7.0) - pitcher duel expected"
       ],
       "breakdown": {
         "pitcher_form": 25,
-        "opp_k_vulnerability": 18,
-        "pitcher_stuff": 6,
-        "contextual": 14,
-        "line_value": 10
+        "pitch_efficiency": 14,
+        "manager_leash": 27,
+        "opp_contact": 1,
+        "game_total": 9
       },
-      "result": "loss"
+      "game": "TEX @ PHI",
+      "game_time": "4:05 PM ET"
     },
     {
-      "name": "Michael King",
+      "name": "Alejandro Kirk",
+      "type": "batter_tb",
+      "team": "TOR",
+      "opponent": "Jeffrey Springs",
+      "line": 0.5,
+      "odds": -278,
+      "raw_score": 76,
+      "score": 76,
+      "units": 2,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 0.933,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot vs this pitcher handedness",
+        "Cold weather game (34.6F)"
+      ],
+      "breakdown": {
+        "batter_form": 23,
+        "platoon": 20,
+        "pitcher_vulnerability": 20,
+        "park_weather": 1,
+        "batting_order": 12
+      },
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
+    },
+    {
+      "name": "Dylan Cease",
       "type": "pitcher_k",
-      "team": "SD",
-      "opponent": "DET",
-      "line": 5.5,
-      "odds": -160,
-      "raw_score": 72,
-      "score": 72,
+      "team": "TOR",
+      "opponent": "ATH",
+      "line": 5.0,
+      "odds": -110,
+      "raw_score": 75,
+      "score": 75,
       "units": 2,
       "trend": "flat",
       "w_avg_k": 6.0,
@@ -391,45 +325,7 @@
       "implied_ip": null,
       "umpire": "",
       "ump_tier": "Average (Tier 3)",
-      "effective_line": 5.5,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [],
-      "breakdown": {
-        "pitcher_form": 25,
-        "opp_k_vulnerability": 14,
-        "pitcher_stuff": 20,
-        "contextual": 5,
-        "line_value": 8
-      },
-      "result": "win"
-    },
-    {
-      "name": "Kevin Gausman",
-      "type": "pitcher_k",
-      "team": "TOR",
-      "opponent": "ATH",
-      "line": 5.5,
-      "odds": -132,
-      "raw_score": 71,
-      "score": 71,
-      "units": 2,
-      "trend": "cooling",
-      "w_avg_k": 5.0,
-      "w_over_rate": 0.75,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "Marvin Hudson",
-      "ump_tier": "K Booster (Tier 1)",
-      "effective_line": 4.0,
+      "effective_line": 5.0,
       "platoon": "",
       "movement_summary": "No data",
       "movement_penalty": 0,
@@ -440,26 +336,232 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Favorable lineup handedness",
-        "BOOST: Elite K zone umpire - Marvin Hudson",
+        "Extra rest (6 days)"
+      ],
+      "breakdown": {
+        "pitcher_form": 25,
+        "opp_k_vulnerability": 25,
+        "pitcher_stuff": 6,
+        "contextual": 11,
+        "line_value": 8
+      },
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
+    },
+    {
+      "name": "Cade Horton",
+      "type": "pitcher_outs",
+      "team": "CHC",
+      "opponent": "WSH",
+      "line": 16.5,
+      "odds": -115,
+      "raw_score": 75,
+      "score": 75,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 1.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 17.2,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Weak bullpen (ERA 8.0) - SP goes deeper",
+        "Extra rest (6 days)"
+      ],
+      "breakdown": {
+        "pitcher_form": 25,
+        "pitch_efficiency": 14,
+        "manager_leash": 27,
+        "opp_contact": 6,
+        "game_total": 3
+      },
+      "game": "WSH @ CHC",
+      "game_time": "2:20 PM ET"
+    },
+    {
+      "name": "Brent Rooker",
+      "type": "batter_tb",
+      "team": "TOR",
+      "opponent": "Jeffrey Springs",
+      "line": 0.5,
+      "odds": -147,
+      "raw_score": 75,
+      "score": 75,
+      "units": 2,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 0.933,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Regression due - cold in series so far",
+        "Cold weather game (34.6F)"
+      ],
+      "breakdown": {
+        "batter_form": 22,
+        "platoon": 20,
+        "pitcher_vulnerability": 20,
+        "park_weather": 1,
+        "batting_order": 12
+      },
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
+    },
+    {
+      "name": "Jake Meyers",
+      "type": "batter_tb",
+      "team": "HOU",
+      "opponent": "Reid Detmers",
+      "line": 0.5,
+      "odds": -159,
+      "raw_score": 73,
+      "score": 73,
+      "units": 2,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 0.4,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot vs this pitcher handedness"
+      ],
+      "breakdown": {
+        "batter_form": 12,
+        "platoon": 20,
+        "pitcher_vulnerability": 20,
+        "park_weather": 9,
+        "batting_order": 12
+      },
+      "game": "LAA @ HOU",
+      "game_time": "7:10 PM ET"
+    },
+    {
+      "name": "Sonny Gray",
+      "type": "pitcher_k",
+      "team": "BOS",
+      "opponent": "CIN",
+      "line": 5.0,
+      "odds": -110,
+      "raw_score": 72,
+      "score": 72,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": 6.75,
+      "w_over_rate": 1.0,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "Average (Tier 3)",
+      "effective_line": 5.0,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Extra rest (6 days)"
+      ],
+      "breakdown": {
+        "pitcher_form": 25,
+        "opp_k_vulnerability": 25,
+        "pitcher_stuff": 6,
+        "contextual": 8,
+        "line_value": 8
+      },
+      "game": "BOS @ CIN",
+      "game_time": "4:10 PM ET"
+    },
+    {
+      "name": "David Peterson",
+      "type": "pitcher_k",
+      "team": "NYM",
+      "opponent": "PIT",
+      "line": 4.5,
+      "odds": -167,
+      "raw_score": 72,
+      "score": 72,
+      "units": 2,
+      "trend": "cooling",
+      "w_avg_k": 5.5,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "Average (Tier 3)",
+      "effective_line": 4.5,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
         "Extra rest (6 days)"
       ],
       "breakdown": {
         "pitcher_form": 20,
-        "opp_k_vulnerability": 18,
+        "opp_k_vulnerability": 25,
         "pitcher_stuff": 6,
-        "contextual": 17,
+        "contextual": 11,
         "line_value": 10
       },
-      "result": "win"
+      "game": "PIT @ NYM",
+      "game_time": "4:10 PM ET"
     },
     {
-      "name": "George Kirby",
+      "name": "Aaron Nola",
       "type": "pitcher_k",
-      "team": "SEA",
-      "opponent": "CLE",
+      "team": "PHI",
+      "opponent": "TEX",
       "line": 5.5,
-      "odds": -130,
+      "odds": 115,
       "raw_score": 70,
       "score": 70,
       "units": 2,
@@ -491,27 +593,28 @@
         "contextual": 11,
         "line_value": 8
       },
-      "result": "win"
+      "game": "TEX @ PHI",
+      "game_time": "4:05 PM ET"
     },
     {
-      "name": "Robbie Ray",
+      "name": "Eury P\u00e9rez",
       "type": "pitcher_k",
-      "team": "SF",
-      "opponent": "NYY",
-      "line": 5.5,
-      "odds": -154,
-      "raw_score": 69,
-      "score": 69,
+      "team": "MIA",
+      "opponent": "COL",
+      "line": 5.0,
+      "odds": -110,
+      "raw_score": 70,
+      "score": 70,
       "units": 2,
-      "trend": "flat",
-      "w_avg_k": 6.0,
-      "w_over_rate": 1.0,
+      "trend": "cooling",
+      "w_avg_k": 5.75,
+      "w_over_rate": 0.75,
       "w_avg_tb": null,
       "w_avg_outs": null,
       "implied_ip": null,
-      "umpire": "Chad Fairchild",
+      "umpire": "",
       "ump_tier": "Average (Tier 3)",
-      "effective_line": 5.7,
+      "effective_line": 5.0,
       "platoon": "",
       "movement_summary": "No data",
       "movement_penalty": 0,
@@ -522,28 +625,28 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Unfavorable lineup handedness",
-        "Extra rest (6 days)"
+        "Extra rest (8 days)"
       ],
       "breakdown": {
-        "pitcher_form": 25,
-        "opp_k_vulnerability": 21,
+        "pitcher_form": 20,
+        "opp_k_vulnerability": 25,
         "pitcher_stuff": 6,
         "contextual": 11,
-        "line_value": 6
+        "line_value": 8
       },
-      "result": "loss"
+      "game": "COL @ MIA",
+      "game_time": "4:10 PM ET"
     },
     {
-      "name": "Michael King",
+      "name": "Eduardo Rodriguez",
       "type": "pitcher_outs",
-      "team": "SD",
-      "opponent": "DET",
+      "team": "AZ",
+      "opponent": "LAD",
       "line": 15.0,
       "odds": -115,
-      "raw_score": 65,
-      "score": 65,
-      "units": 1,
+      "raw_score": 68,
+      "score": 68,
+      "units": 2,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": 1.0,
@@ -562,15 +665,102 @@
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
+      "flags": [
+        "Low K% opponent - contact hitters conserve pitch count"
+      ],
+      "breakdown": {
+        "pitcher_form": 25,
+        "pitch_efficiency": 14,
+        "manager_leash": 14,
+        "opp_contact": 12,
+        "game_total": 3
+      },
+      "game": "AZ @ LAD",
+      "game_time": "9:10 PM ET"
+    },
+    {
+      "name": "Miles Mikolas",
+      "type": "pitcher_outs",
+      "team": "WSH",
+      "opponent": "CHC",
+      "line": 16.5,
+      "odds": -115,
+      "raw_score": 62,
+      "score": 62,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 1.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 17.0,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
       "flags": [],
       "breakdown": {
         "pitcher_form": 25,
         "pitch_efficiency": 14,
         "manager_leash": 14,
         "opp_contact": 6,
-        "game_total": 6
+        "game_total": 3
       },
-      "result": "push"
+      "game": "WSH @ CHC",
+      "game_time": "2:20 PM ET"
+    },
+    {
+      "name": "Jeffrey Springs",
+      "type": "pitcher_outs",
+      "team": "ATH",
+      "opponent": "TOR",
+      "line": 16.5,
+      "odds": -115,
+      "raw_score": 59,
+      "score": 59,
+      "units": 1,
+      "trend": "cold",
+      "w_avg_k": null,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": 15.0,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Short last outing (under 5 IP)",
+        "Elite pitch efficiency (3.44 p/out)",
+        "Strong bullpen (ERA 3.12) - early hook risk",
+        "Extra rest (6 days)",
+        "Low K% opponent - contact hitters conserve pitch count"
+      ],
+      "breakdown": {
+        "pitcher_form": 9,
+        "pitch_efficiency": 27,
+        "manager_leash": 8,
+        "opp_contact": 12,
+        "game_total": 3
+      },
+      "game": "ATH @ TOR",
+      "game_time": "3:07 PM ET"
     }
   ]
 }
