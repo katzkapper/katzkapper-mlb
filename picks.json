@@ -1,12 +1,12 @@
 {
   "date": "2026-03-27",
-  "updated": "09:56 AM ET",
+  "updated": "09:58 AM ET",
   "season_record": {
-    "wins": 12,
-    "losses": 17,
+    "wins": 13,
+    "losses": 18,
     "pushes": 1,
-    "units_pnl": -10.996,
-    "bets_placed": 30
+    "units_pnl": -11.853,
+    "bets_placed": 32
   },
   "bets": [
     {
@@ -46,7 +46,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 9,
         "batting_order": 12
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Yoan Moncada",
@@ -206,7 +207,8 @@
         "pitcher_vulnerability": 20,
         "park_weather": 6,
         "batting_order": 12
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Dillon Dingler",
