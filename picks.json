@@ -1,12 +1,12 @@
 {
   "date": "2026-03-28",
-  "updated": "11:16 AM ET",
+  "updated": "11:17 AM ET",
   "season_record": {
     "wins": 21,
-    "losses": 26,
+    "losses": 27,
     "pushes": 2,
-    "units_pnl": -12.929,
-    "bets_placed": 49
+    "units_pnl": -15.929,
+    "bets_placed": 50
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -32,12 +32,12 @@
     "batter_tb": {
       "label": "Total Bases",
       "wins": 10,
-      "losses": 13,
+      "losses": 14,
       "pushes": 0,
-      "win_pct": 43.5,
-      "pnl": -11.25,
-      "roi": -18.1,
-      "bets": 23
+      "win_pct": 41.7,
+      "pnl": -14.25,
+      "roi": -21.9,
+      "bets": 24
     }
   },
   "bets": [
@@ -167,7 +167,8 @@
         "batting_order": 12
       },
       "game": "ATH @ TOR",
-      "game_time": "3:07 PM ET"
+      "game_time": "3:07 PM ET",
+      "result": "loss"
     },
     {
       "name": "Christian Walker",
