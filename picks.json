@@ -1,43 +1,43 @@
 {
   "date": "2026-03-28",
-  "updated": "01:47 PM ET",
+  "updated": "11:15 AM ET",
   "season_record": {
-    "wins": 13,
-    "losses": 18,
-    "pushes": 1,
-    "units_pnl": -11.853,
-    "bets_placed": 32
+    "wins": 21,
+    "losses": 26,
+    "pushes": 2,
+    "units_pnl": -12.929,
+    "bets_placed": 49
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 5,
-      "losses": 5,
+      "wins": 9,
+      "losses": 6,
       "pushes": 0,
-      "win_pct": 50.0,
-      "pnl": -1.27,
-      "roi": -7.5,
-      "bets": 10
+      "win_pct": 60.0,
+      "pnl": 4.71,
+      "roi": 16.8,
+      "bets": 15
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 1,
-      "losses": 4,
-      "pushes": 1,
-      "win_pct": 20.0,
-      "pnl": -5.13,
-      "roi": -73.3,
-      "bets": 6
+      "wins": 2,
+      "losses": 7,
+      "pushes": 2,
+      "win_pct": 22.2,
+      "pnl": -6.39,
+      "roi": -53.3,
+      "bets": 11
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 7,
-      "losses": 9,
+      "wins": 10,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 43.8,
-      "pnl": -5.45,
-      "roi": -11.8,
-      "bets": 16
+      "win_pct": 43.5,
+      "pnl": -11.25,
+      "roi": -18.1,
+      "bets": 23
     }
   },
   "bets": [
@@ -81,7 +81,8 @@
         "batting_order": 12
       },
       "game": "TEX @ PHI",
-      "game_time": "4:05 PM ET"
+      "game_time": "4:05 PM ET",
+      "result": "loss"
     },
     {
       "name": "Dylan Cease",
@@ -123,7 +124,8 @@
         "line_value": 10
       },
       "game": "ATH @ TOR",
-      "game_time": "3:07 PM ET"
+      "game_time": "3:07 PM ET",
+      "result": "win"
     },
     {
       "name": "Max Muncy (2002)",
@@ -207,7 +209,8 @@
         "batting_order": 12
       },
       "game": "LAA @ HOU",
-      "game_time": "7:10 PM ET"
+      "game_time": "7:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Julio Rodriguez",
@@ -250,7 +253,8 @@
         "batting_order": 9
       },
       "game": "CLE @ SEA",
-      "game_time": "9:40 PM ET"
+      "game_time": "9:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Chase DeLauter",
@@ -294,7 +298,8 @@
         "batting_order": 9
       },
       "game": "CLE @ SEA",
-      "game_time": "9:40 PM ET"
+      "game_time": "9:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Cade Horton",
@@ -336,7 +341,8 @@
         "game_total": 3
       },
       "game": "WSH @ CHC",
-      "game_time": "2:20 PM ET"
+      "game_time": "2:20 PM ET",
+      "result": "win"
     },
     {
       "name": "David Peterson",
@@ -379,7 +385,8 @@
         "line_value": 10
       },
       "game": "PIT @ NYM",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Trea Turner",
@@ -423,7 +430,8 @@
         "batting_order": 21
       },
       "game": "TEX @ PHI",
-      "game_time": "4:05 PM ET"
+      "game_time": "4:05 PM ET",
+      "result": "loss"
     },
     {
       "name": "Jake Meyers",
@@ -464,7 +472,8 @@
         "batting_order": 12
       },
       "game": "LAA @ HOU",
-      "game_time": "7:10 PM ET"
+      "game_time": "7:10 PM ET",
+      "result": "win"
     },
     {
       "name": "Alejandro Kirk",
@@ -506,7 +515,8 @@
         "batting_order": 8
       },
       "game": "ATH @ TOR",
-      "game_time": "3:07 PM ET"
+      "game_time": "3:07 PM ET",
+      "result": "win"
     },
     {
       "name": "Aaron Nola",
@@ -548,7 +558,8 @@
         "line_value": 8
       },
       "game": "TEX @ PHI",
-      "game_time": "4:05 PM ET"
+      "game_time": "4:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Eury P\u00e9rez",
@@ -590,7 +601,8 @@
         "line_value": 8
       },
       "game": "COL @ MIA",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "win"
     },
     {
       "name": "Michael Wacha",
@@ -629,7 +641,8 @@
         "line_value": 10
       },
       "game": "KC @ ATL",
-      "game_time": "7:15 PM ET"
+      "game_time": "7:15 PM ET",
+      "result": "win"
     },
     {
       "name": "Eduardo Rodriguez",
@@ -670,7 +683,8 @@
         "game_total": 3
       },
       "game": "AZ @ LAD",
-      "game_time": "9:10 PM ET"
+      "game_time": "9:10 PM ET",
+      "result": "push"
     },
     {
       "name": "Miles Mikolas",
@@ -709,7 +723,8 @@
         "game_total": 3
       },
       "game": "WSH @ CHC",
-      "game_time": "2:20 PM ET"
+      "game_time": "2:20 PM ET",
+      "result": "loss"
     },
     {
       "name": "Tyler Mahle",
@@ -748,7 +763,8 @@
         "game_total": 6
       },
       "game": "NYY @ SF",
-      "game_time": "7:15 PM ET"
+      "game_time": "7:15 PM ET",
+      "result": "loss"
     },
     {
       "name": "Jeffrey Springs",
@@ -793,7 +809,8 @@
         "game_total": 3
       },
       "game": "ATH @ TOR",
-      "game_time": "3:07 PM ET"
+      "game_time": "3:07 PM ET",
+      "result": "loss"
     }
   ]
 }
