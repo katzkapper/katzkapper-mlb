@@ -1,23 +1,23 @@
 {
   "date": "2026-03-29",
-  "updated": "05:40 PM ET",
+  "updated": "09:52 AM ET",
   "season_record": {
-    "wins": 24,
+    "wins": 25,
     "losses": 39,
     "pushes": 2,
-    "units_pnl": -40.679,
-    "bets_placed": 65
+    "units_pnl": -39.25,
+    "bets_placed": 66
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 10,
+      "wins": 11,
       "losses": 9,
       "pushes": 0,
-      "win_pct": 52.6,
-      "pnl": 0.28,
-      "roi": 0.8,
-      "bets": 19
+      "win_pct": 55.0,
+      "pnl": 1.71,
+      "roi": 4.5,
+      "bets": 20
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
@@ -503,7 +503,8 @@
         "line_value": 10
       },
       "game": "CLE @ SEA",
-      "game_time": "7:20 PM ET"
+      "game_time": "7:20 PM ET",
+      "result": "win"
     },
     {
       "name": "Shane Baz",
