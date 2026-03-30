@@ -1,12 +1,12 @@
 {
   "date": "2026-03-29",
-  "updated": "09:52 AM ET",
+  "updated": "09:53 AM ET",
   "season_record": {
-    "wins": 25,
+    "wins": 27,
     "losses": 39,
     "pushes": 2,
-    "units_pnl": -39.25,
-    "bets_placed": 66
+    "units_pnl": -35.336,
+    "bets_placed": 68
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 12,
+      "wins": 14,
       "losses": 18,
       "pushes": 0,
-      "win_pct": 40.0,
-      "pnl": -23.57,
-      "roi": -28.4,
-      "bets": 30
+      "win_pct": 43.8,
+      "pnl": -19.65,
+      "roi": -22.1,
+      "bets": 32
     }
   },
   "bets": [
@@ -254,7 +254,8 @@
         "batting_order": 12
       },
       "game": "BOS @ CIN",
-      "game_time": "1:40 PM ET"
+      "game_time": "1:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Elly De La Cruz",
@@ -337,7 +338,8 @@
         "batting_order": 12
       },
       "game": "CWS @ MIL",
-      "game_time": "2:10 PM ET"
+      "game_time": "2:10 PM ET",
+      "result": "win"
     },
     {
       "name": "William Contreras",
