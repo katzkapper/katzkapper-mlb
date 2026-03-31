@@ -1,43 +1,43 @@
 {
   "date": "2026-03-30",
-  "updated": "06:27 PM ET",
+  "updated": "09:14 AM ET",
   "season_record": {
-    "wins": 27,
-    "losses": 39,
+    "wins": 31,
+    "losses": 49,
     "pushes": 2,
-    "units_pnl": -35.336,
-    "bets_placed": 68
+    "units_pnl": -46.957,
+    "bets_placed": 82
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 11,
-      "losses": 9,
+      "wins": 12,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 55.0,
-      "pnl": 1.71,
-      "roi": 4.5,
-      "bets": 20
+      "win_pct": 48.0,
+      "pnl": -3.82,
+      "roi": -8.1,
+      "bets": 25
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 2,
-      "losses": 12,
+      "wins": 3,
+      "losses": 16,
       "pushes": 2,
-      "win_pct": 14.3,
-      "pnl": -17.39,
-      "roi": -75.6,
-      "bets": 16
+      "win_pct": 15.8,
+      "pnl": -23.96,
+      "roi": -72.6,
+      "bets": 21
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 14,
-      "losses": 18,
+      "wins": 16,
+      "losses": 20,
       "pushes": 0,
-      "win_pct": 43.8,
-      "pnl": -19.65,
-      "roi": -22.1,
-      "bets": 32
+      "win_pct": 44.4,
+      "pnl": -19.17,
+      "roi": -20.0,
+      "bets": 36
     }
   },
   "bets": [
@@ -82,7 +82,8 @@
         "batting_order": 21
       },
       "game": "WSH @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Michael Busch",
@@ -127,7 +128,8 @@
         "batting_order": 15
       },
       "game": "LAA @ CHC",
-      "game_time": "7:40 PM ET"
+      "game_time": "7:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Kyle Leahy",
@@ -166,7 +168,8 @@
         "line_value": 10
       },
       "game": "NYM @ STL",
-      "game_time": "7:45 PM ET"
+      "game_time": "7:45 PM ET",
+      "result": "loss"
     },
     {
       "name": "Taijuan Walker",
@@ -207,7 +210,8 @@
         "game_total": 3
       },
       "game": "WSH @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Lance McCullers Jr.",
@@ -248,7 +252,8 @@
         "game_total": 3
       },
       "game": "BOS @ HOU",
-      "game_time": "8:10 PM ET"
+      "game_time": "8:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Luis Castillo",
@@ -290,7 +295,8 @@
         "line_value": 10
       },
       "game": "NYY @ SEA",
-      "game_time": "9:40 PM ET"
+      "game_time": "9:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Cody Ponce",
@@ -329,7 +335,8 @@
         "line_value": 8
       },
       "game": "COL @ TOR",
-      "game_time": "7:07 PM ET"
+      "game_time": "7:07 PM ET",
+      "result": "loss"
     },
     {
       "name": "Justin Verlander",
@@ -372,7 +379,8 @@
         "line_value": 10
       },
       "game": "DET @ AZ",
-      "game_time": "10:10 PM ET"
+      "game_time": "10:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Davis Martin",
@@ -413,7 +421,8 @@
         "game_total": 6
       },
       "game": "CWS @ MIA",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -455,7 +464,8 @@
         "game_total": 3
       },
       "game": "PIT @ CIN",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Kyle Leahy",
@@ -497,7 +507,8 @@
         "game_total": 3
       },
       "game": "NYM @ STL",
-      "game_time": "7:45 PM ET"
+      "game_time": "7:45 PM ET",
+      "result": "win"
     },
     {
       "name": "Kris Bubic",
@@ -538,7 +549,8 @@
         "line_value": 8
       },
       "game": "MIN @ KC",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Pete Crow-Armstrong",
@@ -580,7 +592,8 @@
         "batting_order": 15
       },
       "game": "LAA @ CHC",
-      "game_time": "7:40 PM ET"
+      "game_time": "7:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "George Springer",
@@ -624,7 +637,8 @@
         "batting_order": 21
       },
       "game": "COL @ TOR",
-      "game_time": "7:07 PM ET"
+      "game_time": "7:07 PM ET",
+      "result": "win"
     }
   ]
 }
