@@ -1,12 +1,12 @@
 {
   "date": "2026-04-01",
-  "updated": "04:39 PM ET",
+  "updated": "04:41 PM ET",
   "season_record": {
-    "wins": 3,
-    "losses": 3,
+    "wins": 2,
+    "losses": 0,
     "pushes": 0,
-    "units_pnl": -1.677,
-    "bets_placed": 6
+    "units_pnl": 1.554,
+    "bets_placed": 2
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -28,16 +28,6 @@
       "pnl": 0.65,
       "roi": 64.5,
       "bets": 1
-    },
-    "batter_tb": {
-      "label": "Total Bases",
-      "wins": 1,
-      "losses": 3,
-      "pushes": 0,
-      "win_pct": 25.0,
-      "pnl": -3.23,
-      "roi": -64.6,
-      "bets": 4
     }
   },
   "bets": [
