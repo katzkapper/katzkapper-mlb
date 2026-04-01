@@ -1,43 +1,43 @@
 {
   "date": "2026-03-31",
-  "updated": "04:26 PM ET",
+  "updated": "09:10 AM ET",
   "season_record": {
-    "wins": 31,
-    "losses": 49,
+    "wins": 34,
+    "losses": 54,
     "pushes": 2,
-    "units_pnl": -46.957,
-    "bets_placed": 82
+    "units_pnl": -49.401,
+    "bets_placed": 90
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 12,
-      "losses": 13,
+      "losses": 14,
       "pushes": 0,
-      "win_pct": 48.0,
-      "pnl": -3.82,
-      "roi": -8.1,
-      "bets": 25
+      "win_pct": 46.2,
+      "pnl": -4.82,
+      "roi": -10.0,
+      "bets": 26
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 3,
-      "losses": 16,
+      "wins": 5,
+      "losses": 19,
       "pushes": 2,
-      "win_pct": 15.8,
-      "pnl": -23.96,
-      "roi": -72.6,
-      "bets": 21
+      "win_pct": 20.8,
+      "pnl": -26.22,
+      "roi": -61.0,
+      "bets": 26
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 16,
-      "losses": 20,
+      "wins": 17,
+      "losses": 21,
       "pushes": 0,
-      "win_pct": 44.4,
-      "pnl": -19.17,
-      "roi": -20.0,
-      "bets": 36
+      "win_pct": 44.7,
+      "pnl": -18.35,
+      "roi": -18.5,
+      "bets": 38
     }
   },
   "bets": [
@@ -88,7 +88,8 @@
       },
       "game": "CLE @ LAD",
       "game_time": "10:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Max Fried",
@@ -133,7 +134,8 @@
       },
       "game": "NYY @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Logan Gilbert",
@@ -180,7 +182,8 @@
       },
       "game": "NYY @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Hunter Brown",
@@ -227,7 +230,8 @@
       },
       "game": "BOS @ HOU",
       "game_time": "8:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Max Scherzer",
@@ -277,7 +281,8 @@
       },
       "game": "COL @ TOR",
       "game_time": "7:07 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Brandon Nimmo",
@@ -319,7 +324,8 @@
         "platoon": 10
       },
       "game": "TEX @ BAL",
-      "game_time": "6:35 PM ET"
+      "game_time": "6:35 PM ET",
+      "result": "win"
     },
     {
       "name": "Trea Turner",
@@ -362,7 +368,8 @@
         "platoon": 10
       },
       "game": "WSH @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Germ\u00e1n M\u00e1rquez",
@@ -403,7 +410,8 @@
         "line_value": 10
       },
       "game": "SF @ SD",
-      "game_time": "9:40 PM ET"
+      "game_time": "9:40 PM ET",
+      "result": "loss"
     }
   ]
 }
