@@ -1,11 +1,11 @@
 {
   "date": "2026-03-31",
-  "updated": "09:29 AM ET",
+  "updated": "09:37 AM ET",
   "season_record": {
-    "wins": 34,
-    "losses": 54,
+    "wins": 33,
+    "losses": 55,
     "pushes": 2,
-    "units_pnl": -49.401,
+    "units_pnl": -53.601,
     "bets_placed": 90
   },
   "season_breakdown": {
@@ -21,12 +21,12 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 5,
-      "losses": 19,
+      "wins": 4,
+      "losses": 20,
       "pushes": 2,
-      "win_pct": 20.8,
-      "pnl": -26.22,
-      "roi": -61.0,
+      "win_pct": 16.7,
+      "pnl": -30.42,
+      "roi": -70.8,
       "bets": 26
     },
     "batter_tb": {
@@ -231,7 +231,7 @@
       "game": "BOS @ HOU",
       "game_time": "8:10 PM ET",
       "direction": "under",
-      "result": "win"
+      "result": "loss"
     },
     {
       "name": "Max Scherzer",
