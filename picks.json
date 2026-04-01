@@ -1,12 +1,12 @@
 {
   "date": "2026-04-01",
-  "updated": "01:27 PM ET",
+  "updated": "03:11 PM ET",
   "season_record": {
-    "wins": 33,
-    "losses": 55,
+    "wins": 34,
+    "losses": 58,
     "pushes": 2,
-    "units_pnl": -53.601,
-    "bets_placed": 90
+    "units_pnl": -56.832,
+    "bets_placed": 94
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 17,
-      "losses": 21,
+      "wins": 18,
+      "losses": 24,
       "pushes": 0,
-      "win_pct": 44.7,
-      "pnl": -18.35,
-      "roi": -18.5,
-      "bets": 38
+      "win_pct": 42.9,
+      "pnl": -21.59,
+      "roi": -20.8,
+      "bets": 42
     }
   },
   "bets": [
@@ -360,7 +360,8 @@
         "platoon": 10
       },
       "game": "ATH @ ATL",
-      "game_time": "12:15 PM ET"
+      "game_time": "12:15 PM ET",
+      "result": "loss"
     },
     {
       "name": "Andy Ibanez",
@@ -447,7 +448,8 @@
         "platoon": 6
       },
       "game": "ATH @ ATL",
-      "game_time": "12:15 PM ET"
+      "game_time": "12:15 PM ET",
+      "result": "loss"
     },
     {
       "name": "Sandy Alcantara",
@@ -530,7 +532,8 @@
         "platoon": 10
       },
       "game": "ATH @ ATL",
-      "game_time": "12:15 PM ET"
+      "game_time": "12:15 PM ET",
+      "result": "loss"
     },
     {
       "name": "Austin Riley",
@@ -575,7 +578,8 @@
         "platoon": 2
       },
       "game": "ATH @ ATL",
-      "game_time": "12:15 PM ET"
+      "game_time": "12:15 PM ET",
+      "result": "win"
     },
     {
       "name": "Yoshinobu Yamamoto",
