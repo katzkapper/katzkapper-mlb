@@ -3,10 +3,10 @@
   "updated": "09:33 PM ET",
   "season_record": {
     "wins": 2,
-    "losses": 0,
+    "losses": 2,
     "pushes": 0,
-    "units_pnl": 1.554,
-    "bets_placed": 2
+    "units_pnl": -0.446,
+    "bets_placed": 4
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -22,12 +22,12 @@
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 1,
-      "losses": 0,
+      "losses": 2,
       "pushes": 0,
-      "win_pct": 100.0,
-      "pnl": 0.65,
-      "roi": 64.5,
-      "bets": 1
+      "win_pct": 33.3,
+      "pnl": -1.35,
+      "roi": -45.2,
+      "bets": 3
     }
   },
   "bets": [
@@ -124,7 +124,8 @@
       },
       "game": "NYY @ SEA",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Sandy Alcantara",
@@ -212,7 +213,8 @@
       },
       "game": "DET @ AZ",
       "game_time": "3:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     }
   ]
 }
