@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-01",
-  "updated": "09:33 PM ET",
+  "date": "2026-04-02",
+  "updated": "12:02 PM ET",
   "season_record": {
     "wins": 2,
     "losses": 2,
@@ -32,158 +32,20 @@
   },
   "bets": [
     {
-      "name": "Freddy Peralta",
+      "name": "Cole Ragans",
       "type": "pitcher_outs",
-      "team": "NYM",
-      "opponent": "STL",
-      "line": 18.5,
-      "odds": -155,
-      "raw_score": 80,
-      "score": 80,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.48,
-      "implied_ip": 6.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Early season day 12 - pitch counts capped league-wide",
-        "Line 3.0 outs above recent avg",
-        "Very inefficient (5.33 P/out) - will exit early",
-        "4 fresh quality relievers (ERA 2.65) - quick hook very likely",
-        "Weak offense (OBP=0.289) - pitcher may go deeper"
-      ],
-      "breakdown": {
-        "season_timing": 28,
-        "recent_ip_form": 22,
-        "pitch_inefficiency": 18,
-        "bullpen_availability": 10,
-        "game_context": 2,
-        "opp_offense": 0
-      },
-      "game": "NYM @ STL",
-      "game_time": "1:15 PM ET",
-      "direction": "under",
-      "result": "win"
-    },
-    {
-      "name": "George Kirby",
-      "type": "pitcher_outs",
-      "team": "SEA",
-      "opponent": "NYY",
-      "line": 17.5,
-      "odds": 125,
-      "raw_score": 75,
-      "score": 75,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.0,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Early season day 12 - pitch counts capped league-wide",
-        "Line above recent avg",
-        "Very inefficient (5.42 P/out) - will exit early",
-        "4 fresh quality relievers (ERA 2.78) - quick hook very likely",
-        "Weak offense (OBP=0.291) - pitcher may go deeper"
-      ],
-      "breakdown": {
-        "season_timing": 28,
-        "recent_ip_form": 17,
-        "pitch_inefficiency": 18,
-        "bullpen_availability": 10,
-        "game_context": 2,
-        "opp_offense": 0
-      },
-      "game": "NYY @ SEA",
-      "game_time": "4:10 PM ET",
-      "direction": "under",
-      "result": "loss"
-    },
-    {
-      "name": "Sandy Alcantara",
-      "type": "pitcher_k",
-      "team": "MIA",
-      "opponent": "CWS",
-      "line": 3.5,
-      "odds": -110,
-      "raw_score": 73,
-      "score": 73,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": 5.75,
-      "w_over_rate": 1.0,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Unfavorable lineup handedness"
-      ],
-      "breakdown": {
-        "pitcher_stuff": 35,
-        "pitcher_form": 25,
-        "opp_k_vulnerability": 8,
-        "contextual": 0,
-        "line_value": 10
-      },
-      "game": "CWS @ MIA",
-      "game_time": "1:10 PM ET",
-      "result": "win"
-    },
-    {
-      "name": "Zac Gallen",
-      "type": "pitcher_outs",
-      "team": "AZ",
-      "opponent": "DET",
+      "team": "KC",
+      "opponent": "MIN",
       "line": 16.5,
-      "odds": -120,
-      "raw_score": 71,
-      "score": 71,
+      "odds": 100,
+      "raw_score": 76,
+      "score": 76,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 13.62,
+      "w_avg_outs": 13.8,
       "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
@@ -198,23 +60,20 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Early season day 12 - pitch counts capped league-wide",
         "Line above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
+        "Very inefficient (5.5 P/out) - will exit early",
         "Quality bullpen options available"
       ],
       "breakdown": {
-        "season_timing": 28,
-        "recent_ip_form": 17,
-        "pitch_inefficiency": 13,
-        "bullpen_availability": 7,
-        "game_context": 4,
-        "opp_offense": 2
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 24,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 9
       },
-      "game": "DET @ AZ",
-      "game_time": "3:40 PM ET",
-      "direction": "under",
-      "result": "loss"
+      "game": "MIN @ KC",
+      "game_time": "2:10 PM ET",
+      "direction": "under"
     }
   ]
 }
