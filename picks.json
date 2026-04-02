@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "updated": "12:02 PM ET",
+  "updated": "02:29 PM ET",
   "season_record": {
     "wins": 2,
     "losses": 2,
@@ -32,21 +32,60 @@
   },
   "bets": [
     {
+      "name": "Taj Bradley",
+      "type": "pitcher_k",
+      "team": "MIN",
+      "opponent": "KC",
+      "line": 4.5,
+      "odds": 105,
+      "raw_score": 84,
+      "score": 84,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": 6.25,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [],
+      "breakdown": {
+        "pitcher_stuff": 35,
+        "pitcher_form": 25,
+        "opp_k_vulnerability": 8,
+        "contextual": 6,
+        "line_value": 10
+      },
+      "game": "MIN @ KC",
+      "game_time": "2:10 PM ET"
+    },
+    {
       "name": "Cole Ragans",
       "type": "pitcher_outs",
       "team": "KC",
       "opponent": "MIN",
-      "line": 16.5,
-      "odds": 100,
-      "raw_score": 76,
-      "score": 76,
-      "units": 1,
+      "line": 17.5,
+      "odds": 110,
+      "raw_score": 82,
+      "score": 82,
+      "units": 2,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
       "w_avg_outs": 13.8,
-      "implied_ip": 5.5,
+      "implied_ip": 5.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
@@ -60,12 +99,12 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line above recent avg",
+        "Line 3.7 outs above recent avg",
         "Very inefficient (5.5 P/out) - will exit early",
         "Quality bullpen options available"
       ],
       "breakdown": {
-        "recent_ip_form": 22,
+        "recent_ip_form": 28,
         "pitch_inefficiency": 24,
         "opp_offense": 8,
         "bullpen_availability": 13,
@@ -74,6 +113,48 @@
       "game": "MIN @ KC",
       "game_time": "2:10 PM ET",
       "direction": "under"
+    },
+    {
+      "name": "Robbie Ray",
+      "type": "pitcher_k",
+      "team": "SF",
+      "opponent": "NYM",
+      "line": 5.5,
+      "odds": 100,
+      "raw_score": 67,
+      "score": 67,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": 5.5,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Low K% opponent",
+        "Extra rest (6 days)"
+      ],
+      "breakdown": {
+        "pitcher_stuff": 35,
+        "pitcher_form": 14,
+        "opp_k_vulnerability": 2,
+        "contextual": 9,
+        "line_value": 7
+      },
+      "game": "NYM @ SF",
+      "game_time": "9:45 PM ET"
     }
   ]
 }
