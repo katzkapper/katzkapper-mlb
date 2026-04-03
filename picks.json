@@ -1,33 +1,33 @@
 {
   "date": "2026-04-02",
-  "updated": "02:29 PM ET",
+  "updated": "10:33 AM ET",
   "season_record": {
-    "wins": 2,
-    "losses": 2,
+    "wins": 3,
+    "losses": 4,
     "pushes": 0,
-    "units_pnl": -0.446,
-    "bets_placed": 4
+    "units_pnl": -3.446,
+    "bets_placed": 7
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 1,
-      "losses": 0,
+      "wins": 2,
+      "losses": 1,
       "pushes": 0,
-      "win_pct": 100.0,
-      "pnl": 0.91,
-      "roi": 90.9,
-      "bets": 1
+      "win_pct": 66.7,
+      "pnl": -0.09,
+      "roi": -2.3,
+      "bets": 3
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "pushes": 0,
-      "win_pct": 33.3,
-      "pnl": -1.35,
-      "roi": -45.2,
-      "bets": 3
+      "win_pct": 25.0,
+      "pnl": -3.35,
+      "roi": -67.1,
+      "bets": 4
     }
   },
   "bets": [
@@ -68,7 +68,8 @@
         "line_value": 10
       },
       "game": "MIN @ KC",
-      "game_time": "2:10 PM ET"
+      "game_time": "2:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Cole Ragans",
@@ -112,7 +113,8 @@
       },
       "game": "MIN @ KC",
       "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Robbie Ray",
@@ -154,7 +156,8 @@
         "line_value": 7
       },
       "game": "NYM @ SF",
-      "game_time": "9:45 PM ET"
+      "game_time": "9:45 PM ET",
+      "result": "win"
     }
   ]
 }
