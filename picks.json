@@ -1,43 +1,43 @@
 {
   "date": "2026-04-04",
-  "updated": "11:03 AM ET",
+  "updated": "09:57 AM ET",
   "season_record": {
-    "wins": 3,
-    "losses": 16,
+    "wins": 7,
+    "losses": 21,
     "pushes": 0,
-    "units_pnl": -18.446,
-    "bets_placed": 19
+    "units_pnl": -19.562,
+    "bets_placed": 28
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 2,
-      "losses": 4,
+      "losses": 6,
       "pushes": 0,
-      "win_pct": 33.3,
-      "pnl": -3.09,
-      "roi": -44.2,
-      "bets": 6
+      "win_pct": 25.0,
+      "pnl": -5.09,
+      "roi": -56.6,
+      "bets": 8
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 1,
-      "losses": 8,
+      "wins": 4,
+      "losses": 10,
       "pushes": 0,
-      "win_pct": 11.1,
-      "pnl": -9.36,
-      "roi": -85.0,
-      "bets": 9
+      "win_pct": 28.6,
+      "pnl": -8.89,
+      "roi": -55.6,
+      "bets": 14
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 0,
-      "losses": 4,
+      "wins": 1,
+      "losses": 5,
       "pushes": 0,
-      "win_pct": 0.0,
-      "pnl": -6.0,
-      "roi": -100.0,
-      "bets": 4
+      "win_pct": 16.7,
+      "pnl": -5.58,
+      "roi": -62.0,
+      "bets": 6
     }
   },
   "bets": [
@@ -83,7 +83,8 @@
         "platoon": 7
       },
       "game": "PHI @ COL",
-      "game_time": "8:10 PM ET"
+      "game_time": "8:10 PM ET",
+      "result": "win"
     },
     {
       "name": "Tyler Glasnow",
@@ -130,7 +131,8 @@
       },
       "game": "LAD @ WSH",
       "game_time": "4:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Luis Morales",
@@ -175,7 +177,8 @@
       },
       "game": "HOU @ ATH",
       "game_time": "4:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Michael Soroka",
@@ -219,7 +222,8 @@
       },
       "game": "ATL @ AZ",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Bryce Harper",
@@ -263,7 +267,8 @@
         "platoon": 7
       },
       "game": "PHI @ COL",
-      "game_time": "8:10 PM ET"
+      "game_time": "8:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Kumar Rocker",
@@ -302,7 +307,8 @@
         "line_value": 10
       },
       "game": "CIN @ TEX",
-      "game_time": "7:05 PM ET"
+      "game_time": "7:05 PM ET",
+      "result": "loss"
     },
     {
       "name": "Randy V\u00e1squez",
@@ -343,7 +349,8 @@
         "line_value": 10
       },
       "game": "SD @ BOS",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Kumar Rocker",
@@ -386,7 +393,8 @@
       },
       "game": "CIN @ TEX",
       "game_time": "7:05 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Connelly Early",
@@ -432,7 +440,8 @@
       },
       "game": "SD @ BOS",
       "game_time": "4:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     }
   ]
 }
