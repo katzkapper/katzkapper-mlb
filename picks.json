@@ -1,6 +1,6 @@
 {
   "date": "2026-04-06",
-  "updated": "06:03 PM ET",
+  "updated": "06:12 PM ET",
   "season_record": {
     "wins": 15,
     "losses": 28,
@@ -349,51 +349,6 @@
       },
       "game": "PHI @ SF",
       "game_time": "9:45 PM ET"
-    },
-    {
-      "name": "Jacob deGrom",
-      "type": "pitcher_outs",
-      "team": "TEX",
-      "opponent": "SEA",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -115,
-      "raw_score": 62,
-      "score": 62,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.0,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Extra rest - may go deeper",
-        "Bullpen depleted (7 tired arms) - starter goes deep"
-      ],
-      "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_efficiency": 5,
-        "game_context": 18,
-        "opp_offense": 9,
-        "bullpen_context": 10,
-        "pitcher_stuff": 4
-      },
-      "game": "SEA @ TEX",
-      "game_time": "8:05 PM ET",
-      "direction": "over"
     },
     {
       "name": "Michael Wacha",
