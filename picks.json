@@ -1,43 +1,43 @@
 {
   "date": "2026-04-05",
-  "updated": "01:01 PM ET",
+  "updated": "09:29 PM ET",
   "season_record": {
-    "wins": 7,
-    "losses": 21,
+    "wins": 15,
+    "losses": 28,
     "pushes": 0,
-    "units_pnl": -19.562,
-    "bets_placed": 28
+    "units_pnl": -22.652,
+    "bets_placed": 43
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 2,
+      "wins": 4,
       "losses": 6,
       "pushes": 0,
-      "win_pct": 25.0,
-      "pnl": -5.09,
-      "roi": -56.6,
-      "bets": 8
+      "win_pct": 40.0,
+      "pnl": -3.26,
+      "roi": -29.6,
+      "bets": 10
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 4,
-      "losses": 10,
+      "wins": 8,
+      "losses": 11,
       "pushes": 0,
-      "win_pct": 28.6,
-      "pnl": -8.89,
-      "roi": -55.6,
-      "bets": 14
+      "win_pct": 42.1,
+      "pnl": -6.81,
+      "roi": -32.4,
+      "bets": 19
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 1,
-      "losses": 5,
+      "wins": 3,
+      "losses": 11,
       "pushes": 0,
-      "win_pct": 16.7,
-      "pnl": -5.58,
-      "roi": -62.0,
-      "bets": 6
+      "win_pct": 21.4,
+      "pnl": -12.58,
+      "roi": -54.7,
+      "bets": 14
     }
   },
   "bets": [
@@ -82,7 +82,8 @@
         "platoon": 7
       },
       "game": "PHI @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Bryce Harper",
@@ -126,7 +127,8 @@
         "platoon": 7
       },
       "game": "PHI @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Trea Turner",
@@ -170,7 +172,8 @@
         "platoon": 1
       },
       "game": "PHI @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "result": "win"
     },
     {
       "name": "Roman Anthony",
@@ -212,7 +215,8 @@
         "platoon": 7
       },
       "game": "SD @ BOS",
-      "game_time": "1:35 PM ET"
+      "game_time": "1:35 PM ET",
+      "result": "loss"
     },
     {
       "name": "Aaron Judge",
@@ -256,7 +260,8 @@
         "platoon": 1
       },
       "game": "MIA @ NYY",
-      "game_time": "1:35 PM ET"
+      "game_time": "1:35 PM ET",
+      "result": "win"
     },
     {
       "name": "Cody Bellinger",
@@ -298,7 +303,8 @@
         "platoon": 7
       },
       "game": "MIA @ NYY",
-      "game_time": "1:35 PM ET"
+      "game_time": "1:35 PM ET",
+      "result": "loss"
     },
     {
       "name": "Bryson Stott",
@@ -342,7 +348,8 @@
         "platoon": 7
       },
       "game": "PHI @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Brandon Pfaadt",
@@ -387,7 +394,8 @@
       },
       "game": "ATL @ AZ",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -431,7 +439,8 @@
         "platoon": 7
       },
       "game": "ATL @ AZ",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Chris Bassitt",
@@ -475,7 +484,8 @@
       },
       "game": "BAL @ PIT",
       "game_time": "1:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Jacob Lopez",
@@ -522,7 +532,8 @@
       },
       "game": "HOU @ ATH",
       "game_time": "4:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Kris Bubic",
@@ -568,7 +579,8 @@
       },
       "game": "MIL @ KC",
       "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Parker Messick",
@@ -609,7 +621,8 @@
         "line_value": 10
       },
       "game": "CHC @ CLE",
-      "game_time": "1:15 PM ET"
+      "game_time": "1:15 PM ET",
+      "result": "win"
     },
     {
       "name": "Kodai Senga",
@@ -650,7 +663,8 @@
         "line_value": 7
       },
       "game": "NYM @ SF",
-      "game_time": "4:05 PM ET"
+      "game_time": "4:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Lance McCullers Jr.",
@@ -696,7 +710,8 @@
       },
       "game": "HOU @ ATH",
       "game_time": "4:05 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     }
   ]
 }
