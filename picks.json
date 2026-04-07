@@ -1,33 +1,33 @@
 {
   "date": "2026-04-06",
-  "updated": "11:13 PM ET",
+  "updated": "11:14 PM ET",
   "season_record": {
     "wins": 20,
-    "losses": 30,
+    "losses": 32,
     "pushes": 0,
-    "units_pnl": -21.472,
-    "bets_placed": 50
+    "units_pnl": -23.472,
+    "bets_placed": 52
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "pushes": 0,
-      "win_pct": 36.4,
-      "pnl": -5.26,
-      "roi": -40.4,
-      "bets": 11
+      "win_pct": 33.3,
+      "pnl": -6.26,
+      "roi": -44.7,
+      "bets": 12
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 10,
-      "losses": 12,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 45.5,
-      "pnl": -6.37,
-      "roi": -26.5,
-      "bets": 22
+      "win_pct": 43.5,
+      "pnl": -7.37,
+      "roi": -29.5,
+      "bets": 23
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -220,7 +220,8 @@
       },
       "game": "HOU @ COL",
       "game_time": "8:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Christian Walker",
@@ -353,7 +354,8 @@
         "line_value": 10
       },
       "game": "PHI @ SF",
-      "game_time": "9:45 PM ET"
+      "game_time": "9:45 PM ET",
+      "result": "loss"
     },
     {
       "name": "Michael Wacha",
