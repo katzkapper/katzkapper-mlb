@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-07",
-  "updated": "11:16 AM ET",
+  "date": "2026-04-08",
+  "updated": "11:47 AM ET",
   "season_record": {
     "wins": 26,
     "losses": 34,
@@ -42,13 +42,13 @@
   },
   "bets": [
     {
-      "name": "Kyle Freeland",
+      "name": "Michael Lorenzen",
       "type": "pitcher_outs",
       "team": "COL",
       "opponent": "HOU",
-      "line": 15.5,
+      "line": 14.5,
       "sharp_signal": false,
-      "odds": -135,
+      "odds": 105,
       "raw_score": 78,
       "score": 78,
       "units": 1,
@@ -56,8 +56,8 @@
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 13.14,
-      "implied_ip": 5.2,
+      "w_avg_outs": 12.96,
+      "implied_ip": 4.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
@@ -73,7 +73,7 @@
       "flags": [
         "Line above recent avg",
         "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.394) - high pitch count likely",
+        "Elite offense (OBP=0.379) - high pitch count likely",
         "Quality bullpen options available"
       ],
       "breakdown": {
@@ -84,25 +84,24 @@
         "game_context": 9
       },
       "game": "HOU @ COL",
-      "game_time": "8:40 PM ET",
-      "direction": "under",
-      "result": "loss"
+      "game_time": "3:10 PM ET",
+      "direction": "under"
     },
     {
       "name": "Christian Walker",
       "type": "batter_tb",
       "team": "COL",
-      "opponent": "Mike Burrows",
+      "opponent": "Cristian Javier",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -118,
+      "odds": -111,
       "raw_score": 77,
       "score": 77,
       "units": 1,
       "trend": "hot",
       "w_avg_k": null,
       "w_over_rate": null,
-      "w_avg_tb": 2.533,
+      "w_avg_tb": 3.0,
       "w_avg_outs": null,
       "implied_ip": null,
       "umpire": "",
@@ -118,8 +117,9 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
+        "Cold vs this pitcher handedness",
         "Hot in this series",
-        "Very high game total (11.0) - high scoring expected",
+        "Very high game total (11.5) - high scoring expected",
         "Platoon disadvantage"
       ],
       "breakdown": {
@@ -130,24 +130,23 @@
         "platoon": 1
       },
       "game": "HOU @ COL",
-      "game_time": "8:40 PM ET",
-      "result": "win"
+      "game_time": "3:10 PM ET"
     },
     {
       "name": "Cam Smith",
       "type": "batter_tb",
       "team": "COL",
-      "opponent": "Mike Burrows",
+      "opponent": "Cristian Javier",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": 106,
+      "odds": 110,
       "raw_score": 77,
       "score": 77,
       "units": 1,
       "trend": "hot",
       "w_avg_k": null,
       "w_over_rate": null,
-      "w_avg_tb": 2.4,
+      "w_avg_tb": 2.467,
       "w_avg_outs": null,
       "implied_ip": null,
       "umpire": "",
@@ -164,7 +163,7 @@
       "mv_recommendation": "proceed",
       "flags": [
         "Hot in this series",
-        "Very high game total (11.0) - high scoring expected",
+        "Very high game total (11.5) - high scoring expected",
         "Platoon disadvantage"
       ],
       "breakdown": {
@@ -175,77 +174,29 @@
         "platoon": 1
       },
       "game": "HOU @ COL",
-      "game_time": "8:40 PM ET",
-      "result": "loss"
+      "game_time": "3:10 PM ET"
     },
     {
-      "name": "Kevin Gausman",
-      "type": "pitcher_outs",
-      "team": "TOR",
-      "opponent": "LAD",
-      "line": 17.5,
+      "name": "Mickey Moniak",
+      "type": "batter_tb",
+      "team": "COL",
+      "opponent": "Cristian Javier",
+      "line": 1.5,
       "sharp_signal": false,
-      "odds": 120,
-      "raw_score": 71,
-      "score": 71,
+      "odds": -111,
+      "raw_score": 77,
+      "score": 77,
       "units": 1,
-      "trend": "flat",
+      "trend": "hot",
       "w_avg_k": null,
       "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.9,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.366) - high pitch count likely",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 22,
-        "pitch_inefficiency": 18,
-        "opp_offense": 16,
-        "bullpen_availability": 13,
-        "game_context": 2
-      },
-      "game": "LAD @ TOR",
-      "game_time": "7:07 PM ET",
-      "direction": "under",
-      "result": "win"
-    },
-    {
-      "name": "Cristopher S\u00e1nchez",
-      "type": "pitcher_k",
-      "team": "PHI",
-      "opponent": "SF",
-      "line": 5.0,
-      "sharp_signal": false,
-      "odds": -110,
-      "raw_score": 64,
-      "score": 64,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": 6.75,
-      "w_over_rate": 0.75,
-      "w_avg_tb": null,
+      "w_avg_tb": 2.0,
       "w_avg_outs": null,
       "implied_ip": null,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
-      "platoon": "",
+      "platoon": "disadvantage",
       "movement_summary": "No data",
       "movement_penalty": 0,
       "movement_bonus": 0,
@@ -255,36 +206,37 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Trending up last 2 starts",
-        "Extra rest (6 days)"
+        "Hot vs this pitcher handedness",
+        "Hot in this series",
+        "Very high game total (11.5) - high scoring expected",
+        "Platoon disadvantage"
       ],
       "breakdown": {
-        "pitcher_stuff": 12,
-        "pitcher_form": 25,
-        "opp_k_vulnerability": 8,
-        "contextual": 9,
-        "line_value": 10
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 15,
+        "platoon": 1
       },
-      "game": "PHI @ SF",
-      "game_time": "9:45 PM ET",
-      "result": "win"
+      "game": "HOU @ COL",
+      "game_time": "3:10 PM ET"
     },
     {
-      "name": "Noah Cameron",
+      "name": "Michael McGreevy",
       "type": "pitcher_outs",
-      "team": "KC",
-      "opponent": "CLE",
+      "team": "STL",
+      "opponent": "WSH",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -110,
-      "raw_score": 62,
-      "score": 62,
+      "odds": -120,
+      "raw_score": 70,
+      "score": 70,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
-      "w_over_rate": 0.0,
+      "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 15.48,
+      "w_avg_outs": 14.82,
       "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
@@ -299,40 +251,38 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Extra rest - may go deeper",
-        "Very low game total (6.0) - pitcher's duel, starter likely goes deep",
-        "Weak offense (OBP=0.288) - pitcher goes deeper",
-        "Patient lineup (4.24 P/PA) - pitch count risk"
+        "Line above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Strong offense (OBP=0.351) - pitch count pressure",
+        "Quality bullpen options available"
       ],
       "breakdown": {
-        "recent_ip_form": 18,
-        "pitch_efficiency": 5,
-        "game_context": 20,
-        "opp_offense": 10,
-        "bullpen_context": 7,
-        "pitcher_stuff": 2
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 12,
+        "bullpen_availability": 13,
+        "game_context": 5
       },
-      "game": "KC @ CLE",
-      "game_time": "1:10 PM ET",
-      "direction": "over",
-      "result": "win"
+      "game": "STL @ WSH",
+      "game_time": "4:05 PM ET",
+      "direction": "under"
     },
     {
-      "name": "Trevor Rogers",
+      "name": "Shohei Ohtani",
       "type": "pitcher_outs",
-      "team": "BAL",
-      "opponent": "CWS",
+      "team": "LAD",
+      "opponent": "TOR",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -185,
-      "raw_score": 62,
-      "score": 62,
+      "odds": -115,
+      "raw_score": 57,
+      "score": 57,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": 0.0,
       "w_avg_tb": null,
-      "w_avg_outs": 16.08,
+      "w_avg_outs": 15.36,
       "implied_ip": 5.8,
       "umpire": "",
       "ump_tier": "",
@@ -347,68 +297,19 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Extra rest - may go deeper",
-        "Low game total (7.0) - pitcher's duel, starter likely goes deep",
-        "Weak offense (OBP=0.289) - pitcher goes deeper"
+        "Extra rest - may go deeper"
       ],
       "breakdown": {
         "recent_ip_form": 16,
         "pitch_efficiency": 5,
-        "game_context": 20,
-        "opp_offense": 12,
-        "bullpen_context": 7,
-        "pitcher_stuff": 2
-      },
-      "game": "BAL @ CWS",
-      "game_time": "3:10 PM ET",
-      "direction": "over",
-      "result": "win"
-    },
-    {
-      "name": "Jacob Misiorowski",
-      "type": "pitcher_outs",
-      "team": "MIL",
-      "opponent": "BOS",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -120,
-      "raw_score": 59,
-      "score": 59,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.3,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Extra rest - may go deeper",
-        "Low game total (7.0) - pitcher's duel, starter likely goes deep"
-      ],
-      "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_efficiency": 5,
-        "game_context": 20,
+        "game_context": 18,
         "opp_offense": 9,
         "bullpen_context": 7,
         "pitcher_stuff": 2
       },
-      "game": "MIL @ BOS",
-      "game_time": "6:45 PM ET",
-      "direction": "over",
-      "result": "win"
+      "game": "LAD @ TOR",
+      "game_time": "3:07 PM ET",
+      "direction": "over"
     }
   ]
 }
