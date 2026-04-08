@@ -1,43 +1,43 @@
 {
   "date": "2026-04-07",
-  "updated": "01:11 PM ET",
+  "updated": "10:04 AM ET",
   "season_record": {
-    "wins": 20,
-    "losses": 32,
+    "wins": 26,
+    "losses": 34,
     "pushes": 0,
-    "units_pnl": -23.472,
-    "bets_placed": 52
+    "units_pnl": -20.233,
+    "bets_placed": 60
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 4,
+      "wins": 5,
       "losses": 8,
       "pushes": 0,
-      "win_pct": 33.3,
-      "pnl": -6.26,
-      "roi": -44.7,
-      "bets": 12
+      "win_pct": 38.5,
+      "pnl": -5.35,
+      "roi": -35.6,
+      "bets": 13
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 10,
-      "losses": 13,
+      "wins": 14,
+      "losses": 14,
       "pushes": 0,
-      "win_pct": 43.5,
-      "pnl": -7.37,
-      "roi": -29.5,
-      "bets": 23
+      "win_pct": 50.0,
+      "pnl": -4.89,
+      "roi": -16.3,
+      "bets": 28
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 6,
-      "losses": 11,
+      "wins": 7,
+      "losses": 12,
       "pushes": 0,
-      "win_pct": 35.3,
-      "pnl": -9.85,
-      "roi": -37.9,
-      "bets": 17
+      "win_pct": 36.8,
+      "pnl": -10.0,
+      "roi": -35.7,
+      "bets": 19
     }
   },
   "yesterday_breakdown": {
@@ -111,7 +111,8 @@
       },
       "game": "HOU @ COL",
       "game_time": "8:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Christian Walker",
@@ -155,7 +156,8 @@
         "platoon": 1
       },
       "game": "HOU @ COL",
-      "game_time": "8:40 PM ET"
+      "game_time": "8:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Cam Smith",
@@ -199,7 +201,8 @@
         "platoon": 1
       },
       "game": "HOU @ COL",
-      "game_time": "8:40 PM ET"
+      "game_time": "8:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Kevin Gausman",
@@ -245,7 +248,8 @@
       },
       "game": "LAD @ TOR",
       "game_time": "7:07 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -288,7 +292,8 @@
         "line_value": 10
       },
       "game": "PHI @ SF",
-      "game_time": "9:45 PM ET"
+      "game_time": "9:45 PM ET",
+      "result": "win"
     },
     {
       "name": "Noah Cameron",
@@ -335,7 +340,8 @@
       },
       "game": "KC @ CLE",
       "game_time": "1:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Trevor Rogers",
@@ -381,7 +387,8 @@
       },
       "game": "BAL @ CWS",
       "game_time": "3:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Jacob Misiorowski",
@@ -426,7 +433,8 @@
       },
       "game": "MIL @ BOS",
       "game_time": "6:45 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     }
   ]
 }
