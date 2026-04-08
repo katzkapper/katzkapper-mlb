@@ -329,56 +329,6 @@ function renderStatsTable(data) {
     '</tr>';
   });
 
-  // Build yesterday row
-  const yest = data.yesterday_breakdown || {};
-  const yesterdayTypes = ['pitcher_k', 'pitcher_outs', 'batter_tb'];
-  const yesterdayRows = yesterdayTypes.map(t => yest[t]).filter(Boolean);
-  let yesterdayHtml = '';
-  if (yesterdayRows.length > 0) {
-    const yWins   = yesterdayRows.reduce((s, r) => s + r.wins, 0);
-    const yLosses = yesterdayRows.reduce((s, r) => s + r.losses, 0);
-    const yPushes = yesterdayRows.reduce((s, r) => s + r.pushes, 0);
-    const yPnl    = yesterdayRows.reduce((s, r) => s + r.pnl, 0);
-    const yPnlStr = (yPnl >= 0 ? '+' : '') + yPnl.toFixed(2) + 'u';
-    const yPnlClass = yPnl >= 0 ? 'pos' : 'neg';
-    let yRows = '';
-    yesterdayRows.forEach(function(r) {
-      const pnlStr   = (r.pnl >= 0 ? '+' : '') + r.pnl.toFixed(2) + 'u';
-      const pnlClass = r.pnl >= 0 ? 'pos' : 'neg';
-      const rec      = r.wins + 'W-' + r.losses + 'L' + (r.pushes > 0 ? '-' + r.pushes + 'P' : '');
-      yRows += '<tr>' +
-        '<td class="prop-label">' + r.label + '</td>' +
-        '<td class="right">' + r.bets + '</td>' +
-        '<td class="right">' + rec + '</td>' +
-        '<td class="right">—</td>' +
-        '<td class="right ' + pnlClass + '">' + pnlStr + '</td>' +
-        '<td class="right">—</td>' +
-      '</tr>';
-    });
-    yesterdayHtml =
-      '<div class="stats-section-header" style="margin-top:20px;">YESTERDAY'S RESULTS</div>' +
-      '<table class="stats-table">' +
-        '<thead><tr>' +
-          '<th>Prop Type</th>' +
-          '<th class="right">Bets</th>' +
-          '<th class="right">Record</th>' +
-          '<th class="right">Win %</th>' +
-          '<th class="right">P&amp;L</th>' +
-          '<th class="right">ROI</th>' +
-        '</tr></thead>' +
-        '<tbody>' +
-          yRows +
-          '<tr class="stats-total">' +
-            '<td>TOTAL</td>' +
-            '<td class="right">' + yesterdayRows.reduce((s,r)=>s+r.bets,0) + '</td>' +
-            '<td class="right">' + yWins + 'W-' + yLosses + 'L' + (yPushes > 0 ? '-' + yPushes + 'P' : '') + '</td>' +
-            '<td class="right">—</td>' +
-            '<td class="right ' + yPnlClass + '">' + yPnlStr + '</td>' +
-            '<td class="right"></td>' +
-          '</tr>' +
-        '</tbody>' +
-      '</table>';
-  }
 
   section.innerHTML =
     '<div class="stats-section-header">SEASON STATS BY PROP TYPE</div>' +
@@ -402,8 +352,7 @@ function renderStatsTable(data) {
           '<td class="right"></td>' +
         '</tr>' +
       '</tbody>' +
-    '</table>' +
-    yesterdayHtml;
+    '</table>';
 }
 
 function renderSection(title, bets) {
