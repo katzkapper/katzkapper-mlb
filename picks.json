@@ -1,12 +1,12 @@
 {
   "date": "2026-04-08",
-  "updated": "12:59 PM ET",
+  "updated": "10:53 AM ET",
   "season_record": {
-    "wins": 26,
-    "losses": 34,
+    "wins": 27,
+    "losses": 37,
     "pushes": 0,
-    "units_pnl": -20.233,
-    "bets_placed": 60
+    "units_pnl": -22.458,
+    "bets_placed": 64
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 14,
-      "losses": 14,
+      "wins": 15,
+      "losses": 16,
       "pushes": 0,
-      "win_pct": 50.0,
-      "pnl": -4.89,
-      "roi": -16.3,
-      "bets": 28
+      "win_pct": 48.4,
+      "pnl": -6.11,
+      "roi": -18.5,
+      "bets": 31
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 7,
-      "losses": 12,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 36.8,
-      "pnl": -10.0,
-      "roi": -35.7,
-      "bets": 19
+      "win_pct": 35.0,
+      "pnl": -11.0,
+      "roi": -37.9,
+      "bets": 20
     }
   },
   "bets": [
@@ -85,7 +85,8 @@
       },
       "game": "HOU @ COL",
       "game_time": "3:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Mickey Moniak",
@@ -128,7 +129,8 @@
         "platoon": 1
       },
       "game": "HOU @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Michael McGreevy",
@@ -174,7 +176,8 @@
       },
       "game": "STL @ WSH",
       "game_time": "4:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Shohei Ohtani",
@@ -218,7 +221,8 @@
       },
       "game": "LAD @ TOR",
       "game_time": "3:07 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     }
   ]
 }
