@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "updated": "11:05 AM ET",
+  "updated": "12:12 PM ET",
   "season_record": {
     "wins": 27,
     "losses": 37,
@@ -62,17 +62,15 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Hot vs this pitcher handedness",
-        "Cool weather game (45.6F)"
+        "Cool weather game (45.5F)"
       ],
       "breakdown": {
         "pitcher_vulnerability": 12,
@@ -83,50 +81,6 @@
       },
       "game": "ATH @ NYY",
       "game_time": "1:35 PM ET"
-    },
-    {
-      "name": "Nolan McLean",
-      "type": "pitcher_outs",
-      "team": "NYM",
-      "opponent": "AZ",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": -115,
-      "raw_score": 55,
-      "score": 55,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.42,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Extra rest - may go deeper"
-      ],
-      "breakdown": {
-        "recent_ip_form": 18,
-        "pitch_efficiency": 5,
-        "game_context": 18,
-        "opp_offense": 5,
-        "bullpen_context": 7,
-        "pitcher_stuff": 2
-      },
-      "game": "AZ @ NYM",
-      "game_time": "7:10 PM ET",
-      "direction": "over"
     }
   ]
 }
