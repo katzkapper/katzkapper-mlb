@@ -1,12 +1,12 @@
 {
   "date": "2026-04-09",
-  "updated": "04:12 PM ET",
+  "updated": "11:47 PM ET",
   "season_record": {
-    "wins": 27,
+    "wins": 28,
     "losses": 37,
     "pushes": 0,
-    "units_pnl": -22.458,
-    "bets_placed": 64
+    "units_pnl": -21.625,
+    "bets_placed": 65
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 15,
+      "wins": 16,
       "losses": 16,
       "pushes": 0,
-      "win_pct": 48.4,
-      "pnl": -6.11,
-      "roi": -18.5,
-      "bets": 31
+      "win_pct": 50.0,
+      "pnl": -5.28,
+      "roi": -15.5,
+      "bets": 32
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -82,7 +82,8 @@
       },
       "game": "AZ @ NYM",
       "game_time": "7:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     }
   ]
 }
