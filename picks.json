@@ -1,43 +1,33 @@
 {
   "date": "2026-04-10",
-  "updated": "09:42 AM ET",
+  "updated": "02:13 PM ET",
   "season_record": {
-    "wins": 28,
-    "losses": 37,
+    "wins": 2,
+    "losses": 3,
     "pushes": 0,
-    "units_pnl": -21.625,
-    "bets_placed": 65
+    "units_pnl": -1.392,
+    "bets_placed": 5
   },
   "season_breakdown": {
-    "pitcher_k": {
-      "label": "Strikeouts",
-      "wins": 5,
-      "losses": 8,
-      "pushes": 0,
-      "win_pct": 38.5,
-      "pnl": -5.35,
-      "roi": -35.6,
-      "bets": 13
-    },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 16,
-      "losses": 16,
+      "wins": 2,
+      "losses": 2,
       "pushes": 0,
       "win_pct": 50.0,
-      "pnl": -5.28,
-      "roi": -15.5,
-      "bets": 32
+      "pnl": -0.39,
+      "roi": -9.8,
+      "bets": 4
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 7,
-      "losses": 13,
+      "wins": 0,
+      "losses": 1,
       "pushes": 0,
-      "win_pct": 35.0,
-      "pnl": -11.0,
-      "roi": -37.9,
-      "bets": 20
+      "win_pct": 0.0,
+      "pnl": -1.0,
+      "roi": -100.0,
+      "bets": 1
     }
   },
   "bets": [
@@ -48,7 +38,7 @@
       "opponent": "COL",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -148,
+      "odds": -155,
       "raw_score": 76,
       "score": 76,
       "units": 1,
@@ -62,12 +52,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-7  Vel:1.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -88,59 +76,13 @@
       "direction": "under"
     },
     {
-      "name": "Shota Imanaga",
-      "type": "pitcher_outs",
-      "team": "CHC",
-      "opponent": "PIT",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": 100,
-      "raw_score": 72,
-      "score": 72,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 14.22,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line 3.3 outs above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "5 fresh quality relievers (ERA 3.43) - quick hook very likely",
-        "Low game total (7.0) - pitcher's duel expected, starter may go deep"
-      ],
-      "breakdown": {
-        "recent_ip_form": 28,
-        "pitch_inefficiency": 18,
-        "opp_offense": 8,
-        "bullpen_availability": 18,
-        "game_context": 0
-      },
-      "game": "PIT @ CHC",
-      "game_time": "2:20 PM ET",
-      "direction": "under"
-    },
-    {
       "name": "Slade Cecconi",
       "type": "pitcher_outs",
       "team": "CLE",
       "opponent": "ATL",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -109,
+      "odds": -107,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -154,12 +96,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+2  Vel:0.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -179,13 +119,57 @@
       "direction": "under"
     },
     {
+      "name": "Shota Imanaga",
+      "type": "pitcher_outs",
+      "team": "CHC",
+      "opponent": "PIT",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": 110,
+      "raw_score": 70,
+      "score": 70,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.22,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:+10  Vel:2.2c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line 3.3 outs above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "6 fresh quality relievers (ERA 3.43) - quick hook very likely",
+        "Very low game total (6.5) - pitcher's duel, starter will go deep"
+      ],
+      "breakdown": {
+        "recent_ip_form": 28,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 18,
+        "game_context": -2
+      },
+      "game": "PIT @ CHC",
+      "game_time": "2:20 PM ET",
+      "direction": "under"
+    },
+    {
       "name": "Emerson Hancock",
       "type": "pitcher_outs",
       "team": "SEA",
       "opponent": "HOU",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -127,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -199,12 +183,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -244,12 +226,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -286,12 +266,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -314,9 +292,9 @@
       "opponent": "ATH",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -107,
-      "raw_score": 58,
-      "score": 58,
+      "odds": -110,
+      "raw_score": 60,
+      "score": 60,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
@@ -328,12 +306,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-3  Vel:0.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -342,7 +318,7 @@
       "breakdown": {
         "recent_ip_form": 21,
         "pitch_efficiency": 5,
-        "game_context": 14,
+        "game_context": 16,
         "opp_offense": 9,
         "bullpen_context": 7,
         "pitcher_stuff": 2
