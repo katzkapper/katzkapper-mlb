@@ -1,12 +1,12 @@
 {
   "date": "2026-04-10",
-  "updated": "10:24 PM ET",
+  "updated": "10:29 PM ET",
   "season_record": {
-    "wins": 12,
-    "losses": 8,
+    "wins": 14,
+    "losses": 10,
     "pushes": 0,
-    "units_pnl": 2.686,
-    "bets_placed": 20
+    "units_pnl": 2.221,
+    "bets_placed": 24
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 8,
-      "losses": 5,
+      "wins": 10,
+      "losses": 7,
       "pushes": 0,
-      "win_pct": 61.5,
-      "pnl": 1.97,
-      "roi": 15.2,
-      "bets": 13
+      "win_pct": 58.8,
+      "pnl": 1.51,
+      "roi": 8.9,
+      "bets": 17
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -125,7 +125,8 @@
       },
       "game": "COL @ SD",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Drake Baldwin",
@@ -251,7 +252,8 @@
       },
       "game": "HOU @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Landen Roupp",
@@ -431,7 +433,8 @@
       },
       "game": "WSH @ MIL",
       "game_time": "7:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Tatsuya Imai",
@@ -480,7 +483,8 @@
       },
       "game": "HOU @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     },
     {
       "name": "Bryce Elder",
