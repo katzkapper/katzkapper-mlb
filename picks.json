@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "updated": "11:46 AM ET",
+  "updated": "01:07 PM ET",
   "season_record": {
     "wins": 14,
     "losses": 10,
@@ -42,13 +42,59 @@
   },
   "bets": [
     {
+      "name": "Sal Stewart",
+      "type": "batter_tb",
+      "team": "CIN",
+      "opponent": "George Klassen",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -105,
+      "raw_score": 68,
+      "score": 80,
+      "units": 2,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.0,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "disadvantage",
+      "movement_summary": "Sharp lean  Odds:-205  Vel:153.8c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 12,
+      "mv_notes": [
+        "Line movement adj: +12 pts (68 -> 80)",
+        "Sharp confirmation bonus: +12 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot in this series",
+        "Platoon disadvantage",
+        "Fast movement (153.8 cents/hr)",
+        "Over juice heavier (-205) Vel:153.8c/hr - STRONG sharp over lean"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 31,
+        "park_weather": 17,
+        "game_total_bonus": 7,
+        "platoon": 1
+      },
+      "game": "LAA @ CIN",
+      "game_time": "4:10 PM ET"
+    },
+    {
       "name": "Luis Castillo",
       "type": "pitcher_outs",
       "team": "SEA",
       "opponent": "HOU",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -127,
+      "odds": -124,
       "raw_score": 77,
       "score": 77,
       "units": 1,
@@ -62,12 +108,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+3  Vel:2.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -108,12 +152,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -155,12 +197,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -186,7 +226,7 @@
       "opponent": "ATL",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -107,
+      "odds": -109,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -200,12 +240,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:1.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -231,7 +269,7 @@
       "opponent": "MIA",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -130,
       "raw_score": 69,
       "score": 69,
       "units": 1,
@@ -245,12 +283,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-5  Vel:3.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -270,146 +306,13 @@
       "direction": "under"
     },
     {
-      "name": "Jack Leiter",
-      "type": "pitcher_outs",
-      "team": "TEX",
-      "opponent": "LAD",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": -129,
-      "raw_score": 68,
-      "score": 68,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.24,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.369) - high pitch count likely",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_inefficiency": 18,
-        "opp_offense": 16,
-        "bullpen_availability": 13,
-        "game_context": 5
-      },
-      "game": "TEX @ LAD",
-      "game_time": "9:10 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Joe Ryan",
-      "type": "pitcher_outs",
-      "team": "MIN",
-      "opponent": "TOR",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": 100,
-      "raw_score": 66,
-      "score": 66,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 13.5,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line 4.0 outs above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 28,
-        "pitch_inefficiency": 18,
-        "opp_offense": 3,
-        "bullpen_availability": 13,
-        "game_context": 4
-      },
-      "game": "MIN @ TOR",
-      "game_time": "3:07 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Eric Lauer",
-      "type": "pitcher_k",
-      "team": "TOR",
-      "opponent": "MIN",
-      "line": 4.5,
-      "sharp_signal": false,
-      "odds": -104,
-      "raw_score": 64,
-      "score": 64,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": 6.75,
-      "w_over_rate": 1.0,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Trending up last 2 starts",
-        "Extra rest (13 days)"
-      ],
-      "breakdown": {
-        "pitcher_stuff": 12,
-        "pitcher_form": 25,
-        "opp_k_vulnerability": 8,
-        "contextual": 9,
-        "line_value": 10
-      },
-      "game": "MIN @ TOR",
-      "game_time": "3:07 PM ET"
-    },
-    {
       "name": "Edward Cabrera",
       "type": "pitcher_outs",
       "team": "CHC",
       "opponent": "PIT",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -130,
+      "odds": -125,
       "raw_score": 64,
       "score": 64,
       "units": 1,
@@ -423,12 +326,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:3.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -446,6 +347,92 @@
       },
       "game": "PIT @ CHC",
       "game_time": "2:20 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Janson Junk",
+      "type": "pitcher_outs",
+      "team": "MIA",
+      "opponent": "DET",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -110,
+      "raw_score": 63,
+      "score": 63,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.68,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:+4  Vel:3.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 2
+      },
+      "game": "MIA @ DET",
+      "game_time": "1:10 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Kyle Harrison",
+      "type": "pitcher_outs",
+      "team": "MIL",
+      "opponent": "WSH",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -150,
+      "raw_score": 63,
+      "score": 63,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.64,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:+7  Vel:5.2c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Inefficient pitcher (4.3 P/out)",
+        "Strong offense (OBP=0.342) - pitch count pressure",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
+        "pitch_inefficiency": 18,
+        "opp_offense": 12,
+        "bullpen_availability": 13,
+        "game_context": 4
+      },
+      "game": "WSH @ MIL",
+      "game_time": "7:10 PM ET",
       "direction": "under"
     }
   ]
