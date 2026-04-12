@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "updated": "10:31 AM ET",
+  "updated": "11:04 AM ET",
   "season_record": {
     "wins": 21,
     "losses": 13,
@@ -42,13 +42,143 @@
   },
   "bets": [
     {
+      "name": "Corbin Carroll",
+      "type": "batter_tb",
+      "team": "AZ",
+      "opponent": "Andrew Painter",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -101,
+      "raw_score": 69,
+      "score": 81,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.667,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "Sharp lean  Odds:-203  Vel:369.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 12,
+      "mv_notes": [
+        "Line movement adj: +12 pts (69 -> 81)",
+        "Sharp confirmation bonus: +12 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Fast movement (369.1 cents/hr)",
+        "Over juice heavier (-203) Vel:369.1c/hr - STRONG sharp over lean"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 9,
+        "game_total_bonus": 7,
+        "platoon": 9
+      },
+      "game": "AZ @ PHI",
+      "game_time": "1:35 PM ET"
+    },
+    {
+      "name": "Bryce Harper",
+      "type": "batter_tb",
+      "team": "PHI",
+      "opponent": "Zac Gallen",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 110,
+      "raw_score": 77,
+      "score": 77,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.6,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement  Odds:+1  Vel:1.8c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot in this series"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 7,
+        "platoon": 9
+      },
+      "game": "AZ @ PHI",
+      "game_time": "1:35 PM ET"
+    },
+    {
+      "name": "Sandy Alcantara",
+      "type": "pitcher_outs",
+      "team": "MIA",
+      "opponent": "DET",
+      "line": 18.5,
+      "sharp_signal": false,
+      "odds": 108,
+      "raw_score": 72,
+      "score": 72,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 19.5,
+      "implied_ip": 6.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-6  Vel:10.9c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Elite workload - averaging 6.5+ IP",
+        "Very low game total (6.0) - pitcher's duel, starter likely goes deep",
+        "Bullpen depleted (3 tired arms) - starter goes deep"
+      ],
+      "breakdown": {
+        "recent_ip_form": 30,
+        "pitch_efficiency": 9,
+        "game_context": 16,
+        "opp_offense": 5,
+        "bullpen_context": 10,
+        "pitcher_stuff": 2
+      },
+      "game": "MIA @ DET",
+      "game_time": "1:40 PM ET",
+      "direction": "over"
+    },
+    {
       "name": "Logan Gilbert",
       "type": "pitcher_outs",
       "team": "SEA",
       "opponent": "HOU",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": 135,
+      "odds": 145,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -62,12 +192,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+10  Vel:18.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -108,12 +236,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -140,7 +266,7 @@
       "opponent": "PIT",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -140,
+      "odds": -150,
       "raw_score": 69,
       "score": 69,
       "units": 1,
@@ -154,12 +280,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-10  Vel:18.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -198,12 +322,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -229,7 +351,7 @@
       "opponent": "TB",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -120,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -243,12 +365,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:9.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -288,12 +408,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -310,51 +428,6 @@
       },
       "game": "AZ @ PHI",
       "game_time": "1:35 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Jacob deGrom",
-      "type": "pitcher_outs",
-      "team": "TEX",
-      "opponent": "LAD",
-      "line": 14.5,
-      "sharp_signal": false,
-      "odds": -165,
-      "raw_score": 67,
-      "score": 67,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 14.4,
-      "implied_ip": 4.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.372) - high pitch count likely",
-        "4 fresh quality relievers (ERA 3.57) - quick hook very likely"
-      ],
-      "breakdown": {
-        "recent_ip_form": 10,
-        "pitch_inefficiency": 18,
-        "opp_offense": 16,
-        "bullpen_availability": 18,
-        "game_context": 5
-      },
-      "game": "TEX @ LAD",
-      "game_time": "4:10 PM ET",
       "direction": "under"
     },
     {
@@ -378,12 +451,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
