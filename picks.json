@@ -1,12 +1,12 @@
 {
   "date": "2026-04-11",
-  "updated": "01:47 PM ET",
+  "updated": "09:58 AM ET",
   "season_record": {
-    "wins": 14,
-    "losses": 10,
+    "wins": 21,
+    "losses": 13,
     "pushes": 0,
-    "units_pnl": 2.221,
-    "bets_placed": 24
+    "units_pnl": 3.921,
+    "bets_placed": 34
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 10,
-      "losses": 7,
+      "wins": 16,
+      "losses": 9,
       "pushes": 0,
-      "win_pct": 58.8,
-      "pnl": 1.51,
-      "roi": 8.9,
-      "bets": 17
+      "win_pct": 64.0,
+      "pnl": 4.17,
+      "roi": 16.7,
+      "bets": 25
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 3,
-      "losses": 2,
+      "wins": 4,
+      "losses": 3,
       "pushes": 0,
-      "win_pct": 60.0,
-      "pnl": 0.81,
-      "roi": 16.1,
-      "bets": 5
+      "win_pct": 57.1,
+      "pnl": -0.15,
+      "roi": -1.9,
+      "bets": 7
     }
   },
   "bets": [
@@ -85,7 +85,8 @@
         "platoon": 1
       },
       "game": "LAA @ CIN",
-      "game_time": "4:10 PM ET"
+      "game_time": "4:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Luis Castillo",
@@ -129,7 +130,8 @@
       },
       "game": "HOU @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "George Klassen",
@@ -174,7 +176,8 @@
       },
       "game": "LAA @ CIN",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Ranger Suarez",
@@ -217,7 +220,8 @@
       },
       "game": "BOS @ STL",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Parker Messick",
@@ -260,7 +264,8 @@
       },
       "game": "CLE @ ATL",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Bryce Harper",
@@ -302,7 +307,8 @@
         "platoon": 9
       },
       "game": "AZ @ PHI",
-      "game_time": "1:05 PM ET"
+      "game_time": "1:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Casey Mize",
@@ -346,7 +352,8 @@
       },
       "game": "MIA @ DET",
       "game_time": "1:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Edward Cabrera",
@@ -390,7 +397,8 @@
       },
       "game": "PIT @ CHC",
       "game_time": "2:20 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Kyle Harrison",
@@ -433,7 +441,8 @@
       },
       "game": "WSH @ MIL",
       "game_time": "7:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Ryan Feltner",
@@ -477,7 +486,8 @@
       },
       "game": "COL @ SD",
       "game_time": "8:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     }
   ]
 }
