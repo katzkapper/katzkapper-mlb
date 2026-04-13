@@ -1,12 +1,12 @@
 {
   "date": "2026-04-12",
-  "updated": "12:28 PM ET",
+  "updated": "10:15 PM ET",
   "season_record": {
-    "wins": 21,
-    "losses": 13,
+    "wins": 25,
+    "losses": 17,
     "pushes": 0,
-    "units_pnl": 3.921,
-    "bets_placed": 34
+    "units_pnl": 3.533,
+    "bets_placed": 42
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 16,
-      "losses": 9,
+      "wins": 20,
+      "losses": 13,
       "pushes": 0,
-      "win_pct": 64.0,
-      "pnl": 4.17,
-      "roi": 16.7,
-      "bets": 25
+      "win_pct": 60.6,
+      "pnl": 3.78,
+      "roi": 11.4,
+      "bets": 33
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -86,7 +86,8 @@
       },
       "game": "SF @ BAL",
       "game_time": "1:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Sandy Alcantara",
@@ -130,7 +131,8 @@
       },
       "game": "MIA @ DET",
       "game_time": "1:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     },
     {
       "name": "Logan Gilbert",
@@ -174,7 +176,8 @@
       },
       "game": "HOU @ SEA",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Brandon Woodruff",
@@ -218,7 +221,8 @@
       },
       "game": "WSH @ MIL",
       "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Tanner Bibee",
@@ -261,7 +265,8 @@
       },
       "game": "CLE @ ATL",
       "game_time": "7:20 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Cam Schlittler",
@@ -304,7 +309,8 @@
       },
       "game": "NYY @ TB",
       "game_time": "1:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Zac Gallen",
@@ -347,7 +353,8 @@
       },
       "game": "AZ @ PHI",
       "game_time": "1:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Brayan Bello",
@@ -390,7 +397,8 @@
       },
       "game": "BOS @ STL",
       "game_time": "2:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     }
   ]
 }
