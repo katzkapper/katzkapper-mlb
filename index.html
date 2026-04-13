@@ -111,6 +111,34 @@
     margin-top: 4px;
     font-style: italic;
   }
+  .pick-sharp {
+    font-size: 11px;
+    font-weight: 700;
+    margin-top: 5px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .pick-lean {
+    background: #1A3A1A;
+    color: #4CAF50;
+  }
+  .pick-fade {
+    background: #3A1A1A;
+    color: #E05252;
+  }
+  .pick-rlm {
+    background: #1A2A3A;
+    color: #7EC8E3;
+  }
+  .pick-locked {
+    background: #2A2A1A;
+    color: #E8D070;
+  }
+  .pick-sharp:not(.pick-lean):not(.pick-fade):not(.pick-rlm):not(.pick-locked) {
+    background: #2A1A3A;
+    color: #CE93D8;
+  }
   .pick-right { text-align: right; min-width: 70px; }
   .units-badge {
     font-size: 22px;
@@ -230,11 +258,9 @@
   <div class="no-picks"><div class="icon">⚾</div>Loading picks...</div>
 </div>
 
-
 <div class="footer">
   KatzKapper MLB Prop Model &nbsp;|&nbsp; @KatzKapper on X
 </div>
-
 
 <script>
 async function loadPicks() {
@@ -289,9 +315,9 @@ function renderPage(data) {
   renderStatsTable(data);
   document.getElementById('main-content').innerHTML = html;
 }
+
 function renderStatsTable(data) {
   const breakdown = data.season_breakdown || {};
-  const record    = data.season_record || {};
   const section   = document.getElementById('stats-section');
 
   if (!section) return;
@@ -304,31 +330,30 @@ function renderStatsTable(data) {
     return;
   }
 
-  const totalWins   = rows.reduce((s, r) => s + r.wins, 0);
-  const totalLosses = rows.reduce((s, r) => s + r.losses, 0);
-  const totalPushes = rows.reduce((s, r) => s + r.pushes, 0);
-  const totalPnl    = rows.reduce((s, r) => s + r.pnl, 0);
-  const totalBets   = rows.reduce((s, r) => s + r.bets, 0);
+  const totalWins    = rows.reduce((s, r) => s + r.wins, 0);
+  const totalLosses  = rows.reduce((s, r) => s + r.losses, 0);
+  const totalPushes  = rows.reduce((s, r) => s + r.pushes, 0);
+  const totalPnl     = rows.reduce((s, r) => s + r.pnl, 0);
+  const totalBets    = rows.reduce((s, r) => s + r.bets, 0);
   const totalDecided = totalWins + totalLosses;
-  const totalWinPct = totalDecided > 0 ? (totalWins / totalDecided * 100).toFixed(1) : '0.0';
-  const totalPnlStr = (totalPnl >= 0 ? '+' : '') + totalPnl.toFixed(2) + 'u';
+  const totalWinPct  = totalDecided > 0 ? (totalWins / totalDecided * 100).toFixed(1) : '0.0';
+  const totalPnlStr  = (totalPnl >= 0 ? '+' : '') + totalPnl.toFixed(2) + 'u';
   const totalPnlClass = totalPnl >= 0 ? 'pos' : 'neg';
 
   let tableRows = '';
   rows.forEach(function(r) {
     const pnlStr   = (r.pnl >= 0 ? '+' : '') + r.pnl.toFixed(2) + 'u';
     const pnlClass = r.pnl >= 0 ? 'pos' : 'neg';
-    const record   = r.wins + 'W-' + r.losses + 'L' + (r.pushes > 0 ? '-' + r.pushes + 'P' : '');
+    const rec      = r.wins + 'W-' + r.losses + 'L' + (r.pushes > 0 ? '-' + r.pushes + 'P' : '');
     tableRows += '<tr>' +
       '<td class="prop-label">' + r.label + '</td>' +
       '<td class="right">' + r.bets + '</td>' +
-      '<td class="right">' + record + '</td>' +
+      '<td class="right">' + rec + '</td>' +
       '<td class="right">' + r.win_pct + '%</td>' +
       '<td class="right ' + pnlClass + '">' + pnlStr + '</td>' +
       '<td class="right">' + (r.roi >= 0 ? '+' : '') + r.roi + '%</td>' +
     '</tr>';
   });
-
 
   section.innerHTML =
     '<div class="stats-section-header">SEASON STATS BY PROP TYPE</div>' +
@@ -362,17 +387,17 @@ function renderSection(title, bets) {
 }
 
 function renderCard(bet) {
-  const typeMap = { pitcher_k: 'K', batter_tb: 'TB', pitcher_outs: 'OUTS' };
+  const typeMap   = { pitcher_k: 'K', batter_tb: 'TB', pitcher_outs: 'OUTS' };
   const typeClass = { pitcher_k: '', batter_tb: 'tb', pitcher_outs: 'outs' };
   const typeLabel = typeMap[bet.type] || bet.type;
-  const tClass = typeClass[bet.type] || '';
+  const tClass    = typeClass[bet.type] || '';
 
-  const odds = bet.odds > 0 ? '+' + bet.odds : '' + bet.odds;
-  const score = bet.score || 0;
+  const odds     = bet.odds > 0 ? '+' + bet.odds : '' + bet.odds;
+  const score    = bet.score || 0;
   const barWidth = Math.min(score, 100);
 
   let resultBadge = '';
-  let cardClass = 'pick-card units-' + bet.units;
+  let cardClass   = 'pick-card units-' + bet.units;
   if (bet.result) {
     cardClass += ' result-' + bet.result;
     const rLabel = bet.result.toUpperCase();
@@ -391,15 +416,39 @@ function renderCard(bet) {
 
   const flags = (bet.flags || []).slice(0, 2).join('  |  ');
 
+  // Sharp signal commentary
+  let sharpHtml   = '';
+  const mv        = bet.movement_summary || '';
+  const rawScore  = bet.raw_score || score;
+  const scoreAdj  = score - rawScore;
+  const isLocked  = bet.locked || false;
+
+  if (bet.sharp_signal) {
+    sharpHtml = '<div class="pick-sharp">&#9889; PINNACLE SHARP &mdash; Book disagreement detected</div>';
+  } else if (isLocked) {
+    sharpHtml = '<div class="pick-sharp pick-locked">&#128274; LOCKED &mdash; Qualified earlier, sharp signal preserved</div>';
+  } else if (mv && mv.indexOf('No data') === -1 && mv.indexOf('No movement') === -1 && mv.indexOf('neutral') === -1) {
+    if (mv.indexOf('SHARP FADE') !== -1 || mv.indexOf('STEAM FADE') !== -1) {
+      sharpHtml = '<div class="pick-sharp pick-fade">&#9888; ' + mv + '</div>';
+    } else if (mv.indexOf('RLM') !== -1) {
+      sharpHtml = '<div class="pick-sharp pick-rlm">&#127919; RLM &mdash; ' + mv + '</div>';
+    } else if (scoreAdj > 0) {
+      sharpHtml = '<div class="pick-sharp pick-lean">&#128200; ' + mv
+        + (scoreAdj !== 0 ? '  [score ' + (scoreAdj > 0 ? '+' : '') + scoreAdj + ']' : '')
+        + '</div>';
+    }
+  }
+
   return '<div class="' + cardClass + '">' +
     '<div class="pick-left">' +
       '<div class="pick-name">' +
         '<span class="pick-type ' + tClass + '">' + typeLabel + '</span>' +
         bet.name +
       '</div>' +
-      (bet.game ? '<div class="pick-game">' + bet.game + (bet.game_time ? '  &nbsp;·&nbsp;  ' + bet.game_time : '') + '</div>' : '') +
+      (bet.game ? '<div class="pick-game">' + bet.game + (bet.game_time ? '  &nbsp;&middot;&nbsp;  ' + bet.game_time : '') + '</div>' : '') +
       '<div class="pick-line">' + (bet.direction === 'under' ? 'UNDER' : 'OVER') + ' ' + bet.line + ' (' + odds + ')  &nbsp; Score: ' + score + '/100</div>' +
       (subLine ? '<div class="pick-meta">' + subLine + '</div>' : '') +
+      (sharpHtml ? sharpHtml : '') +
       (flags ? '<div class="pick-flags">' + flags + '</div>' : '') +
     '</div>' +
     '<div class="pick-right">' +
