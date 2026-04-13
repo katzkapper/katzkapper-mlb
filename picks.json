@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "updated": "10:05 AM ET",
+  "updated": "01:42 PM ET",
   "season_record": {
     "wins": 25,
     "losses": 17,
@@ -48,7 +48,7 @@
       "opponent": "WSH",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": 130,
+      "odds": 145,
       "raw_score": 78,
       "score": 78,
       "units": 2,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+15  Vel:4.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -88,22 +86,22 @@
       "direction": "under"
     },
     {
-      "name": "George Kirby",
+      "name": "Will Warren",
       "type": "pitcher_outs",
-      "team": "SEA",
-      "opponent": "HOU",
-      "line": 18.5,
+      "team": "NYY",
+      "opponent": "LAA",
+      "line": 15.5,
       "sharp_signal": false,
-      "odds": 145,
-      "raw_score": 76,
-      "score": 76,
+      "odds": -115,
+      "raw_score": 74,
+      "score": 74,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 16.08,
-      "implied_ip": 6.2,
+      "w_avg_outs": 14.16,
+      "implied_ip": 5.2,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
@@ -117,13 +115,99 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line above recent avg",
         "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.369) - high pitch count likely",
-        "4 fresh quality relievers (ERA 3.01) - quick hook very likely"
+        "3 fresh quality relievers (ERA 2.78) - quick hook very likely",
+        "Returning from IL - hard pitch limit guaranteed"
       ],
       "breakdown": {
-        "recent_ip_form": 22,
+        "recent_ip_form": 16,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 18,
+        "game_context": 14
+      },
+      "game": "LAA @ NYY",
+      "game_time": "7:05 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Logan O'Hoppe",
+      "type": "batter_tb",
+      "team": "NYY",
+      "opponent": "Yusei Kikuchi",
+      "line": 0.5,
+      "sharp_signal": false,
+      "odds": -125,
+      "raw_score": 72,
+      "score": 72,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 0.867,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot in this series",
+        "High game total (9.5)"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 23,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 9
+      },
+      "game": "LAA @ NYY",
+      "game_time": "7:05 PM ET"
+    },
+    {
+      "name": "George Kirby",
+      "type": "pitcher_outs",
+      "team": "SEA",
+      "opponent": "HOU",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": 130,
+      "raw_score": 70,
+      "score": 70,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 16.08,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Sharp lean  Line:-1.0  Odds:-15  Vel:4.2c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Inefficient pitcher (4.3 P/out)",
+        "Elite offense (OBP=0.369) - high pitch count likely",
+        "4 fresh quality relievers (ERA 3.01) - quick hook very likely",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
         "pitch_inefficiency": 18,
         "opp_offense": 16,
         "bullpen_availability": 18,
@@ -134,58 +218,13 @@
       "direction": "under"
     },
     {
-      "name": "Grant Holmes",
-      "type": "pitcher_outs",
-      "team": "ATL",
-      "opponent": "MIA",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -120,
-      "raw_score": 71,
-      "score": 71,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.48,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "5 fresh quality relievers (ERA 2.41) - quick hook very likely"
-      ],
-      "breakdown": {
-        "recent_ip_form": 22,
-        "pitch_inefficiency": 18,
-        "opp_offense": 8,
-        "bullpen_availability": 18,
-        "game_context": 5
-      },
-      "game": "MIA @ ATL",
-      "game_time": "7:15 PM ET",
-      "direction": "under"
-    },
-    {
       "name": "David Peterson",
       "type": "pitcher_outs",
       "team": "NYM",
       "opponent": "LAD",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -105,
+      "odds": -145,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -199,12 +238,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-40  Vel:11.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -230,7 +267,7 @@
       "opponent": "BAL",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -110,
       "raw_score": 66,
       "score": 66,
       "units": 1,
@@ -244,12 +281,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+15  Vel:4.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -266,6 +301,49 @@
       },
       "game": "AZ @ BAL",
       "game_time": "6:35 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Grant Holmes",
+      "type": "pitcher_outs",
+      "team": "ATL",
+      "opponent": "MIA",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": -125,
+      "raw_score": 66,
+      "score": 66,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 15.48,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-5  Vel:1.4c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 5
+      },
+      "game": "MIA @ ATL",
+      "game_time": "7:15 PM ET",
       "direction": "under"
     },
     {
@@ -289,12 +367,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -334,12 +410,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -356,11 +430,11 @@
       "game_time": "6:40 PM ET"
     },
     {
-      "name": "Nathan Eovaldi",
+      "name": "Javier Assad",
       "type": "pitcher_outs",
-      "team": "TEX",
-      "opponent": "ATH",
-      "line": 17.5,
+      "team": "CHC",
+      "opponent": "PHI",
+      "line": 14.5,
       "sharp_signal": false,
       "odds": 130,
       "raw_score": 64,
@@ -370,35 +444,37 @@
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 13.5,
-      "implied_ip": 5.8,
+      "w_avg_outs": 13.74,
+      "implied_ip": 4.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:-1.0  Odds:+325  Vel:90.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line 4.0 outs above recent avg",
         "Inefficient pitcher (4.3 P/out)",
-        "Weak offense (OBP=0.299) - pitcher may go deeper",
-        "Quality bullpen options available"
+        "Quality bullpen options available",
+        "Returning from IL - hard pitch limit guaranteed",
+        "Fast movement (90.3 cents/hr)",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)",
+        "High velocity confirms sharp under action"
       ],
       "breakdown": {
-        "recent_ip_form": 28,
+        "recent_ip_form": 16,
         "pitch_inefficiency": 18,
-        "opp_offense": 0,
+        "opp_offense": 3,
         "bullpen_availability": 13,
-        "game_context": 5
+        "game_context": 14
       },
-      "game": "TEX @ ATH",
-      "game_time": "9:40 PM ET",
+      "game": "CHC @ PHI",
+      "game_time": "6:40 PM ET",
       "direction": "under"
     },
     {
@@ -444,7 +520,9 @@
       },
       "game": "BOS @ MIN",
       "game_time": "7:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
     }
   ]
 }
