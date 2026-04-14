@@ -1,11 +1,11 @@
 {
   "date": "2026-04-13",
-  "updated": "09:31 AM ET",
+  "updated": "09:41 AM ET",
   "season_record": {
     "wins": 35,
-    "losses": 21,
-    "pushes": 0,
-    "units_pnl": 8.262,
+    "losses": 20,
+    "pushes": 1,
+    "units_pnl": 9.262,
     "bets_placed": 56
   },
   "season_breakdown": {
@@ -32,11 +32,11 @@
     "batter_tb": {
       "label": "Total Bases",
       "wins": 6,
-      "losses": 5,
-      "pushes": 0,
-      "win_pct": 54.5,
-      "pnl": -0.48,
-      "roi": -4.0,
+      "losses": 4,
+      "pushes": 1,
+      "win_pct": 60.0,
+      "pnl": 0.52,
+      "roi": 4.7,
       "bets": 11
     }
   },
@@ -574,7 +574,7 @@
       },
       "game": "LAA @ NYY",
       "game_time": "7:05 PM ET",
-      "result": "loss"
+      "result": "push"
     },
     {
       "name": "Javier Assad",
