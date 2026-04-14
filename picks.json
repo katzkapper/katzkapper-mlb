@@ -1,43 +1,43 @@
 {
   "date": "2026-04-13",
-  "updated": "04:32 PM ET",
+  "updated": "09:31 AM ET",
   "season_record": {
-    "wins": 25,
-    "losses": 17,
+    "wins": 35,
+    "losses": 21,
     "pushes": 0,
-    "units_pnl": 3.533,
-    "bets_placed": 42
+    "units_pnl": 8.262,
+    "bets_placed": 56
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
       "pushes": 0,
-      "win_pct": 50.0,
-      "pnl": -0.09,
-      "roi": -4.5,
-      "bets": 2
+      "win_pct": 66.7,
+      "pnl": 0.82,
+      "roi": 27.3,
+      "bets": 3
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 20,
-      "losses": 13,
+      "wins": 27,
+      "losses": 15,
       "pushes": 0,
-      "win_pct": 60.6,
-      "pnl": 3.78,
-      "roi": 11.4,
-      "bets": 33
+      "win_pct": 64.3,
+      "pnl": 7.93,
+      "roi": 18.9,
+      "bets": 42
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 4,
-      "losses": 3,
+      "wins": 6,
+      "losses": 5,
       "pushes": 0,
-      "win_pct": 57.1,
-      "pnl": -0.15,
-      "roi": -1.9,
-      "bets": 7
+      "win_pct": 54.5,
+      "pnl": -0.48,
+      "roi": -4.0,
+      "bets": 11
     }
   },
   "bets": [
@@ -80,7 +80,8 @@
         "platoon": 9
       },
       "game": "AZ @ BAL",
-      "game_time": "6:35 PM ET"
+      "game_time": "6:35 PM ET",
+      "result": "win"
     },
     {
       "name": "Will Warren",
@@ -123,7 +124,8 @@
       },
       "game": "LAA @ NYY",
       "game_time": "7:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Paul Skenes",
@@ -167,7 +169,8 @@
       },
       "game": "WSH @ PIT",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Bryce Harper",
@@ -207,7 +210,8 @@
         "platoon": 9
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Logan O'Hoppe",
@@ -250,7 +254,8 @@
       "game": "LAA @ NYY",
       "game_time": "7:05 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     },
     {
       "name": "George Kirby",
@@ -296,7 +301,8 @@
       },
       "game": "HOU @ SEA",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Tristan Gray",
@@ -387,7 +393,8 @@
       },
       "game": "NYM @ LAD",
       "game_time": "10:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Ryne Nelson",
@@ -430,7 +437,8 @@
       },
       "game": "AZ @ BAL",
       "game_time": "6:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Grant Holmes",
@@ -473,7 +481,8 @@
       },
       "game": "MIA @ ATL",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Gavin Williams",
@@ -516,7 +525,8 @@
       },
       "game": "CLE @ STL",
       "game_time": "7:45 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Oswald Peraza",
@@ -563,7 +573,8 @@
         "platoon": 9
       },
       "game": "LAA @ NYY",
-      "game_time": "7:05 PM ET"
+      "game_time": "7:05 PM ET",
+      "result": "loss"
     },
     {
       "name": "Javier Assad",
@@ -611,7 +622,8 @@
       },
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -653,7 +665,8 @@
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     },
     {
       "name": "Garrett Crochet",
@@ -700,7 +713,8 @@
       "game_time": "7:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     }
   ]
 }
