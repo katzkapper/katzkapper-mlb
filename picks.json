@@ -1,12 +1,12 @@
 {
   "date": "2026-04-13",
-  "updated": "09:41 AM ET",
+  "updated": "09:42 AM ET",
   "season_record": {
     "wins": 35,
     "losses": 20,
-    "pushes": 1,
+    "pushes": 2,
     "units_pnl": 9.262,
-    "bets_placed": 56
+    "bets_placed": 57
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -33,11 +33,11 @@
       "label": "Total Bases",
       "wins": 6,
       "losses": 4,
-      "pushes": 1,
+      "pushes": 2,
       "win_pct": 60.0,
       "pnl": 0.52,
       "roi": 4.7,
-      "bets": 11
+      "bets": 12
     }
   },
   "bets": [
@@ -350,7 +350,8 @@
       "game": "BOS @ MIN",
       "game_time": "7:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "push"
     },
     {
       "name": "David Peterson",
