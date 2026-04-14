@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "updated": "11:19 AM ET",
+  "updated": "12:20 PM ET",
   "season_record": {
     "wins": 35,
     "losses": 20,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -106,12 +104,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -150,12 +146,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -176,13 +170,54 @@
       "direction": "under"
     },
     {
+      "name": "Willy Adames",
+      "type": "batter_tb",
+      "team": "CIN",
+      "opponent": "Robbie Ray",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -105,
+      "raw_score": 78,
+      "score": 78,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.4,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "High game total (9.5)"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 29,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 9
+      },
+      "game": "SF @ CIN",
+      "game_time": "6:40 PM ET"
+    },
+    {
       "name": "Aaron Judge",
       "type": "batter_tb",
       "team": "NYY",
       "opponent": "Reid Detmers",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -130,
+      "odds": -125,
       "raw_score": 77,
       "score": 77,
       "units": 1,
@@ -196,12 +231,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:5.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -217,48 +250,6 @@
       },
       "game": "LAA @ NYY",
       "game_time": "7:05 PM ET"
-    },
-    {
-      "name": "Willy Adames",
-      "type": "batter_tb",
-      "team": "CIN",
-      "opponent": "Robbie Ray",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": -105,
-      "raw_score": 74,
-      "score": 74,
-      "units": 1,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.4,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Cold vs this pitcher handedness"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 12,
-        "batter_form": 29,
-        "park_weather": 17,
-        "game_total_bonus": 7,
-        "platoon": 9
-      },
-      "game": "SF @ CIN",
-      "game_time": "6:40 PM ET"
     },
     {
       "name": "Mick Abel",
@@ -281,12 +272,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -306,13 +295,55 @@
       "direction": "under"
     },
     {
+      "name": "Ketel Marte",
+      "type": "batter_tb",
+      "team": "BAL",
+      "opponent": "Merrill Kelly",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -120,
+      "raw_score": 72,
+      "score": 72,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.267,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "disadvantage",
+      "movement_summary": "No movement  Odds:-5  Vel:5.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot in this series",
+        "High game total (9.5)",
+        "Platoon disadvantage"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 31,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 1
+      },
+      "game": "AZ @ BAL",
+      "game_time": "6:35 PM ET"
+    },
+    {
       "name": "Aaron Nola",
       "type": "pitcher_outs",
       "team": "PHI",
       "opponent": "CHC",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": 104,
+      "odds": 100,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -326,12 +357,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-4  Vel:4.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -392,7 +421,9 @@
         "platoon": 9
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
     },
     {
       "name": "Cole Ragans",
@@ -415,12 +446,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -440,11 +469,55 @@
       "direction": "under"
     },
     {
+      "name": "Brady Singer",
+      "type": "pitcher_outs",
+      "team": "CIN",
+      "opponent": "SF",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -150,
+      "raw_score": 68,
+      "score": 68,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 12.18,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line 3.3 outs above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Weak offense (OBP=0.288) - pitcher may go deeper",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 28,
+        "pitch_inefficiency": 18,
+        "opp_offense": 0,
+        "bullpen_availability": 13,
+        "game_context": 9
+      },
+      "game": "SF @ CIN",
+      "game_time": "6:40 PM ET",
+      "direction": "under"
+    },
+    {
       "name": "Ryan Weathers",
       "type": "pitcher_outs",
       "team": "NYY",
       "opponent": "LAA",
-      "line": 17.5,
+      "line": 16.5,
       "sharp_signal": false,
       "odds": -105,
       "raw_score": 66,
@@ -455,23 +528,24 @@
       "w_over_rate": null,
       "w_avg_tb": null,
       "w_avg_outs": 14.76,
-      "implied_ip": 5.8,
+      "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:-1.0",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Line above recent avg",
         "Inefficient pitcher (4.3 P/out)",
-        "Quality bullpen options available"
+        "Quality bullpen options available",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)"
       ],
       "breakdown": {
         "recent_ip_form": 22,
@@ -505,12 +579,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -536,7 +608,7 @@
       "opponent": "STL",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -143,
+      "odds": -148,
       "raw_score": 66,
       "score": 66,
       "units": 1,
@@ -550,12 +622,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-5  Vel:5.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -572,52 +642,6 @@
       },
       "game": "CLE @ STL",
       "game_time": "7:45 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Brady Singer",
-      "type": "pitcher_outs",
-      "team": "CIN",
-      "opponent": "SF",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -150,
-      "raw_score": 64,
-      "score": 64,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 12.18,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line 3.3 outs above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "Weak offense (OBP=0.288) - pitcher may go deeper",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 28,
-        "pitch_inefficiency": 18,
-        "opp_offense": 0,
-        "bullpen_availability": 13,
-        "game_context": 5
-      },
-      "game": "SF @ CIN",
-      "game_time": "6:40 PM ET",
       "direction": "under"
     }
   ]
