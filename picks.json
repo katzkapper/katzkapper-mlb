@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "updated": "12:08 PM ET",
+  "updated": "03:40 PM ET",
   "season_record": {
     "wins": 44,
     "losses": 27,
@@ -42,6 +42,56 @@
   },
   "bets": [
     {
+      "name": "Kyle Bradish",
+      "type": "pitcher_outs",
+      "team": "BAL",
+      "opponent": "AZ",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -109,
+      "raw_score": 75,
+      "score": 83,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.08,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Sharp lean  Odds:-234  Vel:66.2c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 8,
+      "mv_notes": [
+        "Line movement adj: +8 pts (75 -> 83)",
+        "Sharp confirmation bonus: +8 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Quality bullpen options available",
+        "Extra rest - may go deeper than usual",
+        "Returning from IL - hard pitch limit guaranteed",
+        "Fast movement (66.2 cents/hr)",
+        "Under juice heavier (-234) Vel:66.2c/hr - Sharp under lean"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 14
+      },
+      "game": "AZ @ BAL",
+      "game_time": "12:35 PM ET",
+      "direction": "under"
+    },
+    {
       "name": "Chris Paddack",
       "type": "pitcher_outs",
       "team": "MIA",
@@ -62,12 +112,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -87,6 +135,91 @@
       "game": "MIA @ ATL",
       "game_time": "7:15 PM ET",
       "direction": "under"
+    },
+    {
+      "name": "Aaron Judge",
+      "type": "batter_tb",
+      "team": "NYY",
+      "opponent": "Jack Kochanowicz",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -132,
+      "raw_score": 77,
+      "score": 77,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.4,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "disadvantage",
+      "movement_summary": "No movement  Odds:+2  Vel:0.6c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot in this series",
+        "Very high game total (10.5) - high scoring expected",
+        "Platoon disadvantage"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 15,
+        "platoon": 1
+      },
+      "game": "LAA @ NYY",
+      "game_time": "7:05 PM ET"
+    },
+    {
+      "name": "Mike Trout",
+      "type": "batter_tb",
+      "team": "NYY",
+      "opponent": "Jack Kochanowicz",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 106,
+      "raw_score": 77,
+      "score": 77,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.467,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "disadvantage",
+      "movement_summary": "No movement  Odds:-9  Vel:2.6c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Very high game total (10.5) - high scoring expected",
+        "Platoon disadvantage"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 15,
+        "platoon": 1
+      },
+      "game": "LAA @ NYY",
+      "game_time": "7:05 PM ET"
     },
     {
       "name": "Jeremiah Jackson",
@@ -129,7 +262,9 @@
         "platoon": 9
       },
       "game": "AZ @ BAL",
-      "game_time": "12:35 PM ET"
+      "game_time": "12:35 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Kyle Schwarber",
@@ -172,7 +307,9 @@
         "platoon": 9
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Brandon Marsh",
@@ -215,69 +352,27 @@
         "platoon": 9
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
-      "name": "Aaron Judge",
-      "type": "batter_tb",
-      "team": "NYY",
-      "opponent": "Jack Kochanowicz",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": -134,
-      "raw_score": 77,
-      "score": 77,
-      "units": 1,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.4,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "disadvantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot in this series",
-        "Very high game total (10.5) - high scoring expected",
-        "Platoon disadvantage"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 12,
-        "batter_form": 32,
-        "park_weather": 17,
-        "game_total_bonus": 15,
-        "platoon": 1
-      },
-      "game": "LAA @ NYY",
-      "game_time": "7:05 PM ET"
-    },
-    {
-      "name": "Kyle Bradish",
+      "name": "J.T. Ginn",
       "type": "pitcher_outs",
-      "team": "BAL",
-      "opponent": "AZ",
-      "line": 15.5,
+      "team": "ATH",
+      "opponent": "TEX",
+      "line": 14.5,
       "sharp_signal": false,
-      "odds": 125,
-      "raw_score": 75,
-      "score": 75,
+      "odds": -115,
+      "raw_score": 76,
+      "score": 76,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 13.08,
-      "implied_ip": 5.2,
+      "w_avg_outs": 6.84,
+      "implied_ip": 4.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
@@ -291,21 +386,20 @@
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line above recent avg",
+        "Line 7.7 outs above recent avg",
         "Inefficient pitcher (4.3 P/out)",
         "Quality bullpen options available",
-        "Extra rest - may go deeper than usual",
         "Returning from IL - hard pitch limit guaranteed"
       ],
       "breakdown": {
-        "recent_ip_form": 22,
+        "recent_ip_form": 28,
         "pitch_inefficiency": 18,
-        "opp_offense": 8,
+        "opp_offense": 3,
         "bullpen_availability": 13,
         "game_context": 14
       },
-      "game": "AZ @ BAL",
-      "game_time": "12:35 PM ET",
+      "game": "TEX @ ATH",
+      "game_time": "9:40 PM ET",
       "direction": "under"
     },
     {
@@ -329,12 +423,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -353,6 +445,47 @@
       "game": "MIA @ ATL",
       "game_time": "7:15 PM ET",
       "direction": "under"
+    },
+    {
+      "name": "Elly De La Cruz",
+      "type": "batter_tb",
+      "team": "CIN",
+      "opponent": "Tyler Mahle",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 110,
+      "raw_score": 73,
+      "score": 73,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.533,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "neutral",
+      "movement_summary": "No movement  Odds:-5  Vel:1.4c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "Hot in this series"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 7,
+        "platoon": 5
+      },
+      "game": "SF @ CIN",
+      "game_time": "6:40 PM ET"
     },
     {
       "name": "Willy Adames",
@@ -396,7 +529,9 @@
         "platoon": 1
       },
       "game": "SF @ CIN",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Dylan Cease",
@@ -405,7 +540,7 @@
       "opponent": "MIL",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -133,
+      "odds": -116,
       "raw_score": 72,
       "score": 72,
       "units": 1,
@@ -419,12 +554,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+17  Vel:4.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -448,50 +581,47 @@
       "direction": "under"
     },
     {
-      "name": "Jose Quintana",
+      "name": "Shota Imanaga",
       "type": "pitcher_outs",
-      "team": "COL",
-      "opponent": "HOU",
-      "line": 14.5,
+      "team": "CHC",
+      "opponent": "PHI",
+      "line": 16.5,
       "sharp_signal": false,
-      "odds": -105,
-      "raw_score": 71,
-      "score": 71,
+      "odds": -135,
+      "raw_score": 70,
+      "score": 70,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
-      "w_avg_outs": 14.4,
-      "implied_ip": 4.8,
+      "w_avg_outs": 14.7,
+      "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:1.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
+        "Line above recent avg",
         "Inefficient pitcher (4.3 P/out)",
-        "Elite offense (OBP=0.36) - high pitch count likely",
         "Quality bullpen options available",
-        "Extra rest - may go deeper than usual",
         "Returning from IL - hard pitch limit guaranteed"
       ],
       "breakdown": {
-        "recent_ip_form": 10,
+        "recent_ip_form": 22,
         "pitch_inefficiency": 18,
-        "opp_offense": 16,
+        "opp_offense": 3,
         "bullpen_availability": 13,
         "game_context": 14
       },
-      "game": "COL @ HOU",
-      "game_time": "8:10 PM ET",
+      "game": "CHC @ PHI",
+      "game_time": "6:40 PM ET",
       "direction": "under"
     },
     {
@@ -538,47 +668,49 @@
       },
       "game": "CLE @ STL",
       "game_time": "1:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Simeon Woods Richardson",
       "type": "pitcher_outs",
       "team": "MIN",
       "opponent": "BOS",
-      "line": 15.5,
+      "line": 14.5,
       "sharp_signal": false,
-      "odds": 135,
-      "raw_score": 70,
-      "score": 70,
+      "odds": 144,
+      "raw_score": 69,
+      "score": 69,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": null,
       "w_avg_tb": null,
       "w_avg_outs": 13.68,
-      "implied_ip": 5.2,
+      "implied_ip": 4.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:-1.0  Odds:+9  Vel:2.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line above recent avg",
         "Inefficient pitcher (4.3 P/out)",
         "Quality bullpen options available",
-        "Returning from IL - hard pitch limit guaranteed"
+        "Returning from IL - hard pitch limit guaranteed",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)"
       ],
       "breakdown": {
-        "recent_ip_form": 22,
+        "recent_ip_form": 16,
         "pitch_inefficiency": 18,
-        "opp_offense": 3,
+        "opp_offense": 8,
         "bullpen_availability": 13,
         "game_context": 14
       },
