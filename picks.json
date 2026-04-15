@@ -1,11 +1,11 @@
 {
   "date": "2026-04-14",
-  "updated": "09:25 AM ET",
+  "updated": "09:31 AM ET",
   "season_record": {
     "wins": 44,
     "losses": 27,
     "pushes": 3,
-    "units_pnl": 12.404,
+    "units_pnl": 13.404,
     "bets_placed": 74
   },
   "season_breakdown": {
@@ -35,8 +35,8 @@
       "losses": 7,
       "pushes": 3,
       "win_pct": 58.8,
-      "pnl": -0.18,
-      "roi": -0.9,
+      "pnl": 0.82,
+      "roi": 4.1,
       "bets": 20
     }
   },
