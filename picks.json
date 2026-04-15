@@ -1,10 +1,10 @@
 {
   "date": "2026-04-14",
-  "updated": "09:14 AM ET",
+  "updated": "09:25 AM ET",
   "season_record": {
     "wins": 44,
-    "losses": 28,
-    "pushes": 2,
+    "losses": 27,
+    "pushes": 3,
     "units_pnl": 12.404,
     "bets_placed": 74
   },
@@ -32,9 +32,9 @@
     "batter_tb": {
       "label": "Total Bases",
       "wins": 10,
-      "losses": 8,
-      "pushes": 2,
-      "win_pct": 55.6,
+      "losses": 7,
+      "pushes": 3,
+      "win_pct": 58.8,
       "pnl": -0.18,
       "roi": -0.9,
       "bets": 20
@@ -535,7 +535,7 @@
       "game_time": "6:35 PM ET",
       "locked": true,
       "lock_reason": "Preserved from earlier scan - sharp signal resolved",
-      "result": "loss"
+      "result": "push"
     },
     {
       "name": "Ryan Weathers",
