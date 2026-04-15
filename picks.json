@@ -1,12 +1,12 @@
 {
   "date": "2026-04-14",
-  "updated": "05:02 PM ET",
+  "updated": "09:14 AM ET",
   "season_record": {
-    "wins": 35,
-    "losses": 20,
+    "wins": 44,
+    "losses": 28,
     "pushes": 2,
-    "units_pnl": 9.262,
-    "bets_placed": 57
+    "units_pnl": 12.404,
+    "bets_placed": 74
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 27,
-      "losses": 15,
+      "wins": 32,
+      "losses": 19,
       "pushes": 0,
-      "win_pct": 64.3,
-      "pnl": 7.93,
-      "roi": 18.9,
-      "bets": 42
+      "win_pct": 62.7,
+      "pnl": 11.77,
+      "roi": 21.8,
+      "bets": 51
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 6,
-      "losses": 4,
+      "wins": 10,
+      "losses": 8,
       "pushes": 2,
-      "win_pct": 60.0,
-      "pnl": 0.52,
-      "roi": 4.7,
-      "bets": 12
+      "win_pct": 55.6,
+      "pnl": -0.18,
+      "roi": -0.9,
+      "bets": 20
     }
   },
   "bets": [
@@ -81,7 +81,8 @@
         "platoon": 9
       },
       "game": "LAA @ NYY",
-      "game_time": "7:05 PM ET"
+      "game_time": "7:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Casey Schmitt",
@@ -125,7 +126,8 @@
       "game": "SF @ CIN",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "loss"
     },
     {
       "name": "Michael Lorenzen",
@@ -171,7 +173,8 @@
       },
       "game": "COL @ HOU",
       "game_time": "8:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Mitch Keller",
@@ -215,7 +218,8 @@
       },
       "game": "WSH @ PIT",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Aaron Nola",
@@ -263,7 +267,8 @@
       },
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Willy Adames",
@@ -306,7 +311,8 @@
       "game": "SF @ CIN",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     },
     {
       "name": "Bryce Harper",
@@ -349,7 +355,8 @@
         "platoon": 1
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Matt Olson",
@@ -390,7 +397,8 @@
         "platoon": 9
       },
       "game": "MIA @ ATL",
-      "game_time": "7:15 PM ET"
+      "game_time": "7:15 PM ET",
+      "result": "win"
     },
     {
       "name": "Mick Abel",
@@ -433,7 +441,8 @@
       },
       "game": "BOS @ MIN",
       "game_time": "7:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Kyle Schwarber",
@@ -480,7 +489,8 @@
         "platoon": 1
       },
       "game": "CHC @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Ketel Marte",
@@ -524,7 +534,8 @@
       "game": "AZ @ BAL",
       "game_time": "6:35 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "loss"
     },
     {
       "name": "Ryan Weathers",
@@ -570,7 +581,8 @@
       },
       "game": "LAA @ NYY",
       "game_time": "7:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Joey Cantillo",
@@ -613,7 +625,8 @@
       },
       "game": "CLE @ STL",
       "game_time": "7:45 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Nico Hoerner",
@@ -659,7 +672,8 @@
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     },
     {
       "name": "Cole Ragans",
@@ -702,7 +716,8 @@
       },
       "game": "KC @ DET",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Brady Singer",
@@ -748,7 +763,8 @@
       "game_time": "6:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "loss"
     },
     {
       "name": "Sonny Gray",
@@ -793,7 +809,8 @@
       "game_time": "7:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal resolved"
+      "lock_reason": "Preserved from earlier scan - sharp signal resolved",
+      "result": "win"
     }
   ]
 }
