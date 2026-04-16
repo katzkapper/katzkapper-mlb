@@ -1,11 +1,11 @@
 {
   "date": "2026-04-15",
-  "updated": "09:12 AM ET",
+  "updated": "09:33 AM ET",
   "season_record": {
-    "wins": 53,
-    "losses": 36,
+    "wins": 54,
+    "losses": 35,
     "pushes": 3,
-    "units_pnl": 13.384,
+    "units_pnl": 15.484,
     "bets_placed": 92
   },
   "season_breakdown": {
@@ -31,12 +31,12 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 14,
-      "losses": 11,
+      "wins": 15,
+      "losses": 10,
       "pushes": 3,
-      "win_pct": 56.0,
-      "pnl": 0.57,
-      "roi": 2.0,
+      "win_pct": 60.0,
+      "pnl": 2.67,
+      "roi": 9.5,
       "bets": 28
     }
   },
@@ -352,7 +352,7 @@
       },
       "game": "SF @ CIN",
       "game_time": "6:40 PM ET",
-      "result": "loss"
+      "result": "win"
     },
     {
       "name": "Matt Olson",
