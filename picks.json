@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "updated": "10:25 AM ET",
+  "updated": "11:20 AM ET",
   "season_record": {
     "wins": 54,
     "losses": 35,
@@ -41,6 +41,54 @@
     }
   },
   "bets": [
+    {
+      "name": "Aaron Judge",
+      "type": "batter_tb",
+      "team": "NYY",
+      "opponent": "Brent Suter",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -155,
+      "raw_score": 85,
+      "score": 97,
+      "units": 3,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.733,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "Sharp lean  Odds:-260  Vel:208.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 12,
+      "mv_notes": [
+        "Line movement adj: +12 pts (85 -> 97)",
+        "Sharp confirmation bonus: +12 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Pitcher fatigue",
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "High game total (9.5)",
+        "Fast movement (208.0 cents/hr)",
+        "Over juice heavier (-260) Vel:208.0c/hr - STRONG sharp over lean"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 16,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 9
+      },
+      "game": "LAA @ NYY",
+      "game_time": "1:35 PM ET"
+    },
     {
       "name": "Walker Buehler",
       "type": "pitcher_outs",
@@ -85,7 +133,9 @@
       },
       "game": "SEA @ SD",
       "game_time": "8:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Jacob Lopez",
@@ -108,12 +158,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -154,12 +202,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -179,50 +225,6 @@
       "game": "BAL @ CLE",
       "game_time": "6:10 PM ET",
       "direction": "under"
-    },
-    {
-      "name": "Aaron Judge",
-      "type": "batter_tb",
-      "team": "NYY",
-      "opponent": "",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": 105,
-      "raw_score": 73,
-      "score": 73,
-      "units": 1,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.733,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "disadvantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Hot in this series",
-        "High game total (9.5)",
-        "Platoon disadvantage"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 12,
-        "batter_form": 32,
-        "park_weather": 17,
-        "game_total_bonus": 11,
-        "platoon": 1
-      },
-      "game": "LAA @ NYY",
-      "game_time": "1:35 PM ET"
     },
     {
       "name": "Brandon Sproat",
@@ -245,12 +247,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -290,12 +290,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -316,59 +314,13 @@
       "direction": "under"
     },
     {
-      "name": "Luis Castillo",
-      "type": "pitcher_outs",
-      "team": "SEA",
-      "opponent": "SD",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -115,
-      "raw_score": 70,
-      "score": 70,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 12.96,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "Quality bullpen options available",
-        "Returning from IL - hard pitch limit guaranteed"
-      ],
-      "breakdown": {
-        "recent_ip_form": 22,
-        "pitch_inefficiency": 18,
-        "opp_offense": 3,
-        "bullpen_availability": 13,
-        "game_context": 14
-      },
-      "game": "SEA @ SD",
-      "game_time": "8:40 PM ET",
-      "direction": "under"
-    },
-    {
       "name": "Braxton Ashcraft",
       "type": "pitcher_outs",
       "team": "PIT",
       "opponent": "WSH",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -120,
+      "odds": -125,
       "raw_score": 69,
       "score": 69,
       "units": 1,
@@ -382,12 +334,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-5  Vel:4.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -404,6 +354,91 @@
       },
       "game": "WSH @ PIT",
       "game_time": "12:35 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Parker Messick",
+      "type": "pitcher_outs",
+      "team": "CLE",
+      "opponent": "BAL",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -110,
+      "raw_score": 69,
+      "score": 69,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 15.36,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Inefficient pitcher (4.3 P/out)",
+        "Quality bullpen options available",
+        "Returning from IL - hard pitch limit guaranteed"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 14
+      },
+      "game": "BAL @ CLE",
+      "game_time": "6:10 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Patrick Corbin",
+      "type": "pitcher_outs",
+      "team": "TOR",
+      "opponent": "MIL",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -175,
+      "raw_score": 63,
+      "score": 63,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.88,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-5  Vel:4.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Inefficient pitcher (4.3 P/out)",
+        "Returning from IL - hard pitch limit guaranteed"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 7,
+        "game_context": 14
+      },
+      "game": "TOR @ MIL",
+      "game_time": "1:40 PM ET",
       "direction": "under"
     }
   ]
