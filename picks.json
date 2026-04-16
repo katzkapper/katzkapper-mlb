@@ -1,12 +1,12 @@
 {
   "date": "2026-04-15",
-  "updated": "04:56 PM ET",
+  "updated": "09:12 AM ET",
   "season_record": {
-    "wins": 44,
-    "losses": 27,
+    "wins": 53,
+    "losses": 36,
     "pushes": 3,
-    "units_pnl": 13.404,
-    "bets_placed": 74
+    "units_pnl": 13.384,
+    "bets_placed": 92
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 32,
-      "losses": 19,
+      "wins": 37,
+      "losses": 24,
       "pushes": 0,
-      "win_pct": 62.7,
-      "pnl": 11.77,
-      "roi": 21.8,
-      "bets": 51
+      "win_pct": 60.7,
+      "pnl": 12.0,
+      "roi": 18.5,
+      "bets": 61
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 10,
-      "losses": 7,
+      "wins": 14,
+      "losses": 11,
       "pushes": 3,
-      "win_pct": 58.8,
-      "pnl": 0.82,
-      "roi": 4.1,
-      "bets": 20
+      "win_pct": 56.0,
+      "pnl": 0.57,
+      "roi": 2.0,
+      "bets": 28
     }
   },
   "bets": [
@@ -84,7 +84,8 @@
       },
       "game": "MIA @ ATL",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Aaron Judge",
@@ -126,7 +127,8 @@
         "platoon": 1
       },
       "game": "LAA @ NYY",
-      "game_time": "7:05 PM ET"
+      "game_time": "7:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Kyle Schwarber",
@@ -171,7 +173,8 @@
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Brandon Marsh",
@@ -216,7 +219,8 @@
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "J.T. Ginn",
@@ -260,7 +264,8 @@
       },
       "game": "TEX @ ATH",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Bryce Elder",
@@ -304,7 +309,8 @@
       },
       "game": "MIA @ ATL",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Elly De La Cruz",
@@ -345,7 +351,8 @@
         "platoon": 5
       },
       "game": "SF @ CIN",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Matt Olson",
@@ -385,7 +392,8 @@
         "platoon": 9
       },
       "game": "MIA @ ATL",
-      "game_time": "7:15 PM ET"
+      "game_time": "7:15 PM ET",
+      "result": "win"
     },
     {
       "name": "Willy Adames",
@@ -431,7 +439,8 @@
       "game": "SF @ CIN",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Dylan Cease",
@@ -478,7 +487,8 @@
       },
       "game": "TOR @ MIL",
       "game_time": "7:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Mike Trout",
@@ -526,7 +536,8 @@
         "platoon": 1
       },
       "game": "LAA @ NYY",
-      "game_time": "7:05 PM ET"
+      "game_time": "7:05 PM ET",
+      "result": "win"
     },
     {
       "name": "Jose Quintana",
@@ -571,7 +582,8 @@
       },
       "game": "COL @ HOU",
       "game_time": "8:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Shota Imanaga",
@@ -615,7 +627,8 @@
       },
       "game": "CHC @ PHI",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Emerson Hancock",
@@ -658,7 +671,8 @@
       },
       "game": "SEA @ SD",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Simeon Woods Richardson",
@@ -686,7 +700,8 @@
       "breakdown": {},
       "trend": "flat",
       "w_avg_outs": null,
-      "implied_ip": null
+      "implied_ip": null,
+      "result": "win"
     },
     {
       "name": "Slade Cecconi",
@@ -714,7 +729,8 @@
       "breakdown": {},
       "trend": "flat",
       "w_avg_outs": null,
-      "implied_ip": null
+      "implied_ip": null,
+      "result": "win"
     },
     {
       "name": "Jeremiah Jackson",
@@ -742,7 +758,8 @@
       "breakdown": {},
       "trend": "flat",
       "w_avg_tb": null,
-      "platoon": "neutral"
+      "platoon": "neutral",
+      "result": "win"
     },
     {
       "name": "Kyle Bradish",
@@ -770,7 +787,8 @@
       "breakdown": {},
       "trend": "flat",
       "w_avg_outs": null,
-      "implied_ip": null
+      "implied_ip": null,
+      "result": "loss"
     }
   ]
 }
