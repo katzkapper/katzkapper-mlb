@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "updated": "10:06 AM ET",
+  "updated": "10:25 AM ET",
   "season_record": {
     "wins": 54,
     "losses": 35,
@@ -86,49 +86,6 @@
       "game": "SEA @ SD",
       "game_time": "8:40 PM ET",
       "direction": "under"
-    },
-    {
-      "name": "Jake Bauers",
-      "type": "batter_tb",
-      "team": "MIL",
-      "opponent": "Patrick Corbin",
-      "line": 0.5,
-      "sharp_signal": false,
-      "odds": -140,
-      "raw_score": 77,
-      "score": 77,
-      "units": 1,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.0,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Cold vs this pitcher handedness",
-        "Hot in this series"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 12,
-        "batter_form": 32,
-        "park_weather": 17,
-        "game_total_bonus": 7,
-        "platoon": 9
-      },
-      "game": "TOR @ MIL",
-      "game_time": "1:40 PM ET"
     },
     {
       "name": "Jacob Lopez",
