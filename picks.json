@@ -1,12 +1,12 @@
 {
   "date": "2026-04-16",
-  "updated": "12:05 PM ET",
+  "updated": "09:52 AM ET",
   "season_record": {
-    "wins": 54,
-    "losses": 35,
+    "wins": 58,
+    "losses": 41,
     "pushes": 3,
-    "units_pnl": 15.484,
-    "bets_placed": 92
+    "units_pnl": 14.382,
+    "bets_placed": 102
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 37,
-      "losses": 24,
+      "wins": 40,
+      "losses": 30,
       "pushes": 0,
-      "win_pct": 60.7,
-      "pnl": 12.0,
-      "roi": 18.5,
-      "bets": 61
+      "win_pct": 57.1,
+      "pnl": 8.96,
+      "roi": 12.0,
+      "bets": 70
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 15,
+      "wins": 16,
       "losses": 10,
       "pushes": 3,
-      "win_pct": 60.0,
-      "pnl": 2.67,
-      "roi": 9.5,
-      "bets": 28
+      "win_pct": 61.5,
+      "pnl": 4.6,
+      "roi": 14.8,
+      "bets": 29
     }
   },
   "bets": [
@@ -89,7 +89,8 @@
       "game": "LAA @ NYY",
       "game_time": "1:35 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Walker Buehler",
@@ -137,7 +138,8 @@
       "game_time": "8:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Jacob Lopez",
@@ -180,7 +182,8 @@
       },
       "game": "TEX @ ATH",
       "game_time": "3:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Landen Roupp",
@@ -227,7 +230,8 @@
       },
       "game": "SF @ CIN",
       "game_time": "12:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Shane Baz",
@@ -271,7 +275,8 @@
       },
       "game": "BAL @ CLE",
       "game_time": "6:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Patrick Corbin",
@@ -315,7 +320,8 @@
       "game_time": "1:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Brandon Sproat",
@@ -357,7 +363,8 @@
       },
       "game": "TOR @ MIL",
       "game_time": "1:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Jack Leiter",
@@ -400,7 +407,8 @@
       },
       "game": "TEX @ ATH",
       "game_time": "3:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -442,7 +450,8 @@
       },
       "game": "WSH @ PIT",
       "game_time": "12:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Parker Messick",
@@ -484,7 +493,8 @@
       },
       "game": "BAL @ CLE",
       "game_time": "6:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     }
   ]
 }
