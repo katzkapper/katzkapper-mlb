@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "updated": "01:25 PM ET",
+  "updated": "02:08 PM ET",
   "season_record": {
     "wins": 58,
     "losses": 41,
@@ -42,6 +42,93 @@
   },
   "bets": [
     {
+      "name": "Matt Olson",
+      "type": "batter_tb",
+      "team": "PHI",
+      "opponent": "Mart\u00edn P\u00e9rez",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -105,
+      "raw_score": 81,
+      "score": 81,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.467,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "High game total (9.5)"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 32,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 9
+      },
+      "game": "ATL @ PHI",
+      "game_time": "6:40 PM ET"
+    },
+    {
+      "name": "Brandon Marsh",
+      "type": "batter_tb",
+      "team": "PHI",
+      "opponent": "Mart\u00edn P\u00e9rez",
+      "line": 0.5,
+      "sharp_signal": false,
+      "odds": -155,
+      "raw_score": 78,
+      "score": 78,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 1.467,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Cold vs this pitcher handedness",
+        "High game total (9.5)"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 12,
+        "batter_form": 29,
+        "park_weather": 17,
+        "game_total_bonus": 11,
+        "platoon": 9
+      },
+      "game": "ATL @ PHI",
+      "game_time": "6:40 PM ET"
+    },
+    {
       "name": "Jacob deGrom",
       "type": "pitcher_outs",
       "team": "TEX",
@@ -62,7 +149,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "Sharp lean  Odds:-205  Vel:67.6c/hr",
+      "movement_summary": "Sharp lean  Odds:-205  Vel:54.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 8,
       "mv_notes": [
@@ -76,8 +163,8 @@
         "Inefficient pitcher (4.3 P/out)",
         "3 fresh quality relievers (ERA 3.56) - quick hook very likely",
         "Very low game total (6.5) - pitcher's duel, starter will go deep",
-        "Fast movement (67.6 cents/hr)",
-        "Under juice heavier (-205) Vel:67.6c/hr - Sharp under lean"
+        "Fast movement (54.7 cents/hr)",
+        "Under juice heavier (-205) Vel:54.7c/hr - Sharp under lean"
       ],
       "breakdown": {
         "recent_ip_form": 28,
@@ -111,7 +198,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+5  Vel:1.6c/hr",
+      "movement_summary": "No movement  Odds:+5  Vel:1.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -154,7 +241,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:-10  Vel:3.3c/hr",
+      "movement_summary": "No movement  Odds:-10  Vel:2.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -288,7 +375,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:-5  Vel:1.6c/hr",
+      "movement_summary": "No movement  Odds:-5  Vel:1.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -332,7 +419,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+10  Vel:3.3c/hr",
+      "movement_summary": "No movement  Odds:+10  Vel:2.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
