@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "updated": "10:23 AM ET",
+  "updated": "11:06 AM ET",
   "season_record": {
     "wins": 58,
     "losses": 41,
@@ -42,13 +42,62 @@
   },
   "bets": [
     {
+      "name": "Jacob deGrom",
+      "type": "pitcher_outs",
+      "team": "TEX",
+      "opponent": "SEA",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": -105,
+      "raw_score": 65,
+      "score": 77,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.4,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Sharp lean  Odds:-205  Vel:286.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 12,
+      "mv_notes": [
+        "Line movement adj: +12 pts (65 -> 77)",
+        "Sharp confirmation bonus: +12 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line 3.1 outs above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "3 fresh quality relievers (ERA 3.56) - quick hook very likely",
+        "Very low game total (6.5) - pitcher's duel, starter will go deep",
+        "Fast movement (286.0 cents/hr)",
+        "Under juice heavier (-205) Vel:286.0c/hr - STRONG sharp under lean"
+      ],
+      "breakdown": {
+        "recent_ip_form": 28,
+        "pitch_inefficiency": 18,
+        "opp_offense": 3,
+        "bullpen_availability": 18,
+        "game_context": -2
+      },
+      "game": "TEX @ SEA",
+      "game_time": "9:40 PM ET",
+      "direction": "under"
+    },
+    {
       "name": "Tanner Bibee",
       "type": "pitcher_outs",
       "team": "CLE",
       "opponent": "BAL",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -120,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -62,12 +111,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:7.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -107,12 +154,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -152,12 +197,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -174,6 +217,50 @@
       },
       "game": "DET @ BOS",
       "game_time": "7:15 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Kyle Leahy",
+      "type": "pitcher_outs",
+      "team": "STL",
+      "opponent": "HOU",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -136,
+      "raw_score": 70,
+      "score": 70,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.62,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:+9  Vel:12.6c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (4.3 P/out)",
+        "Strong offense (OBP=0.358) - pitch count pressure",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 12,
+        "bullpen_availability": 13,
+        "game_context": 5
+      },
+      "game": "STL @ HOU",
+      "game_time": "8:10 PM ET",
       "direction": "under"
     },
     {
@@ -219,53 +306,9 @@
       },
       "game": "DET @ BOS",
       "game_time": "7:15 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Kyle Leahy",
-      "type": "pitcher_outs",
-      "team": "STL",
-      "opponent": "HOU",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -145,
-      "raw_score": 70,
-      "score": 70,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 13.62,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line above recent avg",
-        "Inefficient pitcher (4.3 P/out)",
-        "Strong offense (OBP=0.358) - pitch count pressure",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 22,
-        "pitch_inefficiency": 18,
-        "opp_offense": 12,
-        "bullpen_availability": 13,
-        "game_context": 5
-      },
-      "game": "STL @ HOU",
-      "game_time": "8:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Chris Bassitt",
@@ -288,12 +331,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -334,12 +375,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
