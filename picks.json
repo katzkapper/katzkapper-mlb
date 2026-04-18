@@ -1,12 +1,12 @@
 {
   "date": "2026-04-17",
-  "updated": "06:53 PM ET",
+  "updated": "10:24 AM ET",
   "season_record": {
-    "wins": 58,
-    "losses": 41,
+    "wins": 64,
+    "losses": 46,
     "pushes": 3,
-    "units_pnl": 14.382,
-    "bets_placed": 102
+    "units_pnl": 14.181,
+    "bets_placed": 113
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 40,
-      "losses": 30,
+      "wins": 46,
+      "losses": 34,
       "pushes": 0,
-      "win_pct": 57.1,
-      "pnl": 8.96,
-      "roi": 12.0,
-      "bets": 70
+      "win_pct": 57.5,
+      "pnl": 9.76,
+      "roi": 11.5,
+      "bets": 80
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 16,
-      "losses": 10,
+      "losses": 11,
       "pushes": 3,
-      "win_pct": 61.5,
-      "pnl": 4.6,
-      "roi": 14.8,
-      "bets": 29
+      "win_pct": 59.3,
+      "pnl": 3.6,
+      "roi": 11.3,
+      "bets": 30
     }
   },
   "bets": [
@@ -128,7 +128,8 @@
         "platoon": 9
       },
       "game": "ATL @ PHI",
-      "game_time": "6:40 PM ET"
+      "game_time": "6:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Jacob deGrom",
@@ -177,7 +178,8 @@
       },
       "game": "TEX @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Janson Junk",
@@ -220,7 +222,8 @@
       },
       "game": "MIL @ MIA",
       "game_time": "7:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Tanner Bibee",
@@ -265,7 +268,8 @@
       "game_time": "6:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Kyle Leahy",
@@ -309,7 +313,8 @@
       },
       "game": "STL @ HOU",
       "game_time": "8:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Casey Mize",
@@ -356,7 +361,8 @@
       "game_time": "7:15 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Ranger Suarez",
@@ -399,7 +405,8 @@
       },
       "game": "DET @ BOS",
       "game_time": "7:15 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Chris Bassitt",
@@ -445,7 +452,8 @@
       "game_time": "6:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Taijuan Walker",
@@ -488,7 +496,8 @@
       },
       "game": "ATL @ PHI",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Logan Webb",
@@ -531,7 +540,8 @@
       },
       "game": "SF @ WSH",
       "game_time": "6:45 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Cam Schlittler",
@@ -574,7 +584,8 @@
       },
       "game": "KC @ NYY",
       "game_time": "7:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     }
   ]
 }
