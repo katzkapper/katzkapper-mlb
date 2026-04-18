@@ -1,12 +1,12 @@
 {
   "date": "2026-04-17",
-  "updated": "10:24 AM ET",
+  "updated": "10:31 AM ET",
   "season_record": {
     "wins": 64,
     "losses": 46,
-    "pushes": 3,
+    "pushes": 4,
     "units_pnl": 14.181,
-    "bets_placed": 113
+    "bets_placed": 114
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -33,11 +33,11 @@
       "label": "Total Bases",
       "wins": 16,
       "losses": 11,
-      "pushes": 3,
+      "pushes": 4,
       "win_pct": 59.3,
       "pnl": 3.6,
       "roi": 11.3,
-      "bets": 30
+      "bets": 31
     }
   },
   "bets": [
@@ -84,7 +84,8 @@
       "game": "ATL @ PHI",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "push"
     },
     {
       "name": "Matt Olson",
