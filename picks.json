@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "updated": "01:44 PM ET",
+  "updated": "03:41 PM ET",
   "season_record": {
     "wins": 70,
     "losses": 54,
@@ -83,7 +83,9 @@
       },
       "game": "LAD @ COL",
       "game_time": "3:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Mitch Keller",
@@ -131,7 +133,9 @@
       },
       "game": "TB @ PIT",
       "game_time": "1:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Brady Singer",
@@ -174,7 +178,9 @@
       },
       "game": "CIN @ MIN",
       "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Hunter Goodman",
@@ -216,7 +222,9 @@
         "platoon": 1
       },
       "game": "LAD @ COL",
-      "game_time": "3:10 PM ET"
+      "game_time": "3:10 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Robbie Ray",
@@ -259,7 +267,9 @@
       },
       "game": "SF @ WSH",
       "game_time": "1:35 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Mike Burrows",
@@ -306,7 +316,9 @@
       },
       "game": "STL @ HOU",
       "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Joey Cantillo",
@@ -350,7 +362,9 @@
       },
       "game": "BAL @ CLE",
       "game_time": "1:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Roki Sasaki",
@@ -394,6 +408,94 @@
       },
       "game": "LAD @ COL",
       "game_time": "3:10 PM ET",
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+    },
+    {
+      "name": "Bryce Harper",
+      "type": "batter_tb",
+      "team": "PHI",
+      "opponent": "Grant Holmes",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 110,
+      "raw_score": 70,
+      "score": 70,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.133,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Pitcher fatigue",
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Cool weather game (51.2F)"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 16,
+        "batter_form": 28,
+        "park_weather": 14,
+        "game_total_bonus": 3,
+        "platoon": 9
+      },
+      "game": "ATL @ PHI",
+      "game_time": "7:20 PM ET"
+    },
+    {
+      "name": "MacKenzie Gore",
+      "type": "pitcher_outs",
+      "team": "TEX",
+      "opponent": "SEA",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -115,
+      "raw_score": 69,
+      "score": 69,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.5,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-10  Vel:3.3c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Very inefficient (5.5 P/out) - will exit early",
+        "6 fresh quality relievers (ERA 3.48) - quick hook very likely"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 24,
+        "opp_offense": 3,
+        "bullpen_availability": 18,
+        "game_context": 2
+      },
+      "game": "TEX @ SEA",
+      "game_time": "4:10 PM ET",
       "direction": "under"
     },
     {
@@ -403,9 +505,9 @@
       "opponent": "AZ",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": 110,
-      "raw_score": 71,
-      "score": 71,
+      "odds": 125,
+      "raw_score": 65,
+      "score": 65,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
@@ -417,31 +519,116 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+15  Vel:5.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Line above recent avg",
-        "Very inefficient (5.27 P/out) - will exit early",
+        "Inefficient pitcher (5.27 P/out)",
         "Quality bullpen options available"
       ],
       "breakdown": {
         "recent_ip_form": 22,
-        "pitch_inefficiency": 24,
+        "pitch_inefficiency": 18,
         "opp_offense": 8,
         "bullpen_availability": 13,
         "game_context": 4
       },
       "game": "TOR @ AZ",
       "game_time": "4:10 PM ET",
-      "direction": "under",
-      "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "direction": "under"
+    },
+    {
+      "name": "Michael King",
+      "type": "pitcher_outs",
+      "team": "SD",
+      "opponent": "LAA",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -105,
+      "raw_score": 60,
+      "score": 60,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.82,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Inefficient pitcher (5.04 P/out)",
+        "Quality bullpen options available"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": 5
+      },
+      "game": "SD @ LAA",
+      "game_time": "4:07 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Ryne Nelson",
+      "type": "pitcher_outs",
+      "team": "AZ",
+      "opponent": "TOR",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": 100,
+      "raw_score": 66,
+      "score": 59,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.74,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Juice fade  Odds:+205  Vel:68.0c/hr",
+      "movement_penalty": 7,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Line movement adj: -7 pts (66 -> 59)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "downgrade",
+      "flags": [
+        "Line above recent avg",
+        "Very inefficient (5.5 P/out) - will exit early",
+        "Quality bullpen options available",
+        "Fast movement (68.0 cents/hr)",
+        "Under juice lighter (+205) Vel:68.0c/hr - Sharp over lean - fading under"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 24,
+        "opp_offense": 3,
+        "bullpen_availability": 13,
+        "game_context": 4
+      },
+      "game": "TOR @ AZ",
+      "game_time": "4:10 PM ET",
+      "direction": "under"
     }
   ]
 }
