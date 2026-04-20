@@ -1,43 +1,43 @@
 {
   "date": "2026-04-19",
-  "updated": "03:41 PM ET",
+  "updated": "09:06 AM ET",
   "season_record": {
-    "wins": 70,
-    "losses": 54,
+    "wins": 77,
+    "losses": 61,
     "pushes": 4,
-    "units_pnl": 11.009,
-    "bets_placed": 128
+    "units_pnl": 8.644,
+    "bets_placed": 142
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "pushes": 0,
-      "win_pct": 66.7,
-      "pnl": 0.82,
-      "roi": 27.3,
-      "bets": 3
+      "win_pct": 50.0,
+      "pnl": -0.18,
+      "roi": -4.5,
+      "bets": 4
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 52,
-      "losses": 40,
+      "wins": 58,
+      "losses": 45,
       "pushes": 0,
-      "win_pct": 56.5,
-      "pnl": 8.59,
-      "roi": 8.8,
-      "bets": 92
+      "win_pct": 56.3,
+      "pnl": 7.22,
+      "roi": 6.5,
+      "bets": 103
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 16,
-      "losses": 13,
+      "wins": 17,
+      "losses": 14,
       "pushes": 4,
-      "win_pct": 55.2,
+      "win_pct": 54.8,
       "pnl": 1.6,
-      "roi": 4.7,
-      "bets": 33
+      "roi": 4.4,
+      "bets": 35
     }
   },
   "bets": [
@@ -85,7 +85,8 @@
       "game_time": "3:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Mitch Keller",
@@ -135,7 +136,8 @@
       "game_time": "1:35 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Brady Singer",
@@ -180,7 +182,8 @@
       "game_time": "2:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -224,7 +227,8 @@
       "game": "LAD @ COL",
       "game_time": "3:10 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Robbie Ray",
@@ -269,7 +273,8 @@
       "game_time": "1:35 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Mike Burrows",
@@ -318,7 +323,8 @@
       "game_time": "2:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Joey Cantillo",
@@ -364,7 +370,8 @@
       "game_time": "1:40 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Roki Sasaki",
@@ -410,7 +417,8 @@
       "game_time": "3:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Bryce Harper",
@@ -453,7 +461,8 @@
         "platoon": 9
       },
       "game": "ATL @ PHI",
-      "game_time": "7:20 PM ET"
+      "game_time": "7:20 PM ET",
+      "result": "loss"
     },
     {
       "name": "MacKenzie Gore",
@@ -476,7 +485,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:-10  Vel:3.3c/hr",
+      "movement_summary": "No movement  Odds:-10  Vel:3.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -496,7 +505,8 @@
       },
       "game": "TEX @ SEA",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Kevin Gausman",
@@ -519,7 +529,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+15  Vel:5.0c/hr",
+      "movement_summary": "No movement  Odds:+15  Vel:4.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -539,7 +549,8 @@
       },
       "game": "TOR @ AZ",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Michael King",
@@ -581,7 +592,8 @@
       },
       "game": "SD @ LAA",
       "game_time": "4:07 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Ryne Nelson",
@@ -604,7 +616,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "Juice fade  Odds:+205  Vel:68.0c/hr",
+      "movement_summary": "Juice fade  Odds:+205  Vel:61.8c/hr",
       "movement_penalty": 7,
       "movement_bonus": 0,
       "mv_notes": [
@@ -616,8 +628,8 @@
         "Line above recent avg",
         "Very inefficient (5.5 P/out) - will exit early",
         "Quality bullpen options available",
-        "Fast movement (68.0 cents/hr)",
-        "Under juice lighter (+205) Vel:68.0c/hr - Sharp over lean - fading under"
+        "Fast movement (61.8 cents/hr)",
+        "Under juice lighter (+205) Vel:61.8c/hr - Sharp over lean - fading under"
       ],
       "breakdown": {
         "recent_ip_form": 22,
@@ -628,7 +640,51 @@
       },
       "game": "TOR @ AZ",
       "game_time": "4:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
+    },
+    {
+      "name": "Andrew Painter",
+      "type": "pitcher_k",
+      "team": "PHI",
+      "opponent": "ATL",
+      "line": 4.5,
+      "sharp_signal": false,
+      "odds": -118,
+      "raw_score": 58,
+      "score": 58,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": 6.0,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Trending down last 2 starts",
+        "Extra rest (7 days)"
+      ],
+      "breakdown": {
+        "pitcher_stuff": 12,
+        "pitcher_form": 21,
+        "opp_k_vulnerability": 5,
+        "platoon": 3,
+        "contextual": 7,
+        "line_value": 10
+      },
+      "game": "ATL @ PHI",
+      "game_time": "7:20 PM ET",
+      "result": "loss"
     }
   ]
 }
