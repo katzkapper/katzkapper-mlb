@@ -320,7 +320,7 @@ function renderPage(data) {
   const correlated = Object.entries(pitcherBets).filter(([n, t]) => t.length > 1);
   if (correlated.length > 0) {
     html += '<div style="background:#2a1f00;border:1px solid #f5a623;border-radius:8px;padding:10px 14px;margin:12px 0;font-size:12px;color:#f5a623;">';
-    html += '<span style="font-weight:700;">⚠️ CORRELATED BETS</span><br>';
+    html += '<span style="font-weight:700;">&#9888; CORRELATED BETS</span><br>';
     correlated.forEach(([name, types]) => {
       html += '<span style="color:#ffd580;">' + name + '</span> — ' + types.join(' + ') + '<br>';
     });
