@@ -1,43 +1,43 @@
 {
   "date": "2026-04-20",
-  "updated": "04:57 PM ET",
+  "updated": "09:09 AM ET",
   "season_record": {
-    "wins": 77,
-    "losses": 61,
+    "wins": 83,
+    "losses": 69,
     "pushes": 4,
-    "units_pnl": 8.644,
-    "bets_placed": 142
+    "units_pnl": 5.438,
+    "bets_placed": 156
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 2,
-      "losses": 2,
+      "wins": 3,
+      "losses": 4,
       "pushes": 0,
-      "win_pct": 50.0,
-      "pnl": -0.18,
-      "roi": -4.5,
-      "bets": 4
+      "win_pct": 42.9,
+      "pnl": -1.64,
+      "roi": -18.3,
+      "bets": 7
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 58,
-      "losses": 45,
+      "wins": 62,
+      "losses": 49,
       "pushes": 0,
-      "win_pct": 56.3,
-      "pnl": 7.22,
-      "roi": 6.5,
-      "bets": 103
+      "win_pct": 55.9,
+      "pnl": 6.58,
+      "roi": 5.5,
+      "bets": 111
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 17,
-      "losses": 14,
+      "wins": 18,
+      "losses": 16,
       "pushes": 4,
-      "win_pct": 54.8,
-      "pnl": 1.6,
-      "roi": 4.4,
-      "bets": 35
+      "win_pct": 52.9,
+      "pnl": 0.51,
+      "roi": 1.2,
+      "bets": 38
     }
   },
   "bets": [
@@ -81,7 +81,8 @@
         "platoon": 9
       },
       "game": "LAD @ COL",
-      "game_time": "8:40 PM ET"
+      "game_time": "8:40 PM ET",
+      "result": "loss"
     },
     {
       "name": "Max Muncy",
@@ -123,7 +124,8 @@
         "platoon": 9
       },
       "game": "LAD @ COL",
-      "game_time": "8:40 PM ET"
+      "game_time": "8:40 PM ET",
+      "result": "win"
     },
     {
       "name": "Spencer Arrighetti",
@@ -164,7 +166,8 @@
         "line_value": 10
       },
       "game": "HOU @ CLE",
-      "game_time": "6:10 PM ET"
+      "game_time": "6:10 PM ET",
+      "result": "loss"
     },
     {
       "name": "Jake Irvin",
@@ -203,7 +206,8 @@
         "line_value": 10
       },
       "game": "ATL @ WSH",
-      "game_time": "6:45 PM ET"
+      "game_time": "6:45 PM ET",
+      "result": "win"
     },
     {
       "name": "Justin Wrobleski",
@@ -252,7 +256,8 @@
       },
       "game": "LAD @ COL",
       "game_time": "8:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Junior Caminero",
@@ -302,7 +307,8 @@
       "game": "CIN @ TB",
       "game_time": "6:40 PM ET",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Spencer Arrighetti",
@@ -348,7 +354,8 @@
       },
       "game": "HOU @ CLE",
       "game_time": "6:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     },
     {
       "name": "Jose Quintana",
@@ -395,7 +402,8 @@
       },
       "game": "LAD @ COL",
       "game_time": "8:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     },
     {
       "name": "Jack Flaherty",
@@ -443,7 +451,8 @@
       "game_time": "11:10 AM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Reid Detmers",
@@ -490,7 +499,8 @@
       },
       "game": "TOR @ LAA",
       "game_time": "9:38 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Emerson Hancock",
@@ -530,7 +540,8 @@
       },
       "game": "ATH @ SEA",
       "game_time": "9:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     },
     {
       "name": "Sonny Gray",
@@ -577,7 +588,8 @@
       "game_time": "11:10 AM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Reid Detmers",
@@ -619,7 +631,8 @@
         "line_value": 1
       },
       "game": "TOR @ LAA",
-      "game_time": "9:38 PM ET"
+      "game_time": "9:38 PM ET",
+      "result": "loss"
     },
     {
       "name": "Slade Cecconi",
@@ -670,7 +683,8 @@
       "game_time": "6:10 PM ET",
       "direction": "over",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     }
   ]
 }
