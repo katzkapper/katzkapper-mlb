@@ -434,7 +434,8 @@ function renderCard(bet) {
     subLine = 'W.Avg K: ' + (bet.w_avg_k || '?') + '  |  W.Over: ' + (bet.w_over_rate ? Math.round(bet.w_over_rate * 100) + '%' : '?');
     if (bet.umpire) subLine += '  |  Ump: ' + bet.umpire;
   } else if (bet.type === 'batter_tb') {
-    subLine = 'W.Avg TB: ' + (bet.w_avg_tb || '?') + '  |  Platoon: ' + (bet.platoon || 'neutral');
+    const blastStr = bet.blast_pct ? bet.blast_pct + '%' : '?';
+    subLine = 'W.Avg TB: ' + (bet.w_avg_tb || '?') + '  |  Platoon: ' + (bet.platoon || 'neutral') + '  |  Blast: ' + blastStr;
   } else if (bet.type === 'pitcher_outs') {
     subLine = 'W.Avg Outs: ' + (bet.w_avg_outs || '?') + '  |  Implied IP: ' + (bet.implied_ip || '?');
   }
