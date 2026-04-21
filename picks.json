@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "updated": "11:09 AM ET",
+  "updated": "12:54 PM ET",
   "season_record": {
     "wins": 83,
     "losses": 69,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -96,7 +94,7 @@
       "opponent": "Randy V\u00e1squez",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -120,
       "raw_score": 72,
       "score": 72,
       "units": 1,
@@ -110,12 +108,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:2.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -144,8 +140,8 @@
       "line": 5.0,
       "sharp_signal": false,
       "odds": -110,
-      "raw_score": 66,
-      "score": 66,
+      "raw_score": 65,
+      "score": 65,
       "units": 1,
       "trend": "flat",
       "w_avg_k": 5.75,
@@ -157,29 +153,30 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "High whiff rate (29.8%)",
+        "Elite first pitch whiff (29.8%) - dominates 0-0 count",
         "Trending up last 2 starts",
         "Extra rest (6 days)"
       ],
       "breakdown": {
-        "pitcher_stuff": 17,
-        "pitcher_form": 24,
+        "pitcher_stuff": 25,
+        "pitcher_form": 21,
         "opp_k_vulnerability": 5,
         "platoon": 3,
-        "contextual": 7,
-        "line_value": 10
+        "contextual": 6,
+        "line_value": 5
       },
       "game": "SD @ COL",
-      "game_time": "8:40 PM ET"
+      "game_time": "8:40 PM ET",
+      "sharp_pinnacle_odds": null,
+      "sharp_consensus_odds": null
     },
     {
       "name": "Ryan Weiss",
@@ -188,7 +185,7 @@
       "opponent": "CLE",
       "line": 13.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -126,
       "raw_score": 63,
       "score": 63,
       "units": 1,
@@ -202,12 +199,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-1  Vel:0.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -232,9 +227,9 @@
       "type": "pitcher_outs",
       "team": "MIA",
       "opponent": "STL",
-      "line": 16.5,
+      "line": 15.5,
       "sharp_signal": false,
-      "odds": -105,
+      "odds": -110,
       "raw_score": 63,
       "score": 63,
       "units": 1,
@@ -243,23 +238,24 @@
       "w_over_rate": null,
       "w_avg_tb": null,
       "w_avg_outs": 12.48,
-      "implied_ip": 5.5,
+      "implied_ip": 5.2,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:-1.0  Odds:-5  Vel:2.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line 4.0 outs above recent avg",
+        "Line 3.0 outs above recent avg",
         "Quality bullpen options available",
-        "Hard contact allowed (46.1% hard hit) - high pitch count risk"
+        "Hard contact allowed (46.1% hard hit) - high pitch count risk",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)"
       ],
       "breakdown": {
         "recent_ip_form": 28,
@@ -273,13 +269,56 @@
       "direction": "under"
     },
     {
+      "name": "Shota Imanaga",
+      "type": "pitcher_outs",
+      "team": "CHC",
+      "opponent": "PHI",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": -135,
+      "raw_score": 63,
+      "score": 63,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 15.18,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Extra rest - may go deeper",
+        "High first pitch whiff (32.8%) - efficient at setting up counts"
+      ],
+      "breakdown": {
+        "recent_ip_form": 16,
+        "pitch_efficiency": 11,
+        "game_context": 14,
+        "opp_offense": 9,
+        "bullpen_context": 7,
+        "pitcher_stuff": 6
+      },
+      "game": "PHI @ CHC",
+      "game_time": "7:40 PM ET",
+      "direction": "over"
+    },
+    {
       "name": "Parker Messick",
       "type": "pitcher_outs",
       "team": "CLE",
       "opponent": "HOU",
-      "line": 16.5,
+      "line": 17.5,
       "sharp_signal": false,
-      "odds": -101,
+      "odds": 117,
       "raw_score": 61,
       "score": 61,
       "units": 1,
@@ -288,22 +327,25 @@
       "w_over_rate": 0.0,
       "w_avg_tb": null,
       "w_avg_outs": 16.56,
-      "implied_ip": 5.5,
+      "implied_ip": 5.8,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:+1.0  Odds:+218  Vel:124.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Very efficient (4.71 P/out)",
-        "Strong offense (OBP=0.35) - pitch count risk"
+        "Strong offense (OBP=0.35) - pitch count risk",
+        "Fast movement (124.6 cents/hr)",
+        "Sharp over money moved line up 1.0 (book repriced - sharps liked the over)",
+        "High velocity confirms sharp over action"
       ],
       "breakdown": {
         "recent_ip_form": 21,
@@ -318,47 +360,45 @@
       "direction": "over"
     },
     {
-      "name": "Shota Imanaga",
+      "name": "Chase Burns",
       "type": "pitcher_outs",
-      "team": "CHC",
-      "opponent": "PHI",
-      "line": 17.5,
+      "team": "CIN",
+      "opponent": "TB",
+      "line": 16.5,
       "sharp_signal": false,
-      "odds": -135,
-      "raw_score": 61,
-      "score": 61,
+      "odds": -125,
+      "raw_score": 60,
+      "score": 60,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
       "w_over_rate": 0.0,
       "w_avg_tb": null,
-      "w_avg_outs": 15.18,
-      "implied_ip": 5.8,
+      "w_avg_outs": 15.66,
+      "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Extra rest - may go deeper"
+        "High first pitch whiff (31.6%) - efficient at setting up counts"
       ],
       "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_efficiency": 11,
-        "game_context": 14,
-        "opp_offense": 9,
+        "recent_ip_form": 18,
+        "pitch_efficiency": 12,
+        "game_context": 12,
+        "opp_offense": 5,
         "bullpen_context": 7,
-        "pitcher_stuff": 4
+        "pitcher_stuff": 6
       },
-      "game": "PHI @ CHC",
-      "game_time": "7:40 PM ET",
+      "game": "CIN @ TB",
+      "game_time": "6:40 PM ET",
       "direction": "over"
     },
     {
@@ -382,12 +422,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -406,6 +444,54 @@
       "game": "STL @ MIA",
       "game_time": "6:40 PM ET",
       "direction": "under"
+    },
+    {
+      "name": "Yoshinobu Yamamoto",
+      "type": "pitcher_k",
+      "team": "LAD",
+      "opponent": "SF",
+      "line": 5.5,
+      "sharp_signal": false,
+      "odds": -106,
+      "raw_score": 58,
+      "score": 58,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": 5.38,
+      "w_over_rate": 0.75,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Elite whiff rate (30.2%) - swing and miss stuff",
+        "Moderate whiff/K gap (9.0pts) - some foul ball concern",
+        "Elite first pitch whiff (30.2%) - dominates 0-0 count",
+        "Trending up last 2 starts",
+        "Aggressive lineup (BB%=5.3%) - chases pitches",
+        "Extra rest (7 days)"
+      ],
+      "breakdown": {
+        "pitcher_stuff": 25,
+        "pitcher_form": 11,
+        "opp_k_vulnerability": 9,
+        "platoon": 3,
+        "contextual": 6,
+        "line_value": 4
+      },
+      "game": "LAD @ SF",
+      "game_time": "9:45 PM ET",
+      "sharp_pinnacle_odds": null,
+      "sharp_consensus_odds": null
     },
     {
       "name": "Nolan McLean",
@@ -449,92 +535,9 @@
         "line_value": 10
       },
       "game": "MIN @ NYM",
-      "game_time": "7:10 PM ET"
-    },
-    {
-      "name": "Landen Roupp",
-      "type": "pitcher_k",
-      "team": "SF",
-      "opponent": "LAD",
-      "line": 4.5,
-      "sharp_signal": true,
-      "odds": -146,
-      "raw_score": 58,
-      "score": 58,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": 6.0,
-      "w_over_rate": 0.75,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Trending down last 2 starts"
-      ],
-      "breakdown": {
-        "pitcher_stuff": 15,
-        "pitcher_form": 21,
-        "opp_k_vulnerability": 4,
-        "platoon": 3,
-        "contextual": 5,
-        "line_value": 10
-      },
-      "game": "LAD @ SF",
-      "game_time": "9:45 PM ET"
-    },
-    {
-      "name": "Chase Burns",
-      "type": "pitcher_outs",
-      "team": "CIN",
-      "opponent": "TB",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": -125,
-      "raw_score": 58,
-      "score": 58,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 15.66,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [],
-      "breakdown": {
-        "recent_ip_form": 18,
-        "pitch_efficiency": 12,
-        "game_context": 12,
-        "opp_offense": 5,
-        "bullpen_context": 7,
-        "pitcher_stuff": 4
-      },
-      "game": "CIN @ TB",
-      "game_time": "6:40 PM ET",
-      "direction": "over"
+      "game_time": "7:10 PM ET",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     }
   ]
 }
