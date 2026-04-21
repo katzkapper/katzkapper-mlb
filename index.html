@@ -465,7 +465,15 @@ function renderCard(bet) {
   const isLocked  = bet.locked || false;
 
   if (bet.sharp_signal) {
-    sharpHtml = '<div class="pick-sharp">&#9889; PINNACLE SHARP &mdash; Book disagreement detected</div>';
+    const pinOdds = bet.sharp_pinnacle_odds;
+    const conOdds = bet.sharp_consensus_odds;
+    let sharpDetail = '';
+    if (pinOdds && conOdds) {
+      const pinStr = pinOdds > 0 ? '+' + pinOdds : '' + pinOdds;
+      const conStr = conOdds > 0 ? '+' + conOdds : '' + conOdds;
+      sharpDetail = ' &mdash; Pinnacle ' + pinStr + ' vs Market ' + conStr;
+    }
+    sharpHtml = '<div class="pick-sharp">&#9889; PINNACLE SHARP' + sharpDetail + '</div>';
   } else if (isLocked) {
     sharpHtml = '<div class="pick-sharp pick-locked">&#128274; LOCKED &mdash; Qualified earlier, sharp signal preserved</div>';
   } else if (mv && mv.indexOf('No data') === -1 && mv.indexOf('No movement') === -1 && mv.indexOf('neutral') === -1) {
