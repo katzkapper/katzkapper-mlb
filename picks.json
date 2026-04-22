@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "updated": "01:23 PM ET",
+  "updated": "02:34 PM ET",
   "season_record": {
     "wins": 92,
     "losses": 72,
@@ -42,13 +42,58 @@
   },
   "bets": [
     {
+      "name": "Chris Bassitt",
+      "type": "pitcher_outs",
+      "team": "BAL",
+      "opponent": "KC",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -110,
+      "raw_score": 82,
+      "score": 82,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 9.36,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-2  Vel:1.7c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line 6.1 outs above recent avg",
+        "Very inefficient (7.31 P/out) - bottom 10% of starters",
+        "Low strike% (58.7%) - high pitch count, early exit likely",
+        "Quality bullpen options available",
+        "Hard contact allowed (32.3% hard hit) - high pitch count risk"
+      ],
+      "breakdown": {
+        "recent_ip_form": 28,
+        "pitch_inefficiency": 24,
+        "opp_offense": 3,
+        "bullpen_availability": 13,
+        "game_context": 9
+      },
+      "game": "BAL @ KC",
+      "game_time": "2:10 PM ET",
+      "direction": "under"
+    },
+    {
       "name": "Connor Prielipp",
       "type": "pitcher_outs",
       "team": "MIN",
       "opponent": "NYM",
       "line": 13.5,
       "sharp_signal": false,
-      "odds": -135,
+      "odds": -150,
       "raw_score": 76,
       "score": 76,
       "units": 1,
@@ -62,12 +107,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-15  Vel:12.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -138,7 +181,99 @@
       "team_total": 4.0,
       "batter_iso": 0.333,
       "blast_pct": 18.5,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+    },
+    {
+      "name": "Jack Leiter",
+      "type": "pitcher_outs",
+      "team": "TEX",
+      "opponent": "PIT",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -124,
+      "raw_score": 73,
+      "score": 73,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.92,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (6.15 P/out)",
+        "3 fresh quality relievers (ERA 3.45) - quick hook very likely",
+        "Hard contact allowed (42.8% hard hit) - high pitch count risk"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 18,
+        "opp_offense": 8,
+        "bullpen_availability": 18,
+        "game_context": 2
+      },
+      "game": "PIT @ TEX",
+      "game_time": "8:05 PM ET",
+      "direction": "under"
+    },
+    {
+      "name": "Tyler Mahle",
+      "type": "pitcher_outs",
+      "team": "SF",
+      "opponent": "LAD",
+      "line": 14.5,
+      "sharp_signal": false,
+      "odds": 140,
+      "raw_score": 73,
+      "score": 73,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 12.54,
+      "implied_ip": 4.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (6.32 P/out)",
+        "Elite offense (OBP=0.362) - high pitch count likely",
+        "Quality bullpen options available",
+        "Extra rest - may go deeper than usual",
+        "Hard contact allowed (39.9% hard hit) - high pitch count risk"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 20,
+        "opp_offense": 16,
+        "bullpen_availability": 13,
+        "game_context": -3
+      },
+      "game": "LAD @ SF",
+      "game_time": "9:45 PM ET",
+      "direction": "under"
     },
     {
       "name": "Michael Wacha",
@@ -147,7 +282,7 @@
       "opponent": "BAL",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -127,
+      "odds": -126,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -161,12 +296,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+1  Vel:0.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -206,12 +339,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -251,12 +382,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -320,7 +449,9 @@
       },
       "game": "PIT @ TEX",
       "game_time": "8:05 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -343,12 +474,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -413,53 +542,9 @@
       },
       "game": "CIN @ TB",
       "game_time": "1:10 PM ET",
-      "direction": "under"
-    },
-    {
-      "name": "Chris Bassitt",
-      "type": "pitcher_outs",
-      "team": "BAL",
-      "opponent": "KC",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -108,
-      "raw_score": 66,
-      "score": 66,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 9.36,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Line 6.1 outs above recent avg",
-        "Low strike% (58.7%) - high pitch count, early exit likely",
-        "Quality bullpen options available",
-        "Hard contact allowed (32.3% hard hit) - high pitch count risk"
-      ],
-      "breakdown": {
-        "recent_ip_form": 28,
-        "pitch_inefficiency": 8,
-        "opp_offense": 3,
-        "bullpen_availability": 13,
-        "game_context": 9
-      },
-      "game": "BAL @ KC",
-      "game_time": "2:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Braxton Ashcraft",
@@ -482,12 +567,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -530,12 +613,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
