@@ -1,43 +1,43 @@
 {
   "date": "2026-04-21",
-  "updated": "05:29 PM ET",
+  "updated": "07:25 AM ET",
   "season_record": {
-    "wins": 83,
-    "losses": 69,
-    "pushes": 4,
-    "units_pnl": 5.438,
-    "bets_placed": 156
+    "wins": 92,
+    "losses": 72,
+    "pushes": 5,
+    "units_pnl": 9.089,
+    "bets_placed": 169
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 3,
-      "losses": 4,
-      "pushes": 0,
-      "win_pct": 42.9,
-      "pnl": -1.64,
-      "roi": -18.3,
-      "bets": 7
+      "wins": 5,
+      "losses": 5,
+      "pushes": 1,
+      "win_pct": 50.0,
+      "pnl": -0.7,
+      "roi": -5.9,
+      "bets": 11
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 62,
+      "wins": 69,
       "losses": 49,
       "pushes": 0,
-      "win_pct": 55.9,
-      "pnl": 6.58,
-      "roi": 5.5,
-      "bets": 111
+      "win_pct": 58.5,
+      "pnl": 12.28,
+      "roi": 9.7,
+      "bets": 118
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 18,
-      "losses": 16,
+      "losses": 18,
       "pushes": 4,
-      "win_pct": 52.9,
-      "pnl": 0.51,
-      "roi": 1.2,
-      "bets": 38
+      "win_pct": 50.0,
+      "pnl": -2.49,
+      "roi": -5.7,
+      "bets": 40
     }
   },
   "bets": [
@@ -87,7 +87,8 @@
       "game_time": "8:40 PM ET",
       "team_total": 5.5,
       "batter_iso": 0.382,
-      "blast_pct": 10.0
+      "blast_pct": 10.0,
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -134,7 +135,8 @@
       "team_total": 5.5,
       "batter_iso": 0.274,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Shota Imanaga",
@@ -181,7 +183,8 @@
       "game": "PHI @ CHC",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Chris Paddack",
@@ -225,7 +228,8 @@
       },
       "game": "STL @ MIA",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Shota Imanaga",
@@ -268,7 +272,8 @@
       },
       "game": "PHI @ CHC",
       "game_time": "7:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Nolan McLean",
@@ -321,7 +326,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Randy V\u00e1squez",
@@ -368,7 +374,8 @@
       "game": "SD @ COL",
       "game_time": "8:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "push"
     },
     {
       "name": "Keider Montero",
@@ -416,7 +423,8 @@
       },
       "game": "MIL @ DET",
       "game_time": "6:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Chase Burns",
@@ -458,7 +466,8 @@
       },
       "game": "CIN @ TB",
       "game_time": "6:40 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Dustin May",
@@ -502,7 +511,8 @@
       },
       "game": "STL @ MIA",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Ryan Weiss",
@@ -550,7 +560,8 @@
       },
       "game": "HOU @ CLE",
       "game_time": "6:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Nolan McLean",
@@ -593,7 +604,8 @@
       },
       "game": "MIN @ NYM",
       "game_time": "7:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Yoshinobu Yamamoto",
@@ -643,7 +655,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     }
   ]
 }
