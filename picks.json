@@ -1,11 +1,11 @@
 {
   "date": "2026-04-22",
-  "updated": "09:19 AM ET",
+  "updated": "09:57 AM ET",
   "season_record": {
-    "wins": 102,
-    "losses": 76,
+    "wins": 103,
+    "losses": 75,
     "pushes": 5,
-    "units_pnl": 14.185,
+    "units_pnl": 16.255,
     "bets_placed": 183
   },
   "season_breakdown": {
@@ -31,12 +31,12 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 21,
-      "losses": 19,
+      "wins": 22,
+      "losses": 18,
       "pushes": 4,
-      "win_pct": 52.5,
-      "pnl": -0.63,
-      "roi": -1.3,
+      "win_pct": 55.0,
+      "pnl": 1.44,
+      "roi": 3.0,
       "bets": 44
     }
   },
@@ -292,7 +292,7 @@
       "batter_iso": 0.156,
       "blast_pct": 18.6,
       "over_rate": 0.5,
-      "result": "loss"
+      "result": "win"
     },
     {
       "name": "Clay Holmes",
