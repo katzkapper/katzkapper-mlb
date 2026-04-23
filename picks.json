@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "updated": "11:07 AM ET",
+  "updated": "11:40 AM ET",
   "season_record": {
     "wins": 103,
     "losses": 75,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -93,7 +91,7 @@
       "opponent": "COL",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -145,
+      "odds": -165,
       "raw_score": 81,
       "score": 81,
       "units": 2,
@@ -107,19 +105,18 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-20  Vel:36.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Line above recent avg",
         "Very inefficient (7.36 P/out) - bottom 10% of starters",
         "3 fresh quality relievers (ERA 3.43) - quick hook very likely",
-        "Hard contact allowed (33.6% hard hit) - high pitch count risk"
+        "Hard contact allowed (33.6% hard hit) - high pitch count risk",
+        "Fast movement (36.4 cents/hr)"
       ],
       "breakdown": {
         "recent_ip_form": 22,
@@ -153,12 +150,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -204,12 +199,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -242,7 +235,7 @@
       "opponent": "SF",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -127,
+      "odds": -129,
       "raw_score": 73,
       "score": 73,
       "units": 1,
@@ -256,12 +249,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:3.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -287,7 +278,7 @@
       "opponent": "Matt Waldron",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -110,
+      "odds": -114,
       "raw_score": 73,
       "score": 73,
       "units": 1,
@@ -301,12 +292,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-4  Vel:7.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -337,7 +326,7 @@
       "opponent": "Matt Waldron",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -104,
+      "odds": -108,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -351,12 +340,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-4  Vel:7.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -390,7 +377,7 @@
       "opponent": "BOS",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -109,
+      "odds": -110,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -404,12 +391,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-1  Vel:1.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -436,7 +421,7 @@
       "opponent": "NYM",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -152,
+      "odds": -150,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -450,12 +435,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+2  Vel:3.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -482,7 +465,7 @@
       "opponent": "PIT",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -118,
+      "odds": -115,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -496,12 +479,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+3  Vel:5.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -540,12 +521,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -587,12 +566,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -661,7 +638,9 @@
       "game": "PHI @ CHC",
       "game_time": "2:20 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     }
   ]
 }
