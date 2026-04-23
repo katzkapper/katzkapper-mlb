@@ -1,43 +1,43 @@
 {
   "date": "2026-04-22",
-  "updated": "05:03 PM ET",
+  "updated": "09:19 AM ET",
   "season_record": {
-    "wins": 92,
-    "losses": 72,
+    "wins": 102,
+    "losses": 76,
     "pushes": 5,
-    "units_pnl": 9.089,
-    "bets_placed": 169
+    "units_pnl": 14.185,
+    "bets_placed": 183
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 5,
-      "losses": 5,
+      "wins": 6,
+      "losses": 6,
       "pushes": 1,
       "win_pct": 50.0,
       "pnl": -0.7,
-      "roi": -5.9,
-      "bets": 11
+      "roi": -5.0,
+      "bets": 13
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 69,
-      "losses": 49,
+      "wins": 75,
+      "losses": 51,
       "pushes": 0,
-      "win_pct": 58.5,
-      "pnl": 12.28,
-      "roi": 9.7,
-      "bets": 118
+      "win_pct": 59.5,
+      "pnl": 15.52,
+      "roi": 11.6,
+      "bets": 126
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 18,
-      "losses": 18,
+      "wins": 21,
+      "losses": 19,
       "pushes": 4,
-      "win_pct": 50.0,
-      "pnl": -2.49,
-      "roi": -5.7,
-      "bets": 40
+      "win_pct": 52.5,
+      "pnl": -0.63,
+      "roi": -1.3,
+      "bets": 44
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
       "team_total": 4.5,
       "batter_iso": 0.349,
       "blast_pct": 15.6,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "win"
     },
     {
       "name": "Mickey Moniak",
@@ -139,7 +140,8 @@
       "team_total": 6.0,
       "batter_iso": 0.362,
       "blast_pct": 9.5,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "win"
     },
     {
       "name": "Yordan Alvarez",
@@ -194,7 +196,8 @@
       "blast_pct": 18.5,
       "over_rate": 0.6,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Jack Leiter",
@@ -238,7 +241,8 @@
       },
       "game": "PIT @ TEX",
       "game_time": "8:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Michael Harris II",
@@ -287,7 +291,8 @@
       "team_total": 4.5,
       "batter_iso": 0.156,
       "blast_pct": 18.6,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "loss"
     },
     {
       "name": "Clay Holmes",
@@ -330,7 +335,8 @@
       },
       "game": "MIN @ NYM",
       "game_time": "7:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Braxton Ashcraft",
@@ -373,7 +379,8 @@
       },
       "game": "PIT @ TEX",
       "game_time": "8:05 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Brandon Williamson",
@@ -421,7 +428,8 @@
       "game_time": "1:10 PM ET",
       "direction": "under",
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Shohei Ohtani",
@@ -468,7 +476,8 @@
       "game": "LAD @ SF",
       "game_time": "9:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Ranger Suarez",
@@ -516,7 +525,8 @@
       },
       "game": "NYY @ BOS",
       "game_time": "6:45 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win"
     },
     {
       "name": "Connor Prielipp",
@@ -559,7 +569,8 @@
       },
       "game": "MIN @ NYM",
       "game_time": "7:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss"
     },
     {
       "name": "Shohei Ohtani",
@@ -603,7 +614,8 @@
       },
       "game": "LAD @ SF",
       "game_time": "9:45 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win"
     },
     {
       "name": "Braxton Ashcraft",
@@ -650,7 +662,8 @@
       "game": "PIT @ TEX",
       "game_time": "8:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Casey Mize",
@@ -695,7 +708,8 @@
       },
       "game": "MIL @ DET",
       "game_time": "6:40 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss"
     }
   ]
 }
