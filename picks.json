@@ -1,43 +1,43 @@
 {
   "date": "2026-04-23",
-  "updated": "12:24 PM ET",
+  "updated": "07:10 AM ET",
   "season_record": {
-    "wins": 103,
-    "losses": 75,
-    "pushes": 5,
-    "units_pnl": 16.255,
-    "bets_placed": 183
+    "wins": 110,
+    "losses": 80,
+    "pushes": 6,
+    "units_pnl": 17.06,
+    "bets_placed": 196
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 6,
-      "losses": 6,
+      "wins": 7,
+      "losses": 7,
       "pushes": 1,
       "win_pct": 50.0,
-      "pnl": -0.7,
-      "roi": -5.0,
-      "bets": 13
+      "pnl": -0.62,
+      "roi": -3.9,
+      "bets": 15
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 75,
-      "losses": 51,
-      "pushes": 0,
-      "win_pct": 59.5,
-      "pnl": 15.52,
-      "roi": 11.6,
-      "bets": 126
+      "wins": 78,
+      "losses": 54,
+      "pushes": 1,
+      "win_pct": 59.1,
+      "pnl": 14.42,
+      "roi": 10.2,
+      "bets": 133
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 22,
-      "losses": 18,
+      "wins": 25,
+      "losses": 19,
       "pushes": 4,
-      "win_pct": 55.0,
-      "pnl": 1.44,
-      "roi": 3.0,
-      "bets": 44
+      "win_pct": 56.8,
+      "pnl": 3.26,
+      "roi": 6.3,
+      "bets": 48
     }
   },
   "bets": [
@@ -82,7 +82,15 @@
       },
       "game": "ATL @ WSH",
       "game_time": "1:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 3,
+        "tired_arms": 3,
+        "availability_score": 35,
+        "total_checked": 6
+      }
     },
     {
       "name": "Matt Waldron",
@@ -126,7 +134,15 @@
       },
       "game": "SD @ COL",
       "game_time": "3:10 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "win",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 4,
+        "tired_arms": 3,
+        "availability_score": 80,
+        "total_checked": 7
+      }
     },
     {
       "name": "Mickey Moniak",
@@ -174,7 +190,8 @@
       "team_total": 5.5,
       "batter_iso": 0.377,
       "blast_pct": 9.7,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "James Wood",
@@ -230,7 +247,8 @@
       "team_total": 4.8,
       "batter_iso": 0.284,
       "blast_pct": 19.2,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -279,7 +297,8 @@
       "team_total": 4.8,
       "batter_iso": 0.377,
       "blast_pct": 15.7,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "win"
     },
     {
       "name": "Tyler Glasnow",
@@ -324,7 +343,15 @@
       "game_time": "3:45 PM ET",
       "direction": "over",
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 7,
+        "tired_arms": 1,
+        "availability_score": 95,
+        "total_checked": 8
+      }
     },
     {
       "name": "Kyle Schwarber",
@@ -377,7 +404,8 @@
       "team_total": 4.5,
       "batter_iso": 0.511,
       "blast_pct": 12.8,
-      "over_rate": 0.4
+      "over_rate": 0.4,
+      "result": "loss"
     },
     {
       "name": "Cam Schlittler",
@@ -421,7 +449,15 @@
       },
       "game": "NYY @ BOS",
       "game_time": "6:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "win",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 8,
+        "tired_arms": 1,
+        "availability_score": 100,
+        "total_checked": 9
+      }
     },
     {
       "name": "Joe Ryan",
@@ -465,7 +501,15 @@
       },
       "game": "MIN @ NYM",
       "game_time": "7:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "loss",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 4,
+        "tired_arms": 3,
+        "availability_score": 80,
+        "total_checked": 7
+      }
     },
     {
       "name": "Jacob deGrom",
@@ -507,7 +551,15 @@
       },
       "game": "PIT @ TEX",
       "game_time": "8:05 PM ET",
-      "direction": "under"
+      "direction": "under",
+      "result": "loss",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 3,
+        "tired_arms": 4,
+        "availability_score": 35,
+        "total_checked": 7
+      }
     },
     {
       "name": "Tarik Skubal",
@@ -552,7 +604,15 @@
       },
       "game": "MIL @ DET",
       "game_time": "1:10 PM ET",
-      "direction": "over"
+      "direction": "over",
+      "result": "push",
+      "bullpen_avail": {
+        "available_high_quality": 2,
+        "available_any": 4,
+        "tired_arms": 3,
+        "availability_score": 60,
+        "total_checked": 7
+      }
     },
     {
       "name": "Tyler Glasnow",
@@ -599,7 +659,8 @@
       "game": "LAD @ SF",
       "game_time": "3:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -649,7 +710,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     }
   ]
 }
