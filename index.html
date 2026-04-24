@@ -439,6 +439,10 @@ function renderCard(bet) {
     subLine = 'W.Avg TB: ' + (bet.w_avg_tb || '?') + '  |  Platoon: ' + (bet.platoon || 'neutral') + '  |  Blast: ' + blastStr + '  |  Over%: ' + overPctStr;
   } else if (bet.type === 'pitcher_outs') {
     subLine = 'W.Avg Outs: ' + (bet.w_avg_outs || '?') + '  |  Implied IP: ' + (bet.implied_ip || '?');
+    const ba = bet.bullpen_avail;
+    if (ba) {
+      subLine += '  |  BP: ' + (ba.available_high_quality || 0) + ' HQ / ' + (ba.tired_arms || 0) + ' tired';
+    }
   }
 
     // Prioritize key flags - elite power first for TB props, then others
