@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "updated": "01:59 PM ET",
+  "updated": "02:33 PM ET",
   "season_record": {
     "wins": 110,
     "losses": 80,
@@ -48,7 +48,7 @@
       "opponent": "MIN",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -109,
+      "odds": -106,
       "raw_score": 77,
       "score": 77,
       "units": 1,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+3  Vel:5.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -101,7 +99,7 @@
       "opponent": "TEX",
       "line": 18.5,
       "sharp_signal": false,
-      "odds": 114,
+      "odds": 115,
       "raw_score": 77,
       "score": 77,
       "units": 1,
@@ -115,12 +113,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+1  Vel:1.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -167,12 +163,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -219,12 +213,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -272,18 +264,17 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-26  Vel:47.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Line above recent avg",
         "Inefficient pitcher (6.04 P/out)",
-        "3 fresh quality relievers (ERA 3.59) - quick hook very likely"
+        "3 fresh quality relievers (ERA 3.59) - quick hook very likely",
+        "Fast movement (47.3 cents/hr)"
       ],
       "breakdown": {
         "recent_ip_form": 22,
@@ -301,7 +292,9 @@
         "tired_arms": 2,
         "availability_score": 85,
         "total_checked": 7
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Parker Messick",
@@ -324,12 +317,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -377,12 +368,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -430,12 +419,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -477,12 +464,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
