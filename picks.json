@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "updated": "02:33 PM ET",
+  "updated": "03:30 PM ET",
   "season_record": {
     "wins": 110,
     "losses": 80,
@@ -62,7 +62,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+3  Vel:5.5c/hr",
+      "movement_summary": "No movement  Odds:+3  Vel:2.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -113,7 +113,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+1  Vel:1.8c/hr",
+      "movement_summary": "No movement  Odds:+1  Vel:0.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -264,7 +264,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:-26  Vel:47.3c/hr",
+      "movement_summary": "No movement  Odds:-26  Vel:17.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -273,8 +273,7 @@
       "flags": [
         "Line above recent avg",
         "Inefficient pitcher (6.04 P/out)",
-        "3 fresh quality relievers (ERA 3.59) - quick hook very likely",
-        "Fast movement (47.3 cents/hr)"
+        "3 fresh quality relievers (ERA 3.59) - quick hook very likely"
       ],
       "breakdown": {
         "recent_ip_form": 22,
@@ -405,7 +404,7 @@
       "opponent": "BOS",
       "line": 7.5,
       "sharp_signal": false,
-      "odds": -108,
+      "odds": -106,
       "raw_score": 61,
       "score": 61,
       "units": 1,
@@ -419,7 +418,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement",
+      "movement_summary": "No movement  Odds:+2  Vel:1.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
