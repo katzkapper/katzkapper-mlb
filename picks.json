@@ -1,43 +1,43 @@
 {
   "date": "2026-04-27",
-  "updated": "03:30 PM ET",
+  "updated": "11:48 AM ET",
   "season_record": {
-    "wins": 110,
-    "losses": 80,
+    "wins": 114,
+    "losses": 85,
     "pushes": 6,
-    "units_pnl": 17.06,
-    "bets_placed": 196
+    "units_pnl": 15.572,
+    "bets_placed": 205
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 7,
-      "losses": 7,
+      "losses": 8,
       "pushes": 1,
-      "win_pct": 50.0,
-      "pnl": -0.62,
-      "roi": -3.9,
-      "bets": 15
+      "win_pct": 46.7,
+      "pnl": -1.62,
+      "roi": -9.5,
+      "bets": 16
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 78,
-      "losses": 54,
+      "wins": 81,
+      "losses": 58,
       "pushes": 1,
-      "win_pct": 59.1,
-      "pnl": 14.42,
-      "roi": 10.2,
-      "bets": 133
+      "win_pct": 58.3,
+      "pnl": 12.93,
+      "roi": 8.7,
+      "bets": 140
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 25,
+      "wins": 26,
       "losses": 19,
       "pushes": 4,
-      "win_pct": 56.8,
-      "pnl": 3.26,
-      "roi": 6.3,
-      "bets": 48
+      "win_pct": 57.8,
+      "pnl": 4.26,
+      "roi": 8.0,
+      "bets": 49
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Max Fried",
@@ -140,7 +141,8 @@
         "tired_arms": 2,
         "availability_score": 90,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Ben Rice",
@@ -190,7 +192,8 @@
       "team_total": 4.0,
       "batter_iso": 0.482,
       "blast_pct": 19.0,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Chris Paddack",
@@ -241,7 +244,8 @@
         "tired_arms": 3,
         "availability_score": 80,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Jack Leiter",
@@ -293,7 +297,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Parker Messick",
@@ -344,7 +349,8 @@
         "tired_arms": 1,
         "availability_score": 50,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Yoshinobu Yamamoto",
@@ -395,7 +401,8 @@
         "tired_arms": 3,
         "availability_score": 85,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Dylan Cease",
@@ -440,7 +447,8 @@
       "game": "BOS @ TOR",
       "game_time": "7:07 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jack Kochanowicz",
@@ -489,7 +497,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     }
   ]
 }
