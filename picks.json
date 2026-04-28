@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "updated": "12:23 PM ET",
+  "updated": "02:47 PM ET",
   "season_record": {
     "wins": 114,
     "losses": 85,
@@ -48,7 +48,7 @@
       "opponent": "TEX",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -139,
+      "odds": -125,
       "raw_score": 85,
       "score": 85,
       "units": 2,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+14  Vel:5.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -116,12 +114,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-15  Vel:6.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -146,7 +142,9 @@
         "tired_arms": 0,
         "availability_score": 95,
         "total_checked": 7
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -169,12 +167,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -199,7 +195,9 @@
         "tired_arms": 3,
         "availability_score": 65,
         "total_checked": 8
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Walker Buehler",
@@ -209,8 +207,8 @@
       "line": 15.5,
       "sharp_signal": false,
       "odds": -170,
-      "raw_score": 74,
-      "score": 74,
+      "raw_score": 75,
+      "score": 75,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
@@ -222,12 +220,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -241,7 +237,7 @@
         "pitch_inefficiency": 18,
         "opp_offense": 12,
         "bullpen_availability": 7,
-        "game_context": 4
+        "game_context": 5
       },
       "game": "CHC @ SD",
       "game_time": "9:40 PM ET",
@@ -253,6 +249,54 @@
         "availability_score": 40,
         "total_checked": 7
       }
+    },
+    {
+      "name": "Nathaniel Lowe",
+      "type": "batter_tb",
+      "team": "CIN",
+      "opponent": "",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 120,
+      "raw_score": 74,
+      "score": 74,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.8,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement  Odds:+5  Vel:2.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Hot vs this pitcher handedness",
+        "Hot in this series",
+        "Elite power (ISO=0.41) - extra base hit machine",
+        "Strong platoon advantage + elite power vs this hand"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 10,
+        "batter_form": 25,
+        "blast_power": 12,
+        "park_weather": 11,
+        "team_total_bonus": 7,
+        "platoon": 9
+      },
+      "game": "COL @ CIN",
+      "game_time": "6:40 PM ET",
+      "team_total": 4.5,
+      "batter_iso": 0.41,
+      "blast_pct": 13.3,
+      "over_rate": 0.5
     },
     {
       "name": "Davis Martin",
@@ -275,12 +319,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -313,7 +355,7 @@
       "opponent": "Cam Schlittler",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": 110,
+      "odds": 115,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -327,12 +369,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:2.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -366,7 +406,7 @@
       "opponent": "NYM",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -118,
+      "odds": -114,
       "raw_score": 70,
       "score": 70,
       "units": 1,
@@ -380,12 +420,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+4  Vel:1.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -414,58 +452,6 @@
       }
     },
     {
-      "name": "Hunter Goodman",
-      "type": "batter_tb",
-      "team": "CIN",
-      "opponent": "",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": 115,
-      "raw_score": 70,
-      "score": 70,
-      "units": 1,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 3.067,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "disadvantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Cold vs this pitcher handedness",
-        "Hot in this series",
-        "Elite exit velocity (93.1 mph avg)",
-        "High barrel rate (14.5%)",
-        "Strong power (ISO=0.285)",
-        "Platoon disadvantage but strong power (0.285 ISO)"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 10,
-        "batter_form": 25,
-        "blast_power": 13,
-        "park_weather": 11,
-        "team_total_bonus": 7,
-        "platoon": 4
-      },
-      "game": "COL @ CIN",
-      "game_time": "6:40 PM ET",
-      "team_total": 4.5,
-      "batter_iso": 0.285,
-      "blast_pct": 10.3,
-      "over_rate": 0.6
-    },
-    {
       "name": "Matt Olson",
       "type": "batter_tb",
       "team": "ATL",
@@ -486,12 +472,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -518,6 +502,61 @@
       "over_rate": 0.7
     },
     {
+      "name": "Merrill Kelly",
+      "type": "pitcher_outs",
+      "team": "AZ",
+      "opponent": "MIL",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -109,
+      "raw_score": 69,
+      "score": 69,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": null,
+      "w_avg_outs": 14.88,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Line above recent avg",
+        "Inefficient pitcher (6.45 P/out)",
+        "Low strike% (54.5%) - high pitch count, early exit likely",
+        "Quality bullpen options available",
+        "Extra rest - may go deeper than usual",
+        "Hard contact allowed (50.0% hard hit) - high pitch count risk"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_inefficiency": 22,
+        "opp_offense": 8,
+        "bullpen_availability": 13,
+        "game_context": -1
+      },
+      "game": "AZ @ MIL",
+      "game_time": "7:40 PM ET",
+      "direction": "under",
+      "bullpen_avail": {
+        "available_high_quality": 2,
+        "available_any": 5,
+        "tired_arms": 2,
+        "availability_score": 50,
+        "total_checked": 0
+      }
+    },
+    {
       "name": "Casey Mize",
       "type": "pitcher_k",
       "team": "DET",
@@ -538,12 +577,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -614,7 +651,9 @@
         "tired_arms": 2,
         "availability_score": 65,
         "total_checked": 7
-      }
+      },
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Shohei Ohtani",
@@ -637,12 +676,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
