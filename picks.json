@@ -1,43 +1,43 @@
 {
   "date": "2026-04-28",
-  "updated": "05:56 PM ET",
+  "updated": "09:30 AM ET",
   "season_record": {
-    "wins": 114,
-    "losses": 85,
+    "wins": 124,
+    "losses": 91,
     "pushes": 6,
-    "units_pnl": 15.572,
-    "bets_placed": 205
+    "units_pnl": 20.606,
+    "bets_placed": 221
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 7,
-      "losses": 8,
+      "wins": 9,
+      "losses": 9,
       "pushes": 1,
-      "win_pct": 46.7,
-      "pnl": -1.62,
-      "roi": -9.5,
-      "bets": 16
+      "win_pct": 50.0,
+      "pnl": -0.88,
+      "roi": -4.4,
+      "bets": 19
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 81,
-      "losses": 58,
+      "wins": 86,
+      "losses": 62,
       "pushes": 1,
-      "win_pct": 58.3,
-      "pnl": 12.93,
+      "win_pct": 58.1,
+      "pnl": 13.87,
       "roi": 8.7,
-      "bets": 140
+      "bets": 149
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 26,
-      "losses": 19,
+      "wins": 29,
+      "losses": 20,
       "pushes": 4,
-      "win_pct": 57.8,
-      "pnl": 4.26,
-      "roi": 8.0,
-      "bets": 49
+      "win_pct": 59.2,
+      "pnl": 7.61,
+      "roi": 13.1,
+      "bets": 53
     }
   },
   "bets": [
@@ -93,7 +93,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -150,7 +151,8 @@
       "blast_pct": 16.2,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Braxton Ashcraft",
@@ -204,7 +206,8 @@
         "tired_arms": 6,
         "availability_score": 0,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -257,7 +260,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Walker Buehler",
@@ -308,7 +312,8 @@
         "tired_arms": 3,
         "availability_score": 40,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Ben Rice",
@@ -359,7 +364,8 @@
       "team_total": 3.8,
       "batter_iso": 0.397,
       "blast_pct": 19.0,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Nathaniel Lowe",
@@ -409,7 +415,8 @@
       "blast_pct": 13.3,
       "over_rate": 0.5,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Clay Holmes",
@@ -460,7 +467,8 @@
         "tired_arms": 0,
         "availability_score": 95,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Davis Martin",
@@ -510,7 +518,8 @@
         "tired_arms": 2,
         "availability_score": 15,
         "total_checked": 5
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Yordan Alvarez",
@@ -562,7 +571,8 @@
       "team_total": 4.5,
       "batter_iso": 0.333,
       "blast_pct": 18.9,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Zack Littell",
@@ -616,7 +626,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Merrill Kelly",
@@ -671,7 +682,8 @@
         "total_checked": 0
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Casey Mize",
@@ -716,7 +728,8 @@
       "game": "DET @ ATL",
       "game_time": "7:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Kyle Leahy",
@@ -770,7 +783,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -817,7 +831,8 @@
       "game": "STL @ PIT",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Shohei Ohtani",
@@ -863,7 +878,8 @@
       "game": "MIA @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     }
   ]
 }
