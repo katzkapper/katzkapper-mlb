@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "updated": "11:09 AM ET",
+  "updated": "11:33 AM ET",
   "season_record": {
     "wins": 131,
     "losses": 94,
@@ -48,7 +48,7 @@
       "opponent": "HOU",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -125,
+      "odds": -120,
       "raw_score": 82,
       "score": 82,
       "units": 2,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:12.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -118,12 +116,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -172,12 +168,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -225,12 +219,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-1  Vel:2.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -254,7 +246,9 @@
       "team_total": 4.5,
       "batter_iso": 0.28,
       "blast_pct": 11.1,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -277,12 +271,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -328,7 +320,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No movement",
+      "movement_summary": "No movement  Odds:-24  Vel:57.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -342,7 +334,8 @@
         "Elite barrel rate (18.0%) - consistently squares up",
         "Elite blast rate (18.8%)",
         "Elite power (ISO=0.316) - extra base hit machine",
-        "Strong platoon advantage + elite power vs this hand"
+        "Strong platoon advantage + elite power vs this hand",
+        "Fast movement (57.6 cents/hr)"
       ],
       "breakdown": {
         "pitcher_vulnerability": 10,
@@ -357,7 +350,9 @@
       "team_total": 4.5,
       "batter_iso": 0.316,
       "blast_pct": 18.8,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Elly De La Cruz",
@@ -380,12 +375,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "neutral",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:5.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -409,7 +402,61 @@
       "team_total": 4.5,
       "batter_iso": 0.214,
       "blast_pct": 19.4,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
+    },
+    {
+      "name": "Peter Lambert",
+      "type": "pitcher_k",
+      "team": "HOU",
+      "opponent": "BAL",
+      "line": 4.5,
+      "sharp_signal": false,
+      "odds": -128,
+      "raw_score": 69,
+      "score": 69,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": 7.75,
+      "w_over_rate": 1.0,
+      "w_avg_tb": null,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Elite whiff rate (41.8%) - swing and miss stuff",
+        "Moderate whiff/K gap (9.4pts) - some foul ball concern",
+        "Elite CSW% (36.6%) - dominates with called + swinging strikes",
+        "Elite first pitch whiff (41.8%) - dominates 0-0 count",
+        "Very high over rate (100%) vs this line",
+        "Patient lineup (BB%=10.1%) - works counts",
+        "Favorable lineup handedness",
+        "Extra rest (8 days)"
+      ],
+      "breakdown": {
+        "pitcher_stuff": 29,
+        "pitcher_form": 27,
+        "opp_k_vulnerability": 4,
+        "platoon": 5,
+        "contextual": 4,
+        "line_value": 0
+      },
+      "game": "HOU @ BAL",
+      "game_time": "12:35 PM ET",
+      "sharp_pinnacle_odds": null,
+      "sharp_consensus_odds": null
     },
     {
       "name": "Kevin Gausman",
@@ -432,12 +479,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -471,7 +516,7 @@
       "opponent": "CIN",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -116,
+      "odds": -114,
       "raw_score": 66,
       "score": 66,
       "units": 1,
@@ -485,12 +530,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+2  Vel:4.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -518,6 +561,59 @@
       }
     },
     {
+      "name": "Peter Lambert",
+      "type": "pitcher_outs",
+      "team": "HOU",
+      "opponent": "BAL",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": 100,
+      "raw_score": 61,
+      "score": 61,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 15.96,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Extra rest - may go deeper",
+        "Weak bullpen (ERA 5.96) - starter likely goes deep",
+        "High first pitch whiff (41.8%) - efficient at setting up counts"
+      ],
+      "breakdown": {
+        "recent_ip_form": 18,
+        "pitch_efficiency": 7,
+        "game_context": 14,
+        "opp_offense": 6,
+        "bullpen_context": 10,
+        "pitcher_stuff": 6
+      },
+      "game": "HOU @ BAL",
+      "game_time": "12:35 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 2,
+        "available_any": 5,
+        "tired_arms": 2,
+        "availability_score": 50,
+        "total_checked": 0
+      }
+    },
+    {
       "name": "Framber Valdez",
       "type": "pitcher_outs",
       "team": "DET",
@@ -538,12 +634,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -618,7 +712,9 @@
         "tired_arms": 1,
         "availability_score": 90,
         "total_checked": 7
-      }
+      },
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     }
   ]
 }
