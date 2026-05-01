@@ -1,43 +1,43 @@
 {
   "date": "2026-04-30",
-  "updated": "11:33 AM ET",
+  "updated": "11:57 AM ET",
   "season_record": {
-    "wins": 131,
-    "losses": 94,
+    "wins": 133,
+    "losses": 105,
     "pushes": 6,
-    "units_pnl": 25.028,
-    "bets_placed": 231
+    "units_pnl": 12.627,
+    "bets_placed": 244
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 11,
-      "losses": 10,
+      "wins": 12,
+      "losses": 11,
       "pushes": 1,
-      "win_pct": 52.4,
-      "pnl": -0.07,
-      "roi": -0.3,
-      "bets": 22
+      "win_pct": 52.2,
+      "pnl": -0.16,
+      "roi": -0.6,
+      "bets": 24
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 90,
-      "losses": 64,
+      "wins": 91,
+      "losses": 71,
       "pushes": 1,
-      "win_pct": 58.4,
-      "pnl": 16.48,
-      "roi": 9.9,
-      "bets": 155
+      "win_pct": 56.2,
+      "pnl": 7.17,
+      "roi": 4.1,
+      "bets": 163
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 30,
-      "losses": 20,
+      "losses": 23,
       "pushes": 4,
-      "win_pct": 60.0,
-      "pnl": 8.61,
-      "roi": 14.6,
-      "bets": 54
+      "win_pct": 56.6,
+      "pnl": 5.61,
+      "roi": 9.1,
+      "bets": 57
     }
   },
   "bets": [
@@ -93,7 +93,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Brandon Woodruff",
@@ -145,7 +146,8 @@
         "tired_arms": 3,
         "availability_score": 40,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Andrew Abbott",
@@ -196,7 +198,8 @@
         "tired_arms": 2,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -248,7 +251,8 @@
       "blast_pct": 11.1,
       "over_rate": 0.6,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -297,7 +301,8 @@
       "game": "SF @ PHI",
       "game_time": "12:35 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Yordan Alvarez",
@@ -352,7 +357,8 @@
       "blast_pct": 18.8,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Elly De La Cruz",
@@ -404,7 +410,8 @@
       "blast_pct": 19.4,
       "over_rate": 0.5,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Peter Lambert",
@@ -456,7 +463,8 @@
       "game": "HOU @ BAL",
       "game_time": "12:35 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Kevin Gausman",
@@ -507,7 +515,8 @@
         "tired_arms": 4,
         "availability_score": 35,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Michael Lorenzen",
@@ -558,7 +567,8 @@
         "tired_arms": 2,
         "availability_score": 85,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Peter Lambert",
@@ -611,7 +621,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Framber Valdez",
@@ -661,7 +672,8 @@
         "tired_arms": 2,
         "availability_score": 90,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Freddy Peralta",
@@ -714,7 +726,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     }
   ]
 }
