@@ -1,43 +1,43 @@
 {
   "date": "2026-05-01",
-  "updated": "04:50 PM ET",
+  "updated": "12:23 PM ET",
   "season_record": {
-    "wins": 133,
-    "losses": 105,
-    "pushes": 6,
-    "units_pnl": 12.627,
-    "bets_placed": 244
+    "wins": 140,
+    "losses": 116,
+    "pushes": 7,
+    "units_pnl": 6.851,
+    "bets_placed": 263
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 12,
-      "losses": 11,
+      "wins": 14,
+      "losses": 12,
       "pushes": 1,
-      "win_pct": 52.2,
-      "pnl": -0.16,
-      "roi": -0.6,
-      "bets": 24
+      "win_pct": 53.8,
+      "pnl": 0.6,
+      "roi": 2.1,
+      "bets": 27
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 91,
-      "losses": 71,
-      "pushes": 1,
-      "win_pct": 56.2,
-      "pnl": 7.17,
-      "roi": 4.1,
-      "bets": 163
+      "wins": 94,
+      "losses": 77,
+      "pushes": 2,
+      "win_pct": 55.0,
+      "pnl": 2.9,
+      "roi": 1.5,
+      "bets": 173
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 30,
-      "losses": 23,
+      "wins": 32,
+      "losses": 27,
       "pushes": 4,
-      "win_pct": 56.6,
-      "pnl": 5.61,
-      "roi": 9.1,
-      "bets": 57
+      "win_pct": 54.2,
+      "pnl": 3.36,
+      "roi": 4.9,
+      "bets": 63
     }
   },
   "bets": [
@@ -93,7 +93,8 @@
         "tired_arms": 3,
         "availability_score": 60,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Cade Povich",
@@ -148,7 +149,8 @@
         "tired_arms": 4,
         "availability_score": 55,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -199,7 +201,8 @@
       "team_total": 5.2,
       "batter_iso": 0.323,
       "blast_pct": 11.1,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "win"
     },
     {
       "name": "Shea Langeliers",
@@ -249,7 +252,8 @@
       "team_total": 4.8,
       "batter_iso": 0.417,
       "blast_pct": 12.7,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Yordan Alvarez",
@@ -304,7 +308,8 @@
       "team_total": 4.8,
       "batter_iso": 0.46,
       "blast_pct": 18.3,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Bryan Woo",
@@ -361,7 +366,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "push"
     },
     {
       "name": "Jose Quintana",
@@ -415,7 +421,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Brandon Lowe",
@@ -465,7 +472,8 @@
       "team_total": 4.2,
       "batter_iso": 0.444,
       "blast_pct": 14.2,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Christian Walker",
@@ -516,7 +524,8 @@
       "team_total": 4.8,
       "batter_iso": 0.285,
       "blast_pct": 16.7,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Mickey Moniak",
@@ -570,7 +579,8 @@
       "blast_pct": 8.8,
       "over_rate": 0.6,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Jacob Misiorowski",
@@ -619,7 +629,8 @@
       "game": "MIL @ WSH",
       "game_time": "6:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Emmet Sheehan",
@@ -665,7 +676,8 @@
       "game": "LAD @ STL",
       "game_time": "8:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Grant Holmes",
@@ -720,7 +732,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Eury P\u00e9rez",
@@ -774,7 +787,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Mitch Keller",
@@ -827,7 +841,8 @@
         "total_checked": 6
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "MacKenzie Gore",
@@ -876,7 +891,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Noah Schultz",
@@ -926,7 +942,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Mike Burrows",
@@ -981,7 +998,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Jacob Misiorowski",
@@ -1035,7 +1053,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     }
   ]
 }
