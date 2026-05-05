@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "updated": "12:58 PM ET",
+  "updated": "01:13 PM ET",
   "season_record": {
     "wins": 147,
     "losses": 127,
@@ -339,58 +339,6 @@
       "lock_reason": "Best odds preserved from earlier scan"
     },
     {
-      "name": "Chris Bassitt",
-      "type": "pitcher_outs",
-      "team": "BAL",
-      "opponent": "MIA",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": -105,
-      "raw_score": 69,
-      "score": 69,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 14.89,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No movement",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Ascending IP trend (+2.6 IP recent vs early) - pitcher going deeper, under risky",
-        "Inefficient pitcher (6.35 P/out)",
-        "Elevated walk rate (BB%=10.4%)",
-        "Quality bullpen options available",
-        "Hard contact allowed (34.2% hard hit) - high pitch count risk"
-      ],
-      "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_inefficiency": 22,
-        "opp_offense": 8,
-        "bullpen_availability": 13,
-        "game_context": 5
-      },
-      "game": "BAL @ MIA",
-      "game_time": "6:40 PM ET",
-      "direction": "under",
-      "bullpen_avail": {
-        "available_high_quality": 2,
-        "available_any": 5,
-        "tired_arms": 2,
-        "availability_score": 65,
-        "total_checked": 7
-      }
-    },
-    {
       "name": "Drew Rasmussen",
       "type": "pitcher_k",
       "team": "TB",
@@ -489,59 +437,6 @@
       }
     },
     {
-      "name": "Sandy Alcantara",
-      "type": "pitcher_outs",
-      "team": "MIA",
-      "opponent": "BAL",
-      "line": 18.5,
-      "sharp_signal": false,
-      "odds": 121,
-      "raw_score": 67,
-      "score": 67,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 18.03,
-      "implied_ip": 6.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No movement",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Slight downward IP trend - over less certain",
-        "Very efficient (4.72 P/out)",
-        "Extra rest - may go deeper",
-        "High groundball rate (50.9% GB)",
-        "Bullpen tired (3 tired arms) - starter likely goes deeper"
-      ],
-      "breakdown": {
-        "recent_ip_form": 14,
-        "pitch_efficiency": 19,
-        "game_context": 14,
-        "opp_offense": 6,
-        "bullpen_context": 7,
-        "pitcher_stuff": 4
-      },
-      "game": "BAL @ MIA",
-      "game_time": "6:40 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 1,
-        "available_any": 4,
-        "tired_arms": 3,
-        "availability_score": 40,
-        "total_checked": 7
-      }
-    },
-    {
       "name": "Cristopher S\u00e1nchez",
       "type": "pitcher_k",
       "team": "PHI",
@@ -588,57 +483,6 @@
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null
-    },
-    {
-      "name": "Cade Cavalli",
-      "type": "pitcher_outs",
-      "team": "WSH",
-      "opponent": "MIN",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -155,
-      "raw_score": 62,
-      "score": 62,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": null,
-      "w_avg_outs": 13.31,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No movement",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Ascending IP trend (+2.8 IP recent vs early) - pitcher going deeper, under risky",
-        "Inefficient pitcher (6.25 P/out)",
-        "Elevated walk rate (BB%=9.8%)",
-        "Quality bullpen options available"
-      ],
-      "breakdown": {
-        "recent_ip_form": 16,
-        "pitch_inefficiency": 20,
-        "opp_offense": 8,
-        "bullpen_availability": 13,
-        "game_context": 5
-      },
-      "game": "MIN @ WSH",
-      "game_time": "6:45 PM ET",
-      "direction": "under",
-      "bullpen_avail": {
-        "available_high_quality": 4,
-        "available_any": 7,
-        "tired_arms": 0,
-        "availability_score": 100,
-        "total_checked": 7
-      }
     }
   ]
 }
