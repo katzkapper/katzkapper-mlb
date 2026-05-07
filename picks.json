@@ -1,43 +1,43 @@
 {
   "date": "2026-05-06",
-  "updated": "04:19 PM ET",
+  "updated": "09:24 AM ET",
   "season_record": {
-    "wins": 153,
-    "losses": 129,
+    "wins": 155,
+    "losses": 134,
     "pushes": 7,
-    "units_pnl": 6.935,
-    "bets_placed": 289
+    "units_pnl": 3.554,
+    "bets_placed": 296
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 18,
-      "losses": 15,
+      "losses": 17,
       "pushes": 1,
-      "win_pct": 54.5,
-      "pnl": 2.09,
-      "roi": 5.7,
-      "bets": 34
+      "win_pct": 51.4,
+      "pnl": -0.91,
+      "roi": -2.3,
+      "bets": 36
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 99,
-      "losses": 86,
+      "wins": 100,
+      "losses": 88,
       "pushes": 2,
-      "win_pct": 53.5,
-      "pnl": -1.78,
-      "roi": -0.9,
-      "bets": 187
+      "win_pct": 53.2,
+      "pnl": -2.11,
+      "roi": -1.0,
+      "bets": 190
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 36,
-      "losses": 28,
+      "wins": 37,
+      "losses": 29,
       "pushes": 4,
-      "win_pct": 56.2,
-      "pnl": 6.62,
-      "roi": 8.9,
-      "bets": 68
+      "win_pct": 56.1,
+      "pnl": 6.57,
+      "roi": 8.7,
+      "bets": 70
     }
   },
   "bets": [
@@ -94,7 +94,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Jack Flaherty",
@@ -147,7 +148,8 @@
         "tired_arms": 3,
         "availability_score": 90,
         "total_checked": 9
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -199,7 +201,8 @@
       "team_total": 4.2,
       "batter_iso": 0.462,
       "blast_pct": 17.0,
-      "over_rate": 0.9
+      "over_rate": 0.9,
+      "result": "loss"
     },
     {
       "name": "Aaron Judge",
@@ -252,7 +255,8 @@
       "blast_pct": 12.6,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Brady Singer",
@@ -303,7 +307,8 @@
         "tired_arms": 4,
         "availability_score": 75,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Zack Wheeler",
@@ -353,7 +358,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Bailey Ober",
@@ -403,7 +409,8 @@
         "tired_arms": 3,
         "availability_score": 60,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     }
   ]
 }
