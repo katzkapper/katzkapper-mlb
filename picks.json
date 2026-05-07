@@ -1,22 +1,22 @@
 {
   "date": "2026-05-06",
-  "updated": "09:25 AM ET",
+  "updated": "09:28 AM ET",
   "season_record": {
     "wins": 155,
-    "losses": 134,
-    "pushes": 7,
-    "units_pnl": 3.554,
+    "losses": 133,
+    "pushes": 8,
+    "units_pnl": 5.554,
     "bets_placed": 296
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 18,
-      "losses": 17,
-      "pushes": 1,
-      "win_pct": 51.4,
-      "pnl": -0.91,
-      "roi": -2.3,
+      "losses": 16,
+      "pushes": 2,
+      "win_pct": 52.9,
+      "pnl": 1.09,
+      "roi": 2.9,
       "bets": 36
     },
     "pitcher_outs": {
@@ -95,7 +95,7 @@
       "sharp_consensus_odds": null,
       "locked": true,
       "lock_reason": "Preserved from earlier scan - sharp signal preserved",
-      "result": "loss"
+      "result": "push"
     },
     {
       "name": "Jack Flaherty",
