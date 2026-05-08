@@ -1,12 +1,12 @@
 {
   "date": "2026-05-07",
-  "updated": "10:21 AM ET",
+  "updated": "02:42 PM ET",
   "season_record": {
-    "wins": 155,
-    "losses": 133,
+    "wins": 158,
+    "losses": 138,
     "pushes": 8,
-    "units_pnl": 5.554,
-    "bets_placed": 296
+    "units_pnl": 4.693,
+    "bets_placed": 304
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 100,
-      "losses": 88,
+      "wins": 103,
+      "losses": 91,
       "pushes": 2,
-      "win_pct": 53.2,
-      "pnl": -2.11,
-      "roi": -1.0,
-      "bets": 190
+      "win_pct": 53.1,
+      "pnl": -0.97,
+      "roi": -0.5,
+      "bets": 196
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 37,
-      "losses": 29,
+      "losses": 31,
       "pushes": 4,
-      "win_pct": 56.1,
-      "pnl": 6.57,
-      "roi": 8.7,
-      "bets": 70
+      "win_pct": 54.4,
+      "pnl": 4.57,
+      "roi": 5.9,
+      "bets": 72
     }
   },
   "bets": [
@@ -92,7 +92,8 @@
         "tired_arms": 4,
         "availability_score": 55,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Aaron Judge",
@@ -145,7 +146,8 @@
       "team_total": 4.2,
       "batter_iso": 0.395,
       "blast_pct": 13.2,
-      "over_rate": 0.8
+      "over_rate": 0.8,
+      "result": "loss"
     },
     {
       "name": "MacKenzie Gore",
@@ -198,7 +200,8 @@
         "tired_arms": 1,
         "availability_score": 100,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Mickey Moniak",
@@ -250,7 +253,8 @@
       "team_total": 5.5,
       "batter_iso": 0.379,
       "blast_pct": 10.5,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Zac Gallen",
@@ -302,7 +306,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Andrew Painter",
@@ -354,7 +359,8 @@
         "tired_arms": 4,
         "availability_score": 60,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Rhett Lowder",
@@ -407,7 +413,8 @@
         "tired_arms": 5,
         "availability_score": 55,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Cade Povich",
@@ -461,7 +468,8 @@
         "tired_arms": 3,
         "availability_score": 40,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     }
   ]
 }
