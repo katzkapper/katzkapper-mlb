@@ -1,43 +1,43 @@
 {
   "date": "2026-05-08",
-  "updated": "03:55 PM ET",
+  "updated": "09:22 AM ET",
   "season_record": {
-    "wins": 158,
-    "losses": 138,
+    "wins": 168,
+    "losses": 142,
     "pushes": 8,
-    "units_pnl": 4.693,
-    "bets_placed": 304
+    "units_pnl": 11.301,
+    "bets_placed": 318
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 18,
-      "losses": 16,
+      "wins": 22,
+      "losses": 17,
       "pushes": 2,
-      "win_pct": 52.9,
-      "pnl": 1.09,
-      "roi": 2.9,
-      "bets": 36
+      "win_pct": 56.4,
+      "pnl": 5.12,
+      "roi": 11.1,
+      "bets": 41
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 103,
-      "losses": 91,
+      "wins": 108,
+      "losses": 93,
       "pushes": 2,
-      "win_pct": 53.1,
-      "pnl": -0.97,
-      "roi": -0.5,
-      "bets": 196
+      "win_pct": 53.7,
+      "pnl": 1.61,
+      "roi": 0.7,
+      "bets": 203
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 37,
-      "losses": 31,
+      "wins": 38,
+      "losses": 32,
       "pushes": 4,
-      "win_pct": 54.4,
+      "win_pct": 54.3,
       "pnl": 4.57,
-      "roi": 5.9,
-      "bets": 72
+      "roi": 5.7,
+      "bets": 74
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
       "game": "NYM @ AZ",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Emmet Sheehan",
@@ -139,7 +140,8 @@
       "game": "ATL @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Chris Sale",
@@ -191,7 +193,8 @@
       "game": "ATL @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Emerson Hancock",
@@ -245,7 +248,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Shea Langeliers",
@@ -296,7 +300,8 @@
       "team_total": 4.8,
       "batter_iso": 0.366,
       "blast_pct": 14.0,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Foster Griffin",
@@ -351,7 +356,8 @@
         "tired_arms": 3,
         "availability_score": 55,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Carmen Mlodzinski",
@@ -399,7 +405,8 @@
       "game": "PIT @ SF",
       "game_time": "10:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jacob Misiorowski",
@@ -451,7 +458,8 @@
       "game": "NYY @ MIL",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Griffin Canning",
@@ -509,7 +517,8 @@
         "tired_arms": 3,
         "availability_score": 40,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Chase Dollander",
@@ -565,7 +574,8 @@
         "tired_arms": 2,
         "availability_score": 40,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Pete Alonso",
@@ -616,7 +626,8 @@
       "team_total": 4.8,
       "batter_iso": 0.113,
       "blast_pct": 17.4,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "win"
     },
     {
       "name": "Parker Messick",
@@ -668,7 +679,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Mike Burrows",
@@ -721,7 +733,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Reid Detmers",
@@ -774,7 +787,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     }
   ]
 }
