@@ -1,43 +1,43 @@
 {
   "date": "2026-05-09",
-  "updated": "10:21 AM ET",
+  "updated": "11:12 AM ET",
   "season_record": {
-    "wins": 168,
-    "losses": 142,
+    "wins": 173,
+    "losses": 148,
     "pushes": 8,
-    "units_pnl": 11.301,
-    "bets_placed": 318
+    "units_pnl": 9.352,
+    "bets_placed": 329
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 22,
-      "losses": 17,
+      "wins": 25,
+      "losses": 18,
       "pushes": 2,
-      "win_pct": 56.4,
-      "pnl": 5.12,
-      "roi": 11.1,
-      "bets": 41
+      "win_pct": 58.1,
+      "pnl": 7.48,
+      "roi": 14.7,
+      "bets": 45
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 108,
-      "losses": 93,
+      "wins": 109,
+      "losses": 97,
       "pushes": 2,
-      "win_pct": 53.7,
-      "pnl": 1.61,
-      "roi": 0.7,
-      "bets": 203
+      "win_pct": 52.9,
+      "pnl": -2.5,
+      "roi": -1.1,
+      "bets": 208
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 38,
-      "losses": 32,
+      "wins": 39,
+      "losses": 33,
       "pushes": 4,
-      "win_pct": 54.3,
-      "pnl": 4.57,
-      "roi": 5.7,
-      "bets": 74
+      "win_pct": 54.2,
+      "pnl": 4.37,
+      "roi": 5.3,
+      "bets": 76
     }
   },
   "bets": [
@@ -95,7 +95,8 @@
         "tired_arms": 1,
         "availability_score": 80,
         "total_checked": 5
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -146,7 +147,8 @@
       "game": "PIT @ SF",
       "game_time": "9:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Chase Burns",
@@ -196,7 +198,8 @@
       "game": "HOU @ CIN",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Shea Langeliers",
@@ -248,7 +251,8 @@
       "team_total": 4.8,
       "batter_iso": 0.283,
       "blast_pct": 14.0,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Pete Alonso",
@@ -302,7 +306,8 @@
       "team_total": 4.8,
       "batter_iso": 0.252,
       "blast_pct": 17.4,
-      "over_rate": 0.8
+      "over_rate": 0.8,
+      "result": "loss"
     },
     {
       "name": "Merrill Kelly",
@@ -358,7 +363,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Landen Roupp",
@@ -407,7 +413,8 @@
       "game": "PIT @ SF",
       "game_time": "9:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Clay Holmes",
@@ -460,7 +467,8 @@
         "tired_arms": 3,
         "availability_score": 60,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Spencer Arrighetti",
@@ -516,7 +524,8 @@
         "tired_arms": 2,
         "availability_score": 65,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Cam Schlittler",
@@ -566,7 +575,8 @@
       "game": "NYY @ MIL",
       "game_time": "7:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Jack Kochanowicz",
@@ -620,7 +630,8 @@
         "tired_arms": 4,
         "availability_score": 85,
         "total_checked": 9
-      }
+      },
+      "result": "loss"
     }
   ]
 }
