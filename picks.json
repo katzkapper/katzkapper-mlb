@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "updated": "11:28 AM ET",
+  "updated": "04:04 PM ET",
   "season_record": {
     "wins": 173,
     "losses": 148,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-5  Vel:1.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -98,62 +96,9 @@
         "tired_arms": 6,
         "availability_score": 30,
         "total_checked": 8
-      }
-    },
-    {
-      "name": "Ryan Weathers",
-      "type": "pitcher_outs",
-      "team": "NYY",
-      "opponent": "BAL",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -129,
-      "raw_score": 75,
-      "score": 75,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 17.23,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Slight downward IP trend - over less certain",
-        "W.Avg outs above line",
-        "Extra rest - may go deeper",
-        "Bullpen depleted (5 tired arms) - starter goes deep",
-        "High first pitch whiff (29.1%) - efficient at setting up counts"
-      ],
-      "breakdown": {
-        "recent_ip_form": 28,
-        "pitch_efficiency": 11,
-        "game_context": 14,
-        "opp_offense": 6,
-        "bullpen_context": 10,
-        "pitcher_stuff": 6
       },
-      "game": "NYY @ BAL",
-      "game_time": "6:35 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 1,
-        "available_any": 3,
-        "tired_arms": 5,
-        "availability_score": 35,
-        "total_checked": 8
-      }
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Aaron Judge",
@@ -205,7 +150,9 @@
       "team_total": 4.5,
       "batter_iso": 0.341,
       "blast_pct": 13.7,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "George Kirby",
@@ -228,12 +175,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-7  Vel:1.5c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -255,11 +200,68 @@
       "game_time": "8:10 PM ET",
       "direction": "over",
       "bullpen_avail": {
-        "available_high_quality": 1,
+        "available_high_quality": 2,
         "available_any": 5,
         "tired_arms": 2,
-        "availability_score": 45,
-        "total_checked": 7
+        "availability_score": 50,
+        "total_checked": 0
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
+    },
+    {
+      "name": "Ryan Weathers",
+      "type": "pitcher_outs",
+      "team": "NYY",
+      "opponent": "BAL",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -101,
+      "raw_score": 70,
+      "score": 70,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 17.23,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Sharp lean  Line:+1.0  Odds:+28  Vel:6.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Slight downward IP trend - over less certain",
+        "Extra rest - may go deeper",
+        "Bullpen depleted (5 tired arms) - starter goes deep",
+        "High first pitch whiff (29.1%) - efficient at setting up counts",
+        "Sharp over money moved line up 1.0 (book repriced - sharps liked the over)"
+      ],
+      "breakdown": {
+        "recent_ip_form": 23,
+        "pitch_efficiency": 11,
+        "game_context": 14,
+        "opp_offense": 6,
+        "bullpen_context": 10,
+        "pitcher_stuff": 6
+      },
+      "game": "NYY @ BAL",
+      "game_time": "6:35 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 3,
+        "tired_arms": 5,
+        "availability_score": 35,
+        "total_checked": 8
       }
     },
     {
@@ -283,18 +285,16 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Strong K rate (25.2%)",
         "Very high over rate (80%) vs this line",
-        "High chase rate (33.2% O-Swing) - lineup chases outside zone",
+        "High chase rate (34.8% O-Swing) - lineup chases outside zone",
         "Extra rest (6 days)"
       ],
       "breakdown": {
@@ -331,12 +331,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -382,12 +380,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
