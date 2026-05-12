@@ -4,9 +4,9 @@
   "season_record": {
     "wins": 178,
     "losses": 149,
-    "pushes": 8,
+    "pushes": 9,
     "units_pnl": 13.216,
-    "bets_placed": 335
+    "bets_placed": 336
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -23,11 +23,11 @@
       "label": "Outs Recorded",
       "wins": 111,
       "losses": 98,
-      "pushes": 2,
+      "pushes": 3,
       "win_pct": 53.1,
       "pnl": -1.07,
       "roi": -0.5,
-      "bets": 211
+      "bets": 212
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -417,7 +417,8 @@
         "tired_arms": 1,
         "availability_score": 100,
         "total_checked": 7
-      }
+      },
+      "result": "push"
     }
   ]
 }
