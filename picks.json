@@ -1,43 +1,43 @@
 {
   "date": "2026-05-11",
-  "updated": "04:04 PM ET",
+  "updated": "11:45 AM ET",
   "season_record": {
-    "wins": 173,
-    "losses": 148,
+    "wins": 178,
+    "losses": 149,
     "pushes": 8,
-    "units_pnl": 9.352,
-    "bets_placed": 329
+    "units_pnl": 13.216,
+    "bets_placed": 335
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 25,
+      "wins": 27,
       "losses": 18,
       "pushes": 2,
-      "win_pct": 58.1,
-      "pnl": 7.48,
-      "roi": 14.7,
-      "bets": 45
+      "win_pct": 60.0,
+      "pnl": 9.08,
+      "roi": 17.1,
+      "bets": 47
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 109,
-      "losses": 97,
+      "wins": 111,
+      "losses": 98,
       "pushes": 2,
-      "win_pct": 52.9,
-      "pnl": -2.5,
-      "roi": -1.1,
-      "bets": 208
+      "win_pct": 53.1,
+      "pnl": -1.07,
+      "roi": -0.5,
+      "bets": 211
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 39,
+      "wins": 40,
       "losses": 33,
       "pushes": 4,
-      "win_pct": 54.2,
-      "pnl": 4.37,
-      "roi": 5.3,
-      "bets": 76
+      "win_pct": 54.8,
+      "pnl": 5.21,
+      "roi": 6.3,
+      "bets": 77
     }
   },
   "bets": [
@@ -98,7 +98,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Aaron Judge",
@@ -152,7 +153,8 @@
       "blast_pct": 13.7,
       "over_rate": 0.6,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "George Kirby",
@@ -207,7 +209,8 @@
         "total_checked": 0
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Ryan Weathers",
@@ -262,7 +265,8 @@
         "tired_arms": 5,
         "availability_score": 35,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Drew Rasmussen",
@@ -308,7 +312,8 @@
       "game": "TB @ TOR",
       "game_time": "7:07 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Peter Lambert",
@@ -357,7 +362,8 @@
       "game": "SEA @ HOU",
       "game_time": "8:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Nathan Eovaldi",
