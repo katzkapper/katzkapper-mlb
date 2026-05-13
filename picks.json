@@ -1,11 +1,11 @@
 {
   "date": "2026-05-12",
-  "updated": "10:24 AM ET",
+  "updated": "10:34 AM ET",
   "season_record": {
-    "wins": 184,
-    "losses": 152,
+    "wins": 185,
+    "losses": 151,
     "pushes": 9,
-    "units_pnl": 14.933,
+    "units_pnl": 16.733,
     "bets_placed": 345
   },
   "season_breakdown": {
@@ -31,12 +31,12 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 42,
-      "losses": 35,
+      "wins": 43,
+      "losses": 34,
       "pushes": 4,
-      "win_pct": 54.5,
-      "pnl": 5.08,
-      "roi": 5.8,
+      "win_pct": 55.8,
+      "pnl": 6.88,
+      "roi": 7.9,
       "bets": 81
     }
   },
@@ -195,7 +195,7 @@
       "batter_iso": 0.178,
       "blast_pct": 17.5,
       "over_rate": 0.6,
-      "result": "loss"
+      "result": "win"
     },
     {
       "name": "James Wood",
