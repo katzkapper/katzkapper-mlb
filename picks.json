@@ -1,43 +1,43 @@
 {
   "date": "2026-05-12",
-  "updated": "04:14 PM ET",
+  "updated": "10:24 AM ET",
   "season_record": {
-    "wins": 178,
-    "losses": 149,
+    "wins": 184,
+    "losses": 152,
     "pushes": 9,
-    "units_pnl": 13.216,
-    "bets_placed": 336
+    "units_pnl": 14.933,
+    "bets_placed": 345
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 27,
+      "wins": 28,
       "losses": 18,
       "pushes": 2,
-      "win_pct": 60.0,
-      "pnl": 9.08,
-      "roi": 17.1,
-      "bets": 47
+      "win_pct": 60.9,
+      "pnl": 10.4,
+      "roi": 18.9,
+      "bets": 48
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 111,
-      "losses": 98,
+      "wins": 114,
+      "losses": 99,
       "pushes": 3,
-      "win_pct": 53.1,
-      "pnl": -1.07,
-      "roi": -0.5,
-      "bets": 212
+      "win_pct": 53.5,
+      "pnl": -0.54,
+      "roi": -0.2,
+      "bets": 216
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 40,
-      "losses": 33,
+      "wins": 42,
+      "losses": 35,
       "pushes": 4,
-      "win_pct": 54.8,
-      "pnl": 5.21,
-      "roi": 6.3,
-      "bets": 77
+      "win_pct": 54.5,
+      "pnl": 5.08,
+      "roi": 5.8,
+      "bets": 81
     }
   },
   "bets": [
@@ -93,7 +93,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Will Warren",
@@ -144,7 +145,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Elly De La Cruz",
@@ -192,7 +194,8 @@
       "team_total": 4.8,
       "batter_iso": 0.178,
       "blast_pct": 17.5,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "James Wood",
@@ -243,7 +246,8 @@
       "team_total": 4.8,
       "batter_iso": 0.282,
       "blast_pct": 17.2,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Jack Flaherty",
@@ -299,7 +303,8 @@
         "total_checked": 9
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Kyle Schwarber",
@@ -347,7 +352,8 @@
       "team_total": 4.0,
       "batter_iso": 0.443,
       "blast_pct": 12.8,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -399,7 +405,8 @@
       "team_total": 4.2,
       "batter_iso": 0.43,
       "blast_pct": 15.9,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Tatsuya Imai",
@@ -457,7 +464,8 @@
         "total_checked": 6
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Zac Gallen",
@@ -507,7 +515,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     }
   ]
 }
