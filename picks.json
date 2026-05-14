@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "updated": "11:19 AM ET",
+  "updated": "02:27 PM ET",
   "season_record": {
     "wins": 192,
     "losses": 155,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-8  Vel:2.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -90,7 +88,69 @@
       "game": "SF @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
+    },
+    {
+      "name": "Chris Sale",
+      "type": "pitcher_outs",
+      "team": "ATL",
+      "opponent": "CHC",
+      "line": 18.0,
+      "sharp_signal": false,
+      "odds": -110,
+      "raw_score": 79,
+      "score": 79,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 20.1,
+      "implied_ip": 6.0,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Sharp lean  Line:+0.5  Odds:+72  Vel:23.0c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "W.Avg outs above line",
+        "All recent starts exceeded line",
+        "Elite strike% (68.4%) - efficient pitch usage",
+        "Extra rest - may go deeper",
+        "Strong offense (OBP=0.342) - pitch count risk",
+        "Bullpen tired (3 tired arms) - starter likely goes deeper",
+        "High first pitch whiff (28.2%) - efficient at setting up counts",
+        "Fast movement (23.0 cents/hr)",
+        "Sharp over money moved line up 0.5 (book repriced - sharps liked the over)",
+        "High velocity confirms sharp over action"
+      ],
+      "breakdown": {
+        "recent_ip_form": 30,
+        "pitch_efficiency": 16,
+        "game_context": 18,
+        "opp_offense": 2,
+        "bullpen_context": 7,
+        "pitcher_stuff": 6
+      },
+      "game": "CHC @ ATL",
+      "game_time": "7:15 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 2,
+        "tired_arms": 3,
+        "availability_score": 30,
+        "total_checked": 5
+      }
     },
     {
       "name": "Foster Griffin",
@@ -145,60 +205,9 @@
         "tired_arms": 4,
         "availability_score": 50,
         "total_checked": 6
-      }
-    },
-    {
-      "name": "Chris Sale",
-      "type": "pitcher_k",
-      "team": "ATL",
-      "opponent": "CHC",
-      "line": 6.5,
-      "sharp_signal": false,
-      "odds": -144,
-      "raw_score": 75,
-      "score": 75,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": 8.38,
-      "w_over_rate": 0.875,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "High K rate (29.3%)",
-        "High whiff rate (28.2%)",
-        "High CSW% (32.0%)",
-        "Elite first pitch whiff (28.2%) - dominates 0-0 count",
-        "Trending up last 2 starts",
-        "Very high over rate (80%) vs this line",
-        "Very patient lineup (BB%=11.9%) - works deep counts, K upside limited",
-        "Extra rest (6 days)",
-        "Very patient lineup limits K accumulation per inning"
-      ],
-      "breakdown": {
-        "pitcher_stuff": 41,
-        "pitcher_form": 27,
-        "opp_k_vulnerability": 0,
-        "platoon": 3,
-        "contextual": 4,
-        "line_value": 0
       },
-      "game": "CHC @ ATL",
-      "game_time": "7:15 PM ET",
-      "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Elly De La Cruz",
@@ -251,7 +260,9 @@
       "team_total": 4.0,
       "batter_iso": 0.424,
       "blast_pct": 18.3,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Luis Castillo",
@@ -304,7 +315,9 @@
         "tired_arms": 5,
         "availability_score": 25,
         "total_checked": 6
-      }
+      },
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Nolan McLean",
@@ -355,60 +368,9 @@
       "game": "DET @ NYM",
       "game_time": "1:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
-    },
-    {
-      "name": "Chase Burns",
-      "type": "pitcher_outs",
-      "team": "CIN",
-      "opponent": "WSH",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -150,
-      "raw_score": 66,
-      "score": 66,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 18.39,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "High groundball rate (50.6% GB)",
-        "Bullpen tired (3 tired arms) - starter likely goes deeper",
-        "High first pitch whiff (32.9%) - efficient at setting up counts"
-      ],
-      "breakdown": {
-        "recent_ip_form": 23,
-        "pitch_efficiency": 12,
-        "game_context": 10,
-        "opp_offense": 5,
-        "bullpen_context": 7,
-        "pitcher_stuff": 6
-      },
-      "game": "WSH @ CIN",
-      "game_time": "12:40 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 2,
-        "available_any": 4,
-        "tired_arms": 3,
-        "availability_score": 60,
-        "total_checked": 7
-      }
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     }
   ]
 }
