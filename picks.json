@@ -1,43 +1,43 @@
 {
   "date": "2026-05-14",
-  "updated": "02:27 PM ET",
+  "updated": "09:34 AM ET",
   "season_record": {
-    "wins": 192,
-    "losses": 155,
-    "pushes": 9,
-    "units_pnl": 22.52,
-    "bets_placed": 356
+    "wins": 195,
+    "losses": 157,
+    "pushes": 10,
+    "units_pnl": 22.992,
+    "bets_placed": 362
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 33,
+      "wins": 35,
       "losses": 18,
       "pushes": 2,
-      "win_pct": 64.7,
-      "pnl": 18.12,
-      "roi": 28.3,
-      "bets": 53
+      "win_pct": 66.0,
+      "pnl": 20.59,
+      "roi": 30.7,
+      "bets": 55
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 116,
-      "losses": 101,
-      "pushes": 3,
-      "win_pct": 53.5,
-      "pnl": -0.47,
-      "roi": -0.2,
-      "bets": 220
+      "losses": 103,
+      "pushes": 4,
+      "win_pct": 53.0,
+      "pnl": -3.47,
+      "roi": -1.4,
+      "bets": 223
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 43,
+      "wins": 44,
       "losses": 36,
       "pushes": 4,
-      "win_pct": 54.4,
-      "pnl": 4.88,
-      "roi": 5.5,
-      "bets": 83
+      "win_pct": 55.0,
+      "pnl": 5.88,
+      "roi": 6.5,
+      "bets": 84
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Chris Sale",
@@ -150,7 +151,8 @@
         "tired_arms": 3,
         "availability_score": 30,
         "total_checked": 5
-      }
+      },
+      "result": "push"
     },
     {
       "name": "Foster Griffin",
@@ -207,7 +209,8 @@
         "total_checked": 6
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Elly De La Cruz",
@@ -262,7 +265,8 @@
       "blast_pct": 18.3,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Luis Castillo",
@@ -317,7 +321,8 @@
         "total_checked": 6
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Nolan McLean",
@@ -370,7 +375,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     }
   ]
 }
