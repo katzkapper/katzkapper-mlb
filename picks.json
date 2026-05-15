@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "updated": "12:49 PM ET",
+  "updated": "04:09 PM ET",
   "season_record": {
     "wins": 195,
     "losses": 157,
@@ -62,7 +62,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+9  Vel:5.0c/hr",
+      "movement_summary": "No movement  Odds:+9  Vel:1.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -111,7 +111,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement",
+      "movement_summary": "No movement  Odds:-1  Vel:0.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -140,7 +140,9 @@
         "tired_arms": 1,
         "availability_score": 100,
         "total_checked": 5
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Blake Snell",
@@ -163,7 +165,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "Sharp lean  Line:-1.0",
+      "movement_summary": "Sharp lean  Line:-1.0  Odds:-15  Vel:2.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
@@ -196,7 +198,9 @@
         "tired_arms": 3,
         "availability_score": 85,
         "total_checked": 8
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Emerson Hancock",
@@ -253,7 +257,7 @@
       "opponent": "NYM",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -115,
+      "odds": -110,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -267,7 +271,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement  Odds:+12  Vel:6.6c/hr",
+      "movement_summary": "No movement  Odds:+17  Vel:3.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -323,7 +327,7 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No movement",
+      "movement_summary": "No movement  Odds:-3  Vel:0.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [],
@@ -351,7 +355,9 @@
         "tired_arms": 3,
         "availability_score": 60,
         "total_checked": 7
-      }
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Edward Cabrera",
