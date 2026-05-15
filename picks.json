@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "updated": "11:01 AM ET",
+  "updated": "12:49 PM ET",
   "season_record": {
     "wins": 195,
     "losses": 157,
@@ -48,7 +48,7 @@
       "opponent": "PHI",
       "line": 5.5,
       "sharp_signal": false,
-      "odds": -124,
+      "odds": -115,
       "raw_score": 82,
       "score": 82,
       "units": 2,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+9  Vel:5.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -113,12 +111,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -151,7 +147,7 @@
       "type": "pitcher_outs",
       "team": "LAD",
       "opponent": "LAA",
-      "line": 16.5,
+      "line": 15.5,
       "sharp_signal": false,
       "odds": -130,
       "raw_score": 73,
@@ -162,26 +158,27 @@
       "w_over_rate": null,
       "w_avg_tb": null,
       "w_avg_outs": 9.0,
-      "implied_ip": 5.5,
+      "implied_ip": 5.2,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:-1.0",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Line 7.5 outs above recent avg",
+        "Line 6.5 outs above recent avg",
         "Very inefficient (8.0 P/out) - bottom 10% of starters",
         "Elevated walk rate (BB%=10.2%)",
         "Elite groundball rate (56.2% GB) - efficient, under less likely",
         "3 fresh quality relievers (ERA 3.36) - quick hook very likely",
-        "Hard contact allowed (27.2% hard hit) - high pitch count risk"
+        "Hard contact allowed (27.2% hard hit) - high pitch count risk",
+        "Sharp under money dropped line 1.0 (book repriced - sharps liked the under)"
       ],
       "breakdown": {
         "recent_ip_form": 30,
@@ -222,12 +219,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -258,7 +253,7 @@
       "opponent": "NYM",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -127,
+      "odds": -115,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -272,12 +267,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+12  Vel:6.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -310,59 +303,6 @@
       }
     },
     {
-      "name": "Clay Holmes",
-      "type": "pitcher_outs",
-      "team": "NYM",
-      "opponent": "NYY",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": 111,
-      "raw_score": 70,
-      "score": 70,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 17.58,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Extra rest - may go deeper",
-        "Low game total (7.0) - pitcher's duel, starter likely goes deep",
-        "Elite groundball rate (61.0% GB) - quick outs, deep outings"
-      ],
-      "breakdown": {
-        "recent_ip_form": 23,
-        "pitch_efficiency": 14,
-        "game_context": 14,
-        "opp_offense": 12,
-        "bullpen_context": 3,
-        "pitcher_stuff": 4
-      },
-      "game": "NYY @ NYM",
-      "game_time": "7:15 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 2,
-        "available_any": 5,
-        "tired_arms": 1,
-        "availability_score": 65,
-        "total_checked": 6
-      }
-    },
-    {
       "name": "Michael Wacha",
       "type": "pitcher_outs",
       "team": "KC",
@@ -383,12 +323,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -436,12 +374,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
