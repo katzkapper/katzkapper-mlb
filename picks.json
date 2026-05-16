@@ -1,33 +1,33 @@
 {
   "date": "2026-05-15",
-  "updated": "04:09 PM ET",
+  "updated": "08:06 AM ET",
   "season_record": {
-    "wins": 195,
-    "losses": 157,
+    "wins": 199,
+    "losses": 159,
     "pushes": 10,
-    "units_pnl": 22.992,
-    "bets_placed": 362
+    "units_pnl": 24.441,
+    "bets_placed": 368
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 35,
-      "losses": 18,
+      "wins": 36,
+      "losses": 19,
       "pushes": 2,
-      "win_pct": 66.0,
-      "pnl": 20.59,
-      "roi": 30.7,
-      "bets": 55
+      "win_pct": 65.5,
+      "pnl": 19.69,
+      "roi": 28.1,
+      "bets": 57
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 116,
-      "losses": 103,
+      "wins": 119,
+      "losses": 104,
       "pushes": 4,
-      "win_pct": 53.0,
-      "pnl": -3.47,
-      "roi": -1.4,
-      "bets": 223
+      "win_pct": 53.4,
+      "pnl": -1.12,
+      "roi": -0.5,
+      "bets": 227
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -88,7 +88,8 @@
       "game": "PHI @ PIT",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Spencer Strider",
@@ -142,7 +143,8 @@
         "total_checked": 5
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Blake Snell",
@@ -248,7 +250,8 @@
       "game": "SD @ SEA",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Cam Schlittler",
@@ -304,7 +307,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Michael Wacha",
@@ -357,7 +361,8 @@
         "total_checked": 7
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Edward Cabrera",
@@ -410,7 +415,8 @@
         "tired_arms": 4,
         "availability_score": 50,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     }
   ]
 }
