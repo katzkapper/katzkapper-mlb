@@ -1,33 +1,33 @@
 {
   "date": "2026-05-16",
-  "updated": "08:48 AM ET",
+  "updated": "01:47 PM ET",
   "season_record": {
-    "wins": 199,
-    "losses": 159,
+    "wins": 205,
+    "losses": 162,
     "pushes": 10,
-    "units_pnl": 24.441,
-    "bets_placed": 368
+    "units_pnl": 28.22,
+    "bets_placed": 377
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 36,
-      "losses": 19,
+      "wins": 37,
+      "losses": 22,
       "pushes": 2,
-      "win_pct": 65.5,
-      "pnl": 19.69,
-      "roi": 28.1,
-      "bets": 57
+      "win_pct": 62.7,
+      "pnl": 17.3,
+      "roi": 22.8,
+      "bets": 61
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 119,
+      "wins": 124,
       "losses": 104,
       "pushes": 4,
-      "win_pct": 53.4,
-      "pnl": -1.12,
-      "roi": -0.5,
-      "bets": 227
+      "win_pct": 54.4,
+      "pnl": 5.04,
+      "roi": 2.0,
+      "bets": 232
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -89,7 +89,8 @@
       "game": "BOS @ ATL",
       "game_time": "7:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Justin Wrobleski",
@@ -144,7 +145,8 @@
         "tired_arms": 8,
         "availability_score": 25,
         "total_checked": 9
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -194,7 +196,8 @@
       "game": "LAD @ LAA",
       "game_time": "9:38 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Cristopher S\u00e1nchez",
@@ -251,7 +254,8 @@
         "tired_arms": 5,
         "availability_score": 35,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Carlos Rod\u00f3n",
@@ -307,7 +311,8 @@
         "tired_arms": 2,
         "availability_score": 90,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Bryce Elder",
@@ -356,7 +361,8 @@
       "game": "BOS @ ATL",
       "game_time": "7:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Nick Martinez",
@@ -410,7 +416,8 @@
         "tired_arms": 2,
         "availability_score": 85,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Jacob deGrom",
@@ -460,7 +467,8 @@
       "game": "TEX @ HOU",
       "game_time": "7:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Davis Martin",
@@ -514,7 +522,8 @@
         "tired_arms": 2,
         "availability_score": 35,
         "total_checked": 5
-      }
+      },
+      "result": "win"
     }
   ]
 }
