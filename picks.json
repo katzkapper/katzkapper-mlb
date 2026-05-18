@@ -1,12 +1,12 @@
 {
   "date": "2026-05-17",
-  "updated": "02:07 PM ET",
+  "updated": "09:24 AM ET",
   "season_record": {
-    "wins": 205,
+    "wins": 207,
     "losses": 162,
     "pushes": 10,
-    "units_pnl": 28.22,
-    "bets_placed": 377
+    "units_pnl": 29.702,
+    "bets_placed": 379
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 124,
+      "wins": 126,
       "losses": 104,
       "pushes": 4,
-      "win_pct": 54.4,
-      "pnl": 5.04,
-      "roi": 2.0,
-      "bets": 232
+      "win_pct": 54.8,
+      "pnl": 6.52,
+      "roi": 2.5,
+      "bets": 234
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -95,7 +95,8 @@
         "tired_arms": 5,
         "availability_score": 5,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Nathan Eovaldi",
@@ -152,7 +153,8 @@
         "tired_arms": 1,
         "availability_score": 100,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     }
   ]
 }
