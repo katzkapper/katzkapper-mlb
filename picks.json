@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "updated": "10:40 AM ET",
+  "updated": "12:48 PM ET",
   "season_record": {
     "wins": 212,
     "losses": 163,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -91,61 +89,6 @@
       "sharp_consensus_odds": null
     },
     {
-      "name": "Zebby Matthews",
-      "type": "pitcher_outs",
-      "team": "MIN",
-      "opponent": "HOU",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -101,
-      "raw_score": 79,
-      "score": 79,
-      "units": 2,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 21.0,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "W.Avg outs 3.5 above line - strong over",
-        "All recent starts exceeded line",
-        "Elite efficiency (4.0 P/out) - top 5% of starters",
-        "Elite strike% (67.5%) - efficient pitch usage",
-        "Bullpen depleted (6 tired arms) - starter goes deep"
-      ],
-      "breakdown": {
-        "recent_ip_form": 30,
-        "pitch_efficiency": 22,
-        "game_context": 5,
-        "opp_offense": 8,
-        "bullpen_context": 10,
-        "pitcher_stuff": 4
-      },
-      "game": "HOU @ MIN",
-      "game_time": "7:40 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 0,
-        "available_any": 2,
-        "tired_arms": 6,
-        "availability_score": 10,
-        "total_checked": 8
-      }
-    },
-    {
       "name": "Griffin Canning",
       "type": "pitcher_outs",
       "team": "SD",
@@ -166,12 +109,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -222,12 +163,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -274,12 +213,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -304,7 +241,9 @@
       "game": "MIL @ CHC",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Nolan McLean",
@@ -327,12 +266,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -355,6 +292,62 @@
       "sharp_consensus_odds": null
     },
     {
+      "name": "Drake Baldwin",
+      "type": "batter_tb",
+      "team": "MIA",
+      "opponent": "Mart\u00edn P\u00e9rez",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": -108,
+      "raw_score": 62,
+      "score": 74,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.333,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "Sharp lean  Odds:-220  Vel:103.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 12,
+      "mv_notes": [
+        "Line movement adj: +12 pts (62 -> 74)",
+        "Sharp confirmation bonus: +12 pts"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Pitcher fatigue",
+        "High hard hit rate (43.7%) - hard contact allowed",
+        "Hot vs this pitcher handedness",
+        "Regression due - cold in series so far",
+        "Elite barrel rate (18.6%) - consistently squares up",
+        "Elite power (ISO=0.303) - extra base hit machine",
+        "Strong platoon advantage + elite power vs this hand",
+        "Fast movement (103.1 cents/hr)",
+        "Over juice heavier (-220) Vel:103.1c/hr - STRONG sharp over lean"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 17,
+        "batter_form": 15,
+        "blast_power": 15,
+        "park_weather": 3,
+        "team_total_bonus": 3,
+        "platoon": 9
+      },
+      "game": "ATL @ MIA",
+      "game_time": "4:10 PM ET",
+      "team_total": 4.2,
+      "batter_iso": 0.303,
+      "blast_pct": 16.7,
+      "over_rate": 0.5
+    },
+    {
       "name": "Chase Burns",
       "type": "pitcher_outs",
       "team": "CIN",
@@ -375,12 +368,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -409,6 +400,65 @@
       }
     },
     {
+      "name": "Zebby Matthews",
+      "type": "pitcher_outs",
+      "team": "MIN",
+      "opponent": "HOU",
+      "line": 16.5,
+      "sharp_signal": false,
+      "odds": -101,
+      "raw_score": 79,
+      "score": 69,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.0,
+      "w_avg_tb": null,
+      "w_avg_outs": 21.0,
+      "implied_ip": 5.5,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "SHARP FADE  Line:-1.0  Odds:-28  Vel:13.1c/hr",
+      "movement_penalty": 10,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Line movement adj: -10 pts (79 -> 69)",
+        "Unit downgrade: 2u -> 1u (sharp contra)"
+      ],
+      "min_score_to_bet": 65,
+      "mv_recommendation": "downgrade",
+      "flags": [
+        "W.Avg outs 4.5 above line - strong over",
+        "All recent starts exceeded line",
+        "Elite efficiency (4.0 P/out) - top 5% of starters",
+        "Elite strike% (67.5%) - efficient pitch usage",
+        "Bullpen depleted (6 tired arms) - starter goes deep",
+        "Sharp UNDER money dropped line 1.0 - fading our over bet"
+      ],
+      "breakdown": {
+        "recent_ip_form": 30,
+        "pitch_efficiency": 22,
+        "game_context": 5,
+        "opp_offense": 8,
+        "bullpen_context": 10,
+        "pitcher_stuff": 4
+      },
+      "game": "HOU @ MIN",
+      "game_time": "7:40 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 0,
+        "available_any": 2,
+        "tired_arms": 6,
+        "availability_score": 10,
+        "total_checked": 8
+      },
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
+    },
+    {
       "name": "Kyle Bradish",
       "type": "pitcher_k",
       "team": "BAL",
@@ -429,12 +479,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -463,7 +511,7 @@
       "opponent": "ATL",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": -130,
+      "odds": -127,
       "raw_score": 65,
       "score": 65,
       "units": 1,
@@ -477,12 +525,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+3  Vel:1.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -507,60 +553,6 @@
         "tired_arms": 3,
         "availability_score": 20,
         "total_checked": 7
-      }
-    },
-    {
-      "name": "Foster Griffin",
-      "type": "pitcher_outs",
-      "team": "WSH",
-      "opponent": "NYM",
-      "line": 16.5,
-      "sharp_signal": false,
-      "odds": -155,
-      "raw_score": 63,
-      "score": 63,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.0,
-      "w_avg_tb": null,
-      "w_avg_outs": 17.49,
-      "implied_ip": 5.5,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Slight downward IP trend - over less certain",
-        "High groundball rate (50.5% GB)",
-        "Bullpen tired (4 tired arms) - starter likely goes deeper",
-        "High first pitch whiff (27.1%) - efficient at setting up counts"
-      ],
-      "breakdown": {
-        "recent_ip_form": 21,
-        "pitch_efficiency": 9,
-        "game_context": 5,
-        "opp_offense": 15,
-        "bullpen_context": 7,
-        "pitcher_stuff": 6
-      },
-      "game": "NYM @ WSH",
-      "game_time": "6:45 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 2,
-        "available_any": 2,
-        "tired_arms": 4,
-        "availability_score": 50,
-        "total_checked": 6
       }
     }
   ]
