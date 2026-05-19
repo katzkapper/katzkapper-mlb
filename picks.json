@@ -1,23 +1,23 @@
 {
   "date": "2026-05-18",
-  "updated": "12:35 PM ET",
+  "updated": "09:18 AM ET",
   "season_record": {
-    "wins": 207,
-    "losses": 162,
+    "wins": 212,
+    "losses": 163,
     "pushes": 10,
-    "units_pnl": 29.702,
-    "bets_placed": 379
+    "units_pnl": 35.085,
+    "bets_placed": 385
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 37,
-      "losses": 22,
+      "wins": 40,
+      "losses": 23,
       "pushes": 2,
-      "win_pct": 62.7,
-      "pnl": 17.3,
-      "roi": 22.8,
-      "bets": 61
+      "win_pct": 63.5,
+      "pnl": 20.51,
+      "roi": 25.3,
+      "bets": 65
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 44,
+      "wins": 46,
       "losses": 36,
       "pushes": 4,
-      "win_pct": 55.0,
-      "pnl": 5.88,
-      "roi": 6.5,
-      "bets": 84
+      "win_pct": 56.1,
+      "pnl": 8.05,
+      "roi": 8.7,
+      "bets": 86
     }
   },
   "bets": [
@@ -87,7 +87,8 @@
       "game": "TOR @ NYY",
       "game_time": "7:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Yoshinobu Yamamoto",
@@ -139,7 +140,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Kyle Schwarber",
@@ -241,7 +243,8 @@
       "team_total": 5.0,
       "batter_iso": 0.381,
       "blast_pct": 13.7,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Max Meyer",
@@ -287,7 +290,8 @@
       "game": "ATL @ MIA",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Shota Imanaga",
@@ -340,7 +344,8 @@
       "game": "MIL @ CHC",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Paul Goldschmidt",
@@ -392,7 +397,8 @@
       "team_total": 4.5,
       "batter_iso": 0.342,
       "blast_pct": 15.6,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "win"
     }
   ]
 }
