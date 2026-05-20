@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "updated": "02:08 PM ET",
+  "updated": "03:11 PM ET",
   "season_record": {
     "wins": 218,
     "losses": 167,
@@ -94,57 +94,6 @@
       "game_time": "8:40 PM ET",
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null
-    },
-    {
-      "name": "Chris Sale",
-      "type": "pitcher_k",
-      "team": "ATL",
-      "opponent": "MIA",
-      "line": 6.5,
-      "sharp_signal": true,
-      "odds": -205,
-      "raw_score": 83,
-      "score": 83,
-      "units": 2,
-      "trend": "flat",
-      "w_avg_k": 8.5,
-      "w_over_rate": 1.0,
-      "w_avg_tb": null,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "High K rate (29.6%)",
-        "High whiff rate (28.9%)",
-        "High CSW% (32.0%)",
-        "Elite first pitch whiff (28.9%) - dominates 0-0 count",
-        "Trending down last 2 starts",
-        "Very high over rate (100%) vs this line",
-        "Extra rest (6 days)"
-      ],
-      "breakdown": {
-        "pitcher_stuff": 41,
-        "pitcher_form": 27,
-        "opp_k_vulnerability": 4,
-        "platoon": 3,
-        "contextual": 8,
-        "line_value": 0
-      },
-      "game": "ATL @ MIA",
-      "game_time": "6:40 PM ET",
-      "sharp_pinnacle_odds": -435,
-      "sharp_consensus_odds": -110
     },
     {
       "name": "Justin Foscue",
