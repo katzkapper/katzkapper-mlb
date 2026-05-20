@@ -1,33 +1,33 @@
 {
   "date": "2026-05-19",
-  "updated": "01:37 PM ET",
+  "updated": "12:41 PM ET",
   "season_record": {
-    "wins": 212,
-    "losses": 163,
+    "wins": 218,
+    "losses": 167,
     "pushes": 10,
-    "units_pnl": 35.085,
-    "bets_placed": 385
+    "units_pnl": 35.787,
+    "bets_placed": 395
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 40,
-      "losses": 23,
+      "wins": 43,
+      "losses": 25,
       "pushes": 2,
-      "win_pct": 63.5,
-      "pnl": 20.51,
-      "roi": 25.3,
-      "bets": 65
+      "win_pct": 63.2,
+      "pnl": 20.63,
+      "roi": 23.7,
+      "bets": 70
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 126,
-      "losses": 104,
+      "wins": 129,
+      "losses": 106,
       "pushes": 4,
-      "win_pct": 54.8,
-      "pnl": 6.52,
-      "roi": 2.5,
-      "bets": 234
+      "win_pct": 54.9,
+      "pnl": 7.11,
+      "roi": 2.7,
+      "bets": 239
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -88,7 +88,8 @@
       "game": "LAD @ SD",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -143,7 +144,8 @@
         "tired_arms": 6,
         "availability_score": 10,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Griffin Canning",
@@ -199,7 +201,8 @@
         "tired_arms": 2,
         "availability_score": 60,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Dylan Cease",
@@ -251,7 +254,8 @@
       "game": "TOR @ NYY",
       "game_time": "7:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Jacob Misiorowski",
@@ -304,7 +308,8 @@
       "game": "MIL @ CHC",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Nolan McLean",
@@ -352,7 +357,8 @@
       "game": "NYM @ WSH",
       "game_time": "6:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Chase Burns",
@@ -406,7 +412,8 @@
         "tired_arms": 3,
         "availability_score": 40,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Kyle Bradish",
@@ -454,7 +461,8 @@
       "game": "BAL @ TB",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Braxton Garrett",
@@ -507,7 +515,8 @@
         "tired_arms": 3,
         "availability_score": 20,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Foster Griffin",
@@ -561,7 +570,8 @@
         "tired_arms": 4,
         "availability_score": 50,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     }
   ]
 }
