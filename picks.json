@@ -1,43 +1,43 @@
 {
   "date": "2026-05-20",
-  "updated": "03:11 PM ET",
+  "updated": "09:28 AM ET",
   "season_record": {
-    "wins": 218,
-    "losses": 167,
+    "wins": 221,
+    "losses": 170,
     "pushes": 10,
-    "units_pnl": 35.787,
-    "bets_placed": 395
+    "units_pnl": 34.287,
+    "bets_placed": 401
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 43,
-      "losses": 25,
+      "losses": 26,
       "pushes": 2,
-      "win_pct": 63.2,
-      "pnl": 20.63,
-      "roi": 23.7,
-      "bets": 70
+      "win_pct": 62.3,
+      "pnl": 18.63,
+      "roi": 20.9,
+      "bets": 71
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 129,
-      "losses": 106,
+      "wins": 131,
+      "losses": 107,
       "pushes": 4,
-      "win_pct": 54.9,
-      "pnl": 7.11,
-      "roi": 2.7,
-      "bets": 239
+      "win_pct": 55.0,
+      "pnl": 7.59,
+      "roi": 2.8,
+      "bets": 242
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 46,
-      "losses": 36,
+      "wins": 47,
+      "losses": 37,
       "pushes": 4,
-      "win_pct": 56.1,
-      "pnl": 8.05,
-      "roi": 8.7,
-      "bets": 86
+      "win_pct": 56.0,
+      "pnl": 8.07,
+      "roi": 8.6,
+      "bets": 88
     }
   },
   "bets": [
@@ -93,7 +93,8 @@
       "game": "LAD @ SD",
       "game_time": "8:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Justin Foscue",
@@ -145,7 +146,8 @@
       "team_total": 5.5,
       "batter_iso": 0.31,
       "blast_pct": 20.5,
-      "over_rate": 0.3
+      "over_rate": 0.3,
+      "result": "win"
     },
     {
       "name": "James Wood",
@@ -195,7 +197,8 @@
       "team_total": 4.8,
       "batter_iso": 0.23,
       "blast_pct": 17.4,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Michael McGreevy",
@@ -247,7 +250,8 @@
         "tired_arms": 4,
         "availability_score": 15,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Kyle Freeland",
@@ -298,7 +302,8 @@
         "tired_arms": 2,
         "availability_score": 60,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Michael Wacha",
@@ -348,7 +353,8 @@
         "tired_arms": 5,
         "availability_score": 55,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     }
   ]
 }
