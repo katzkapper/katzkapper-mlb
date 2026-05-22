@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "updated": "09:50 AM ET",
+  "updated": "12:04 PM ET",
   "season_record": {
     "wins": 223,
     "losses": 172,
@@ -46,9 +46,9 @@
       "type": "pitcher_outs",
       "team": "PHI",
       "opponent": "CLE",
-      "line": 18.5,
+      "line": 19.0,
       "sharp_signal": false,
-      "odds": -150,
+      "odds": -120,
       "raw_score": 83,
       "score": 83,
       "units": 2,
@@ -57,26 +57,27 @@
       "w_over_rate": 0.0,
       "w_avg_tb": null,
       "w_avg_outs": 22.47,
-      "implied_ip": 6.2,
+      "implied_ip": 6.3,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "Sharp lean  Line:+0.5  Odds:+30  Vel:13.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
       "mv_notes": [
-        "No line movement data - using model score only"
+        "Sharp signal: sharp_lean (no score adj - model already reflects new line)"
       ],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "W.Avg outs 4.0 above line - strong over",
+        "W.Avg outs 3.5 above line - strong over",
         "Elite strike% (67.7%) - efficient pitch usage",
         "Extra rest - may go deeper",
         "Very low game total (6.5) - pitcher's duel, starter likely goes deep",
         "Elite groundball rate (64.5% GB) - quick outs, deep outings",
-        "High first pitch whiff (30.7%) - efficient at setting up counts"
+        "High first pitch whiff (30.7%) - efficient at setting up counts",
+        "Sharp over money moved line up 0.5 (book repriced - sharps liked the over)"
       ],
       "breakdown": {
         "recent_ip_form": 30,
@@ -118,12 +119,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -151,7 +150,7 @@
       "team": "BOS",
       "opponent": "MIN",
       "line": 15.5,
-      "sharp_signal": false,
+      "sharp_signal": true,
       "odds": -125,
       "raw_score": 78,
       "score": 78,
@@ -166,12 +165,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -221,12 +218,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -262,7 +257,7 @@
       "opponent": "NYY",
       "line": 15.5,
       "sharp_signal": false,
-      "odds": 122,
+      "odds": 127,
       "raw_score": 77,
       "score": 77,
       "units": 2,
@@ -276,12 +271,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:2.2c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -331,12 +324,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -368,7 +359,7 @@
       "opponent": "MIL",
       "line": 17.5,
       "sharp_signal": false,
-      "odds": -150,
+      "odds": -140,
       "raw_score": 68,
       "score": 68,
       "units": 1,
@@ -382,12 +373,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+10  Vel:4.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
