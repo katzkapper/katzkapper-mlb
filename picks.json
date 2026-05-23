@@ -1,43 +1,43 @@
 {
   "date": "2026-05-22",
-  "updated": "12:04 PM ET",
+  "updated": "09:12 AM ET",
   "season_record": {
-    "wins": 223,
-    "losses": 172,
+    "wins": 228,
+    "losses": 174,
     "pushes": 10,
-    "units_pnl": 35.251,
-    "bets_placed": 405
+    "units_pnl": 42.166,
+    "bets_placed": 412
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 43,
+      "wins": 44,
       "losses": 26,
       "pushes": 2,
-      "win_pct": 62.3,
-      "pnl": 18.63,
-      "roi": 20.9,
-      "bets": 71
+      "win_pct": 62.9,
+      "pnl": 20.45,
+      "roi": 22.5,
+      "bets": 72
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 133,
-      "losses": 108,
+      "wins": 137,
+      "losses": 109,
       "pushes": 4,
-      "win_pct": 55.2,
-      "pnl": 9.55,
-      "roi": 3.5,
-      "bets": 245
+      "win_pct": 55.7,
+      "pnl": 15.65,
+      "roi": 5.5,
+      "bets": 250
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 47,
-      "losses": 38,
+      "losses": 39,
       "pushes": 4,
-      "win_pct": 55.3,
-      "pnl": 7.07,
-      "roi": 7.4,
-      "bets": 89
+      "win_pct": 54.7,
+      "pnl": 6.07,
+      "roi": 6.3,
+      "bets": 90
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Davis Martin",
@@ -142,7 +143,8 @@
       "game": "CWS @ SF",
       "game_time": "10:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Payton Tolle",
@@ -195,7 +197,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Gavin Williams",
@@ -248,7 +251,8 @@
         "tired_arms": 4,
         "availability_score": 75,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Nick Martinez",
@@ -301,7 +305,8 @@
         "tired_arms": 0,
         "availability_score": 70,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "James Wood",
@@ -350,7 +355,8 @@
       "team_total": 4.5,
       "batter_iso": 0.274,
       "blast_pct": 17.5,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Justin Wrobleski",
@@ -403,7 +409,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     }
   ]
 }
