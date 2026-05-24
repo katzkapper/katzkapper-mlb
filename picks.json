@@ -1,43 +1,43 @@
 {
   "date": "2026-05-23",
-  "updated": "09:49 AM ET",
+  "updated": "09:41 AM ET",
   "season_record": {
-    "wins": 228,
-    "losses": 174,
+    "wins": 231,
+    "losses": 177,
     "pushes": 10,
-    "units_pnl": 42.166,
-    "bets_placed": 412
+    "units_pnl": 42.153,
+    "bets_placed": 418
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 44,
-      "losses": 26,
+      "wins": 45,
+      "losses": 27,
       "pushes": 2,
-      "win_pct": 62.9,
-      "pnl": 20.45,
-      "roi": 22.5,
-      "bets": 72
+      "win_pct": 62.5,
+      "pnl": 20.21,
+      "roi": 21.7,
+      "bets": 74
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 137,
-      "losses": 109,
+      "wins": 139,
+      "losses": 110,
       "pushes": 4,
-      "win_pct": 55.7,
-      "pnl": 15.65,
-      "roi": 5.5,
-      "bets": 250
+      "win_pct": 55.8,
+      "pnl": 16.88,
+      "roi": 5.9,
+      "bets": 253
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 47,
-      "losses": 39,
+      "losses": 40,
       "pushes": 4,
-      "win_pct": 54.7,
-      "pnl": 6.07,
-      "roi": 6.3,
-      "bets": 90
+      "win_pct": 54.0,
+      "pnl": 5.07,
+      "roi": 5.2,
+      "bets": 91
     }
   },
   "bets": [
@@ -92,7 +92,8 @@
         "tired_arms": 3,
         "availability_score": 75,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Nathan Eovaldi",
@@ -147,7 +148,8 @@
         "tired_arms": 3,
         "availability_score": 80,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Max Meyer",
@@ -195,7 +197,8 @@
       "game": "NYM @ MIA",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "JJ Bleday",
@@ -246,7 +249,8 @@
       "team_total": 4.5,
       "batter_iso": 0.386,
       "blast_pct": 17.8,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Jovani Mor\u00e1n",
@@ -294,7 +298,8 @@
       "game": "MIN @ BOS",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Stephen Kolek",
@@ -348,7 +353,8 @@
         "tired_arms": 3,
         "availability_score": 85,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     }
   ]
 }
