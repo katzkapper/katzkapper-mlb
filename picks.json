@@ -1,12 +1,12 @@
 {
   "date": "2026-05-24",
-  "updated": "10:19 AM ET",
+  "updated": "08:55 AM ET",
   "season_record": {
     "wins": 231,
-    "losses": 177,
+    "losses": 178,
     "pushes": 10,
-    "units_pnl": 42.153,
-    "bets_placed": 418
+    "units_pnl": 41.153,
+    "bets_placed": 419
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -22,12 +22,12 @@
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 139,
-      "losses": 110,
+      "losses": 111,
       "pushes": 4,
-      "win_pct": 55.8,
-      "pnl": 16.88,
-      "roi": 5.9,
-      "bets": 253
+      "win_pct": 55.6,
+      "pnl": 15.88,
+      "roi": 5.5,
+      "bets": 254
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -150,7 +150,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     }
   ]
 }
