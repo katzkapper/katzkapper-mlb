@@ -1,12 +1,12 @@
 {
   "date": "2026-05-25",
-  "updated": "09:31 AM ET",
+  "updated": "08:55 AM ET",
   "season_record": {
-    "wins": 231,
-    "losses": 178,
+    "wins": 233,
+    "losses": 179,
     "pushes": 10,
-    "units_pnl": 41.153,
-    "bets_placed": 419
+    "units_pnl": 42.777,
+    "bets_placed": 422
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 139,
-      "losses": 111,
+      "wins": 141,
+      "losses": 112,
       "pushes": 4,
-      "win_pct": 55.6,
-      "pnl": 15.88,
-      "roi": 5.5,
-      "bets": 254
+      "win_pct": 55.7,
+      "pnl": 17.5,
+      "roi": 6.0,
+      "bets": 257
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -94,7 +94,8 @@
         "tired_arms": 5,
         "availability_score": 30,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Kumar Rocker",
@@ -148,7 +149,8 @@
         "tired_arms": 2,
         "availability_score": 100,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Tatsuya Imai",
@@ -205,7 +207,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     }
   ]
 }
