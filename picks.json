@@ -1,33 +1,33 @@
 {
   "date": "2026-05-26",
-  "updated": "05:27 PM ET",
+  "updated": "09:04 AM ET",
   "season_record": {
-    "wins": 233,
-    "losses": 179,
+    "wins": 236,
+    "losses": 182,
     "pushes": 10,
-    "units_pnl": 42.777,
-    "bets_placed": 422
+    "units_pnl": 42.67,
+    "bets_placed": 428
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 45,
-      "losses": 27,
+      "wins": 47,
+      "losses": 30,
       "pushes": 2,
-      "win_pct": 62.5,
-      "pnl": 20.21,
-      "roi": 21.7,
-      "bets": 74
+      "win_pct": 61.0,
+      "pnl": 19.33,
+      "roi": 19.1,
+      "bets": 79
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 141,
+      "wins": 142,
       "losses": 112,
       "pushes": 4,
-      "win_pct": 55.7,
-      "pnl": 17.5,
-      "roi": 6.0,
-      "bets": 257
+      "win_pct": 55.9,
+      "pnl": 18.27,
+      "roi": 6.2,
+      "bets": 258
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -90,7 +90,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Chase Burns",
@@ -143,7 +144,8 @@
       "game": "CIN @ NYM",
       "game_time": "7:10 PM ET",
       "sharp_pinnacle_odds": -560,
-      "sharp_consensus_odds": -106
+      "sharp_consensus_odds": -106,
+      "result": "win"
     },
     {
       "name": "Kyle Harrison",
@@ -194,7 +196,8 @@
       "game": "STL @ MIL",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -247,7 +250,8 @@
       "game": "CHC @ PIT",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jack Leiter",
@@ -296,7 +300,8 @@
       "game": "HOU @ TEX",
       "game_time": "8:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jason Alexander",
@@ -351,7 +356,8 @@
         "total_checked": 8
       },
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     }
   ]
 }
