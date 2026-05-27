@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "updated": "10:34 AM ET",
+  "updated": "12:54 PM ET",
   "season_record": {
     "wins": 236,
     "losses": 182,
@@ -62,12 +62,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-10  Vel:4.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -91,7 +89,9 @@
       "game": "PHI @ SD",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Gavin Williams",
@@ -100,9 +100,9 @@
       "opponent": "WSH",
       "line": 6.5,
       "sharp_signal": false,
-      "odds": -110,
-      "raw_score": 83,
-      "score": 83,
+      "odds": -106,
+      "raw_score": 80,
+      "score": 80,
       "units": 2,
       "trend": "flat",
       "w_avg_k": 7.75,
@@ -114,12 +114,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+4  Vel:1.7c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -127,13 +125,14 @@
         "High whiff rate (29.7%)",
         "Elite CSW% (33.2%) - dominates with called + swinging strikes",
         "Elite first pitch whiff (29.7%) - dominates 0-0 count",
-        "Very high over rate (80%) vs this line"
+        "Very high over rate (80%) vs this line",
+        "Unfavorable lineup handedness"
       ],
       "breakdown": {
         "pitcher_stuff": 45,
         "pitcher_form": 25,
         "opp_k_vulnerability": 4,
-        "platoon": 3,
+        "platoon": 0,
         "contextual": 6,
         "line_value": 0
       },
@@ -163,12 +162,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-10  Vel:4.3c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -192,7 +189,58 @@
       "team_total": 4.2,
       "batter_iso": 0.164,
       "blast_pct": 19.4,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
+    },
+    {
+      "name": "Jake Bauers",
+      "type": "batter_tb",
+      "team": "MIL",
+      "opponent": "Dustin May",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 170,
+      "raw_score": 72,
+      "score": 72,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.067,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement  Odds:+19  Vel:8.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "High hard hit rate (46.7%) + low whiff% - extra base hit risk",
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Strong power (ISO=0.28)",
+        "Strong platoon advantage + elite power vs this hand"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 9,
+        "batter_form": 27,
+        "blast_power": 14,
+        "park_weather": 10,
+        "team_total_bonus": 3,
+        "platoon": 9
+      },
+      "game": "STL @ MIL",
+      "game_time": "1:40 PM ET",
+      "team_total": 4.5,
+      "batter_iso": 0.28,
+      "blast_pct": 17.4,
+      "over_rate": 0.6
     },
     {
       "name": "Davis Martin",
@@ -215,12 +263,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -240,6 +286,59 @@
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null
+    },
+    {
+      "name": "James Wood",
+      "type": "batter_tb",
+      "team": "WSH",
+      "opponent": "Gavin Williams",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 136,
+      "raw_score": 71,
+      "score": 71,
+      "units": 1,
+      "trend": "hot",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.933,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No data",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "No line movement data - using model score only"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "High hard hit rate (42.3%) - hard contact allowed",
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Elite exit velocity (96.5 mph avg)",
+        "Elite barrel rate (25.5%) - consistently squares up",
+        "Strong power (ISO=0.279)",
+        "Strong platoon advantage + elite power vs this hand"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 8,
+        "batter_form": 33,
+        "blast_power": 19,
+        "park_weather": 1,
+        "team_total_bonus": 1,
+        "platoon": 9
+      },
+      "game": "WSH @ CLE",
+      "game_time": "1:10 PM ET",
+      "team_total": 4.0,
+      "batter_iso": 0.279,
+      "blast_pct": 17.4,
+      "over_rate": 0.6
     },
     {
       "name": "Bryce Elder",
@@ -262,12 +361,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -315,12 +412,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
