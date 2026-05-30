@@ -1,43 +1,43 @@
 {
   "date": "2026-05-29",
-  "updated": "04:13 PM ET",
+  "updated": "08:49 AM ET",
   "season_record": {
-    "wins": 243,
-    "losses": 188,
+    "wins": 247,
+    "losses": 193,
     "pushes": 10,
-    "units_pnl": 44.238,
-    "bets_placed": 441
+    "units_pnl": 42.169,
+    "bets_placed": 450
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 49,
+      "wins": 51,
       "losses": 32,
       "pushes": 2,
-      "win_pct": 60.5,
-      "pnl": 19.97,
-      "roi": 18.5,
-      "bets": 83
+      "win_pct": 61.4,
+      "pnl": 23.26,
+      "roi": 20.8,
+      "bets": 85
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 144,
-      "losses": 115,
+      "wins": 146,
+      "losses": 117,
       "pushes": 4,
-      "win_pct": 55.6,
-      "pnl": 16.28,
-      "roi": 5.4,
-      "bets": 263
+      "win_pct": 55.5,
+      "pnl": 14.92,
+      "roi": 4.9,
+      "bets": 267
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 50,
-      "losses": 41,
+      "losses": 44,
       "pushes": 4,
-      "win_pct": 54.9,
-      "pnl": 7.99,
-      "roi": 7.9,
-      "bets": 95
+      "win_pct": 53.2,
+      "pnl": 3.99,
+      "roi": 3.8,
+      "bets": 98
     }
   },
   "bets": [
@@ -94,7 +94,8 @@
       "blast_pct": 19.0,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Max Meyer",
@@ -145,7 +146,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Taj Bradley",
@@ -192,7 +194,8 @@
       "game": "MIN @ PIT",
       "game_time": "6:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Stephen Kolek",
@@ -244,7 +247,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Munetaka Murakami",
@@ -298,7 +302,8 @@
       "blast_pct": 13.8,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Carlos Rod\u00f3n",
@@ -351,7 +356,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "James Wood",
@@ -401,7 +407,8 @@
       "team_total": 4.8,
       "batter_iso": 0.282,
       "blast_pct": 17.6,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Zack Wheeler",
@@ -455,7 +462,8 @@
         "tired_arms": 0,
         "availability_score": 100,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Nick Martinez",
@@ -507,7 +515,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     }
   ]
 }
