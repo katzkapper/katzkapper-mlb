@@ -1,33 +1,33 @@
 {
   "date": "2026-05-30",
-  "updated": "09:35 AM ET",
+  "updated": "10:54 AM ET",
   "season_record": {
-    "wins": 247,
-    "losses": 193,
+    "wins": 251,
+    "losses": 196,
     "pushes": 10,
-    "units_pnl": 42.169,
-    "bets_placed": 450
+    "units_pnl": 43.058,
+    "bets_placed": 457
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 51,
-      "losses": 32,
+      "wins": 54,
+      "losses": 33,
       "pushes": 2,
-      "win_pct": 61.4,
-      "pnl": 23.26,
-      "roi": 20.8,
-      "bets": 85
+      "win_pct": 62.1,
+      "pnl": 25.38,
+      "roi": 21.7,
+      "bets": 89
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 146,
-      "losses": 117,
+      "wins": 147,
+      "losses": 119,
       "pushes": 4,
-      "win_pct": 55.5,
-      "pnl": 14.92,
-      "roi": 4.9,
-      "bets": 267
+      "win_pct": 55.3,
+      "pnl": 13.69,
+      "roi": 4.5,
+      "bets": 270
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -89,7 +89,8 @@
       "game": "LAA @ TB",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Ben Brown",
@@ -139,7 +140,8 @@
       "game": "CHC @ STL",
       "game_time": "7:15 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Brandon Sproat",
@@ -187,7 +189,8 @@
       "game": "MIL @ HOU",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Bailey Ober",
@@ -241,7 +244,8 @@
         "tired_arms": 5,
         "availability_score": 30,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Jes\u00fas Luzardo",
@@ -290,7 +294,8 @@
       "game": "PHI @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Drew Rasmussen",
@@ -343,7 +348,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Christian Scott",
@@ -396,7 +402,8 @@
         "tired_arms": 4,
         "availability_score": 35,
         "total_checked": 7
-      }
+      },
+      "result": "win"
     }
   ]
 }
