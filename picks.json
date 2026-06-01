@@ -1,33 +1,33 @@
 {
   "date": "2026-05-31",
-  "updated": "11:36 AM ET",
+  "updated": "01:47 PM ET",
   "season_record": {
     "wins": 251,
-    "losses": 196,
+    "losses": 199,
     "pushes": 10,
-    "units_pnl": 43.058,
-    "bets_placed": 457
+    "units_pnl": 39.058,
+    "bets_placed": 460
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 54,
-      "losses": 33,
+      "losses": 34,
       "pushes": 2,
-      "win_pct": 62.1,
-      "pnl": 25.38,
-      "roi": 21.7,
-      "bets": 89
+      "win_pct": 61.4,
+      "pnl": 23.38,
+      "roi": 19.6,
+      "bets": 90
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
       "wins": 147,
-      "losses": 119,
+      "losses": 121,
       "pushes": 4,
-      "win_pct": 55.3,
-      "pnl": 13.69,
-      "roi": 4.5,
-      "bets": 270
+      "win_pct": 54.9,
+      "pnl": 11.69,
+      "roi": 3.8,
+      "bets": 272
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -89,7 +89,8 @@
       "game": "MIL @ HOU",
       "game_time": "2:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -146,7 +147,8 @@
         "tired_arms": 2,
         "availability_score": 30,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Merrill Kelly",
@@ -199,7 +201,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "loss"
     }
   ]
 }
