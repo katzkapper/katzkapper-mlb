@@ -1,43 +1,43 @@
 {
   "date": "2026-06-01",
-  "updated": "02:17 PM ET",
+  "updated": "03:18 PM ET",
   "season_record": {
-    "wins": 251,
-    "losses": 199,
+    "wins": 253,
+    "losses": 201,
     "pushes": 10,
-    "units_pnl": 39.058,
-    "bets_placed": 460
+    "units_pnl": 38.566,
+    "bets_placed": 464
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 54,
-      "losses": 34,
+      "losses": 35,
       "pushes": 2,
-      "win_pct": 61.4,
-      "pnl": 23.38,
-      "roi": 19.6,
-      "bets": 90
+      "win_pct": 60.7,
+      "pnl": 22.38,
+      "roi": 18.7,
+      "bets": 91
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 147,
-      "losses": 121,
+      "wins": 148,
+      "losses": 122,
       "pushes": 4,
-      "win_pct": 54.9,
-      "pnl": 11.69,
-      "roi": 3.8,
-      "bets": 272
+      "win_pct": 54.8,
+      "pnl": 11.29,
+      "roi": 3.6,
+      "bets": 274
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 50,
+      "wins": 51,
       "losses": 44,
       "pushes": 4,
-      "win_pct": 53.2,
-      "pnl": 3.99,
-      "roi": 3.8,
-      "bets": 98
+      "win_pct": 53.7,
+      "pnl": 4.9,
+      "roi": 4.6,
+      "bets": 99
     }
   },
   "bets": [
@@ -141,7 +141,8 @@
       "team_total": 4.5,
       "batter_iso": 0.384,
       "blast_pct": 16.3,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "win"
     },
     {
       "name": "Kyle Freeland",
@@ -194,7 +195,8 @@
         "tired_arms": 2,
         "availability_score": 80,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Emmet Sheehan",
@@ -244,7 +246,8 @@
       "game": "LAD @ AZ",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Sandy Alcantara",
@@ -298,7 +301,8 @@
         "tired_arms": 5,
         "availability_score": 40,
         "total_checked": 9
-      }
+      },
+      "result": "win"
     }
   ]
 }
