@@ -1,43 +1,43 @@
 {
   "date": "2026-06-02",
-  "updated": "04:00 PM ET",
+  "updated": "12:06 PM ET",
   "season_record": {
-    "wins": 253,
-    "losses": 201,
-    "pushes": 10,
-    "units_pnl": 38.566,
-    "bets_placed": 464
+    "wins": 254,
+    "losses": 205,
+    "pushes": 11,
+    "units_pnl": 35.518,
+    "bets_placed": 470
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 54,
-      "losses": 35,
+      "losses": 36,
       "pushes": 2,
-      "win_pct": 60.7,
-      "pnl": 22.38,
-      "roi": 18.7,
-      "bets": 91
+      "win_pct": 60.0,
+      "pnl": 21.38,
+      "roi": 17.7,
+      "bets": 92
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 148,
-      "losses": 122,
-      "pushes": 4,
-      "win_pct": 54.8,
-      "pnl": 11.29,
-      "roi": 3.6,
-      "bets": 274
+      "wins": 149,
+      "losses": 124,
+      "pushes": 5,
+      "win_pct": 54.6,
+      "pnl": 10.24,
+      "roi": 3.3,
+      "bets": 278
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 51,
-      "losses": 44,
+      "losses": 45,
       "pushes": 4,
-      "win_pct": 53.7,
-      "pnl": 4.9,
-      "roi": 4.6,
-      "bets": 99
+      "win_pct": 53.1,
+      "pnl": 3.9,
+      "roi": 3.6,
+      "bets": 100
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "push"
     },
     {
       "name": "Davis Martin",
@@ -144,7 +145,8 @@
       "game": "CWS @ MIN",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Logan Gilbert",
@@ -197,7 +199,8 @@
         "tired_arms": 3,
         "availability_score": 55,
         "total_checked": 6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Trevor McDonald",
@@ -255,7 +258,8 @@
         "tired_arms": 1,
         "availability_score": 90,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "JJ Bleday",
@@ -307,7 +311,8 @@
       "team_total": 4.5,
       "batter_iso": 0.225,
       "blast_pct": 15.6,
-      "over_rate": 0.8
+      "over_rate": 0.8,
+      "result": "loss"
     },
     {
       "name": "Michael Soroka",
@@ -362,7 +367,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     }
   ]
 }
