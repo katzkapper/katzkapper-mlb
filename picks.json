@@ -1,43 +1,43 @@
 {
   "date": "2026-06-03",
-  "updated": "12:50 PM ET",
+  "updated": "09:47 AM ET",
   "season_record": {
-    "wins": 254,
-    "losses": 205,
+    "wins": 260,
+    "losses": 209,
     "pushes": 11,
-    "units_pnl": 35.518,
-    "bets_placed": 470
+    "units_pnl": 37.112,
+    "bets_placed": 480
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 54,
-      "losses": 36,
+      "wins": 56,
+      "losses": 37,
       "pushes": 2,
-      "win_pct": 60.0,
-      "pnl": 21.38,
-      "roi": 17.7,
-      "bets": 92
+      "win_pct": 60.2,
+      "pnl": 22.81,
+      "roi": 18.2,
+      "bets": 95
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 149,
-      "losses": 124,
+      "wins": 153,
+      "losses": 126,
       "pushes": 5,
-      "win_pct": 54.6,
-      "pnl": 10.24,
-      "roi": 3.3,
-      "bets": 278
+      "win_pct": 54.8,
+      "pnl": 11.41,
+      "roi": 3.5,
+      "bets": 284
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 51,
-      "losses": 45,
+      "losses": 46,
       "pushes": 4,
-      "win_pct": 53.1,
-      "pnl": 3.9,
-      "roi": 3.6,
-      "bets": 100
+      "win_pct": 52.6,
+      "pnl": 2.9,
+      "roi": 2.7,
+      "bets": 101
     }
   },
   "bets": [
@@ -98,7 +98,8 @@
         "tired_arms": 4,
         "availability_score": 40,
         "total_checked": 8
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Chase Burns",
@@ -148,7 +149,8 @@
       "game": "KC @ CIN",
       "game_time": "7:10 PM ET",
       "sharp_pinnacle_odds": -350,
-      "sharp_consensus_odds": -137
+      "sharp_consensus_odds": -137,
+      "result": "win"
     },
     {
       "name": "Gavin Williams",
@@ -206,7 +208,8 @@
         "tired_arms": 5,
         "availability_score": 50,
         "total_checked": 7
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Payton Tolle",
@@ -261,7 +264,8 @@
         "tired_arms": 2,
         "availability_score": 40,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Max Meyer",
@@ -309,7 +313,8 @@
       "game": "MIA @ WSH",
       "game_time": "1:05 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Taj Bradley",
@@ -358,7 +363,8 @@
       "game": "CWS @ MIN",
       "game_time": "1:40 PM ET",
       "sharp_pinnacle_odds": -425,
-      "sharp_consensus_odds": -159
+      "sharp_consensus_odds": -159,
+      "result": "loss"
     },
     {
       "name": "JJ Bleday",
@@ -409,7 +415,8 @@
       "team_total": 4.5,
       "batter_iso": 0.398,
       "blast_pct": 15.4,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Nick Martinez",
@@ -463,7 +470,8 @@
         "tired_arms": 4,
         "availability_score": 40,
         "total_checked": 8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Stephen Kolek",
@@ -516,7 +524,8 @@
         "tired_arms": 2,
         "availability_score": 50,
         "total_checked": 0
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Walker Buehler",
@@ -569,7 +578,8 @@
         "tired_arms": 2,
         "availability_score": 60,
         "total_checked": 6
-      }
+      },
+      "result": "win"
     }
   ]
 }
