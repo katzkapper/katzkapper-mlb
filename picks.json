@@ -1,46 +1,101 @@
 {
   "date": "2026-06-04",
-  "updated": "10:53 AM ET",
+  "updated": "10:05 AM ET",
   "season_record": {
-    "wins": 260,
-    "losses": 209,
+    "wins": 261,
+    "losses": 212,
     "pushes": 11,
-    "units_pnl": 37.112,
-    "bets_placed": 480
+    "units_pnl": 34.945,
+    "bets_placed": 484
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 56,
-      "losses": 37,
+      "losses": 38,
       "pushes": 2,
-      "win_pct": 60.2,
-      "pnl": 22.81,
-      "roi": 18.2,
-      "bets": 95
+      "win_pct": 59.6,
+      "pnl": 21.81,
+      "roi": 17.3,
+      "bets": 96
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 153,
-      "losses": 126,
+      "wins": 154,
+      "losses": 127,
       "pushes": 5,
       "win_pct": 54.8,
-      "pnl": 11.41,
+      "pnl": 11.24,
       "roi": 3.5,
-      "bets": 284
+      "bets": 286
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 51,
-      "losses": 46,
+      "losses": 47,
       "pushes": 4,
-      "win_pct": 52.6,
-      "pnl": 2.9,
-      "roi": 2.7,
-      "bets": 101
+      "win_pct": 52.0,
+      "pnl": 1.9,
+      "roi": 1.7,
+      "bets": 102
     }
   },
   "bets": [
+    {
+      "name": "Matt Olson",
+      "type": "batter_tb",
+      "team": "ATL",
+      "opponent": "Mason Fluharty",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 110,
+      "raw_score": 77,
+      "score": 77,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.333,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "advantage",
+      "movement_summary": "No movement  Odds:-5  Vel:1.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Pitcher fatigue",
+        "High over rate (70% of games exceed line)",
+        "Cold vs this pitcher handedness",
+        "Hot in this series",
+        "Elite exit velocity (93.7 mph avg)",
+        "High barrel rate (14.8%)",
+        "Strong power (ISO=0.254)",
+        "Strong platoon advantage + elite power vs this hand"
+      ],
+      "breakdown": {
+        "pitcher_vulnerability": 9,
+        "batter_form": 33,
+        "blast_power": 16,
+        "park_weather": 7,
+        "team_total_bonus": 3,
+        "platoon": 9
+      },
+      "game": "TOR @ ATL",
+      "game_time": "7:15 PM ET",
+      "team_total": 4.5,
+      "batter_iso": 0.254,
+      "blast_pct": 11.6,
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
+    },
     {
       "name": "Zack Wheeler",
       "type": "pitcher_outs",
@@ -93,7 +148,10 @@
         "availability_score": 70,
         "total_checked": 8,
         "starter_ip_per_game": 5.67
-      }
+      },
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Jared Jones",
@@ -116,12 +174,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -143,115 +199,8 @@
       "game": "PIT @ HOU",
       "game_time": "8:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
-    },
-    {
-      "name": "Chris Sale",
-      "type": "pitcher_outs",
-      "team": "ATL",
-      "opponent": "TOR",
-      "line": 18.5,
-      "sharp_signal": false,
-      "odds": 105,
-      "raw_score": 73,
-      "score": 73,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.6,
-      "w_avg_tb": null,
-      "w_avg_outs": 18.6,
-      "implied_ip": 6.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Slight downward IP trend - over less certain",
-        "Elite strike% (67.7%) - efficient pitch usage",
-        "Extra rest - may go deeper",
-        "Elite stuff - high whiff, weak contact allowed",
-        "High first pitch whiff (30.4%) - efficient at setting up counts"
-      ],
-      "breakdown": {
-        "recent_ip_form": 21,
-        "pitch_efficiency": 16,
-        "game_context": 13,
-        "opp_offense": 13,
-        "bullpen_context": 4,
-        "pitcher_stuff": 6
-      },
-      "game": "TOR @ ATL",
-      "game_time": "7:15 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 4,
-        "available_any": 4,
-        "tired_arms": 2,
-        "availability_score": 100,
-        "total_checked": 6,
-        "starter_ip_per_game": 6.02
-      }
-    },
-    {
-      "name": "Matt Olson",
-      "type": "batter_tb",
-      "team": "ATL",
-      "opponent": "",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": 110,
-      "raw_score": 72,
-      "score": 72,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.333,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "disadvantage",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "High over rate (70% of games exceed line)",
-        "Hot in this series",
-        "Elite exit velocity (93.7 mph avg)",
-        "High barrel rate (14.8%)",
-        "Elite power (ISO=0.34) - extra base hit machine",
-        "Platoon disadvantage but strong power (0.34 ISO)"
-      ],
-      "breakdown": {
-        "pitcher_vulnerability": 6,
-        "batter_form": 35,
-        "blast_power": 18,
-        "park_weather": 6,
-        "team_total_bonus": 3,
-        "platoon": 4
-      },
-      "game": "TOR @ ATL",
-      "game_time": "7:15 PM ET",
-      "team_total": 4.5,
-      "batter_iso": 0.34,
-      "blast_pct": 11.6,
-      "over_rate": 0.7
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Shohei Ohtani",
@@ -274,12 +223,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-5  Vel:1.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -302,62 +249,70 @@
       "team_total": 4.8,
       "batter_iso": 0.2,
       "blast_pct": 14.7,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
-      "name": "Justin Wrobleski",
+      "name": "Chris Sale",
       "type": "pitcher_outs",
-      "team": "LAD",
-      "opponent": "AZ",
-      "line": 17.5,
+      "team": "ATL",
+      "opponent": "TOR",
+      "line": 18.5,
       "sharp_signal": false,
-      "odds": -152,
+      "odds": 114,
       "raw_score": 69,
       "score": 69,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
-      "w_over_rate": 0.8,
+      "w_over_rate": 0.6,
       "w_avg_tb": null,
-      "w_avg_outs": 19.14,
-      "implied_ip": 5.8,
+      "w_avg_outs": 18.6,
+      "implied_ip": 6.2,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+9  Vel:2.0c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Slight downward IP trend - over less certain",
-        "W.Avg outs above line",
-        "Very efficient (4.83 P/out)",
-        "Extra rest - may go deeper"
+        "Slight edge (0.1 outs above avg)",
+        "High avg batters faced (25.6) - goes deep",
+        "Elite strike% (67.7%) - efficient pitch usage",
+        "Starter-heavy org (6.02 SP IP/game) - goes deep",
+        "Quality bullpen options available - quick hook possible",
+        "Extra rest - may go deeper than usual",
+        "Heavy favorite - manager more patient with starter",
+        "High TTO rate (100% deep starts) - goes deep regularly",
+        "Elite whiff rate (30.4%) - misses bats, avoids big innings"
       ],
       "breakdown": {
-        "recent_ip_form": 26,
-        "pitch_efficiency": 19,
-        "game_context": 11,
-        "opp_offense": 8,
-        "bullpen_context": 4,
-        "pitcher_stuff": 1
+        "recent_ip_form": 9,
+        "pitch_efficiency_metrics": 15,
+        "opp_offense": 6,
+        "bullpen_hook": 16,
+        "game_context": 8,
+        "pitcher_leash": 10,
+        "stuff_quality": 5
       },
-      "game": "LAD @ AZ",
-      "game_time": "9:40 PM ET",
+      "game": "TOR @ ATL",
+      "game_time": "7:15 PM ET",
       "direction": "over",
       "bullpen_avail": {
-        "available_high_quality": 6,
-        "available_any": 6,
+        "available_high_quality": 4,
+        "available_any": 4,
         "tired_arms": 2,
         "availability_score": 100,
-        "total_checked": 8,
-        "starter_ip_per_game": 5.8
-      }
+        "total_checked": 6,
+        "starter_ip_per_game": 6.02
+      },
+      "result": "loss"
     }
   ]
 }
