@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "updated": "01:10 PM ET",
+  "updated": "03:36 PM ET",
   "season_record": {
     "wins": 261,
     "losses": 212,
@@ -98,7 +98,9 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Matt Olson",
@@ -121,12 +123,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -150,7 +150,9 @@
       "team_total": 4.5,
       "batter_iso": 0.333,
       "blast_pct": 11.6,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Oneil Cruz",
@@ -159,7 +161,7 @@
       "opponent": "Mitch Keller",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": 132,
+      "odds": 134,
       "raw_score": 73,
       "score": 73,
       "units": 1,
@@ -173,12 +175,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+2  Vel:0.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -211,9 +211,9 @@
       "opponent": "MIL",
       "line": 14.5,
       "sharp_signal": false,
-      "odds": 100,
-      "raw_score": 68,
-      "score": 68,
+      "odds": 105,
+      "raw_score": 72,
+      "score": 72,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
@@ -225,16 +225,13 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:2.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Slight edge (1.2 outs above avg)",
         "Low recent pitch counts (52 avg) - pitch count managed",
         "Above average lineup patience (OBP=0.336)",
         "Bullpen-heavy org (4.6 SP IP/game) - short leash likely",
@@ -244,7 +241,7 @@
         "High blowup risk (45.0% hard hit) - 2-3 inning outing possible"
       ],
       "breakdown": {
-        "recent_ip_form": 9,
+        "recent_ip_form": 13,
         "pitch_efficiency_metrics": 7,
         "opp_offense": 10,
         "bullpen_hook": 20,
@@ -262,6 +259,180 @@
         "availability_score": 100,
         "total_checked": 7,
         "starter_ip_per_game": 4.6
+      }
+    },
+    {
+      "name": "Brady Singer",
+      "type": "pitcher_outs",
+      "team": "CIN",
+      "opponent": "STL",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -132,
+      "raw_score": 71,
+      "score": 71,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.8,
+      "w_avg_tb": null,
+      "w_avg_outs": 13.05,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "High consistency (80% of starts fall short of line)",
+        "Strong recent form - falling short of line in recent starts",
+        "High P/IP (19.6) - inefficient",
+        "Quality bullpen options available",
+        "Fringe/backend pitcher - quick hook likely",
+        "High blowup risk (42.7% hard hit) - 2-3 inning outing possible"
+      ],
+      "breakdown": {
+        "recent_ip_form": 22,
+        "pitch_efficiency_metrics": 15,
+        "opp_offense": 6,
+        "bullpen_hook": 10,
+        "game_context": 3,
+        "pitcher_leash": 10,
+        "blowup_risk": 5
+      },
+      "game": "CIN @ STL",
+      "game_time": "8:15 PM ET",
+      "direction": "under",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 7,
+        "tired_arms": 0,
+        "availability_score": 95,
+        "total_checked": 7,
+        "starter_ip_per_game": 5.28
+      }
+    },
+    {
+      "name": "Brandon Sproat",
+      "type": "pitcher_outs",
+      "team": "MIL",
+      "opponent": "COL",
+      "line": 14.5,
+      "sharp_signal": false,
+      "odds": 120,
+      "raw_score": 71,
+      "score": 71,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.8,
+      "w_avg_tb": null,
+      "w_avg_outs": 12.7,
+      "implied_ip": 4.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:+6  Vel:2.5c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "High consistency (80% of starts fall short of line)",
+        "Strong recent form - falling short of line in recent starts",
+        "High P/IP (19.9) - inefficient",
+        "High walk rate (BB%=12.4%) - pitch count inflated",
+        "Bullpen tired - starter may need to go deeper",
+        "Low TTO rate (11% deep starts) - short leash pitcher",
+        "High blowup risk (43.0% hard hit) - 2-3 inning outing possible"
+      ],
+      "breakdown": {
+        "recent_ip_form": 21,
+        "pitch_efficiency_metrics": 18,
+        "opp_offense": 6,
+        "bullpen_hook": 4,
+        "game_context": 7,
+        "pitcher_leash": 10,
+        "blowup_risk": 5
+      },
+      "game": "MIL @ COL",
+      "game_time": "8:40 PM ET",
+      "direction": "under",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 2,
+        "tired_arms": 3,
+        "availability_score": 30,
+        "total_checked": 5,
+        "starter_ip_per_game": 5.58
+      }
+    },
+    {
+      "name": "Zebby Matthews",
+      "type": "pitcher_outs",
+      "team": "MIN",
+      "opponent": "KC",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": 100,
+      "raw_score": 73,
+      "score": 66,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.8,
+      "w_avg_tb": null,
+      "w_avg_outs": 17.04,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Juice fade  Odds:+220  Vel:90.4c/hr",
+      "movement_penalty": 7,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Line movement adj: -7 pts (73 -> 66)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "downgrade",
+      "flags": [
+        "Descending IP trend (-2.0 IP recent vs early) - pitcher going shorter, over risky",
+        "High consistency (80% of starts exceed line)",
+        "High avg batters faced (24.0) - goes deep",
+        "Elite control (BB%=4.2%) - very efficient",
+        "Bullpen depleted (6 tired) - starter forced to go deep",
+        "Bullpen depleted and weak - starter has no choice but to go deep",
+        "High TTO rate (100% deep starts) - goes deep regularly",
+        "Fast movement (90.4 cents/hr)",
+        "Over juice lighter (+220) Vel:90.4c/hr - Sharp under lean"
+      ],
+      "breakdown": {
+        "consistency": 11,
+        "pitch_efficiency_metrics": 17,
+        "opp_offense": 6,
+        "bullpen_hook": 20,
+        "game_context": 3,
+        "pitcher_leash": 10,
+        "stuff_quality": 6
+      },
+      "game": "KC @ MIN",
+      "game_time": "8:15 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 0,
+        "available_any": 2,
+        "tired_arms": 6,
+        "availability_score": 10,
+        "total_checked": 8,
+        "starter_ip_per_game": 5.28
       }
     },
     {
@@ -285,12 +456,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -311,65 +480,65 @@
       "game": "WSH @ AZ",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
-      "name": "Zebby Matthews",
+      "name": "Sonny Gray",
       "type": "pitcher_outs",
-      "team": "MIN",
-      "opponent": "KC",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -120,
+      "team": "BOS",
+      "opponent": "NYY",
+      "line": 16.5,
+      "sharp_signal": true,
+      "odds": -118,
       "raw_score": 64,
       "score": 64,
       "units": 1,
       "trend": "flat",
       "w_avg_k": null,
-      "w_over_rate": 0.8,
+      "w_over_rate": 0.6,
       "w_avg_tb": null,
-      "w_avg_outs": 17.04,
-      "implied_ip": 5.8,
+      "w_avg_outs": 16.2,
+      "implied_ip": 5.5,
       "umpire": "",
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:0.8c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Descending IP trend (-2.0 IP recent vs early) - pitcher going shorter, over risky",
-        "W.Avg slightly below line - over needs other factors",
-        "High avg batters faced (24.0) - goes deep",
-        "Elite control (BB%=4.2%) - very efficient",
-        "Bullpen depleted (6 tired) - starter forced to go deep",
-        "Bullpen depleted and weak - starter has no choice but to go deep",
-        "High TTO rate (100% deep starts) - goes deep regularly"
+        "Good consistency (60% of starts exceed line)",
+        "Efficient P/IP (14.9)",
+        "Elite groundball rate (56.9% GB) - quick outs, deep outings",
+        "Patient lineup - grinds pitch counts, over risky",
+        "Starter-heavy org (6.73 SP IP/game) - goes deep",
+        "High TTO rate (90% deep starts) - goes deep regularly",
+        "High blowup risk (39.9% hard hit) - early exit possible"
       ],
       "breakdown": {
-        "recent_ip_form": 6,
-        "pitch_efficiency_metrics": 15,
-        "opp_offense": 6,
-        "bullpen_hook": 20,
-        "game_context": 3,
+        "consistency": 9,
+        "pitch_efficiency_metrics": 22,
+        "opp_offense": 0,
+        "bullpen_hook": 18,
+        "game_context": 4,
         "pitcher_leash": 10,
-        "stuff_quality": 4
+        "stuff_quality": 1
       },
-      "game": "KC @ MIN",
-      "game_time": "8:15 PM ET",
+      "game": "BOS @ NYY",
+      "game_time": "7:05 PM ET",
       "direction": "over",
       "bullpen_avail": {
-        "available_high_quality": 0,
-        "available_any": 2,
-        "tired_arms": 6,
-        "availability_score": 10,
-        "total_checked": 8,
-        "starter_ip_per_game": 5.28
+        "available_high_quality": 1,
+        "available_any": 5,
+        "tired_arms": 1,
+        "availability_score": 45,
+        "total_checked": 6,
+        "starter_ip_per_game": 6.73
       }
     }
   ]
