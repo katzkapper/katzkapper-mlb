@@ -1,43 +1,43 @@
 {
   "date": "2026-06-05",
-  "updated": "03:36 PM ET",
+  "updated": "11:22 AM ET",
   "season_record": {
-    "wins": 261,
-    "losses": 212,
+    "wins": 266,
+    "losses": 216,
     "pushes": 11,
-    "units_pnl": 34.945,
-    "bets_placed": 484
+    "units_pnl": 36.309,
+    "bets_placed": 493
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 56,
-      "losses": 38,
+      "losses": 39,
       "pushes": 2,
-      "win_pct": 59.6,
-      "pnl": 21.81,
-      "roi": 17.3,
-      "bets": 96
+      "win_pct": 58.9,
+      "pnl": 20.81,
+      "roi": 16.4,
+      "bets": 97
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 154,
-      "losses": 127,
+      "wins": 158,
+      "losses": 129,
       "pushes": 5,
-      "win_pct": 54.8,
-      "pnl": 11.24,
-      "roi": 3.5,
-      "bets": 286
+      "win_pct": 55.1,
+      "pnl": 13.48,
+      "roi": 4.1,
+      "bets": 292
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 51,
-      "losses": 47,
+      "wins": 52,
+      "losses": 48,
       "pushes": 4,
       "win_pct": 52.0,
-      "pnl": 1.9,
-      "roi": 1.7,
-      "bets": 102
+      "pnl": 2.02,
+      "roi": 1.8,
+      "bets": 104
     }
   },
   "bets": [
@@ -100,7 +100,8 @@
         "starter_ip_per_game": 5.2
       },
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -152,7 +153,8 @@
       "blast_pct": 11.6,
       "over_rate": 0.7,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Oneil Cruz",
@@ -202,7 +204,8 @@
       "team_total": 4.5,
       "batter_iso": 0.23,
       "blast_pct": 15.9,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Ryan Feltner",
@@ -259,7 +262,8 @@
         "availability_score": 100,
         "total_checked": 7,
         "starter_ip_per_game": 4.6
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Brady Singer",
@@ -315,7 +319,8 @@
         "availability_score": 95,
         "total_checked": 7,
         "starter_ip_per_game": 5.28
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Brandon Sproat",
@@ -372,7 +377,8 @@
         "availability_score": 30,
         "total_checked": 5,
         "starter_ip_per_game": 5.58
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -433,7 +439,8 @@
         "availability_score": 10,
         "total_checked": 8,
         "starter_ip_per_game": 5.28
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Foster Griffin",
@@ -482,7 +489,8 @@
       "sharp_pinnacle_odds": null,
       "sharp_consensus_odds": null,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Sonny Gray",
@@ -539,7 +547,8 @@
         "availability_score": 45,
         "total_checked": 6,
         "starter_ip_per_game": 6.73
-      }
+      },
+      "result": "win"
     }
   ]
 }
