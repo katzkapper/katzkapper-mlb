@@ -1,43 +1,43 @@
 {
   "date": "2026-06-06",
-  "updated": "12:06 PM ET",
+  "updated": "09:24 AM ET",
   "season_record": {
-    "wins": 266,
-    "losses": 216,
+    "wins": 269,
+    "losses": 221,
     "pushes": 11,
-    "units_pnl": 36.309,
-    "bets_placed": 493
+    "units_pnl": 31.706,
+    "bets_placed": 501
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 56,
-      "losses": 39,
+      "losses": 42,
       "pushes": 2,
-      "win_pct": 58.9,
-      "pnl": 20.81,
-      "roi": 16.4,
-      "bets": 97
+      "win_pct": 57.1,
+      "pnl": 15.81,
+      "roi": 12.0,
+      "bets": 100
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 158,
-      "losses": 129,
+      "wins": 161,
+      "losses": 130,
       "pushes": 5,
-      "win_pct": 55.1,
-      "pnl": 13.48,
-      "roi": 4.1,
-      "bets": 292
+      "win_pct": 55.3,
+      "pnl": 14.88,
+      "roi": 4.4,
+      "bets": 296
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 52,
-      "losses": 48,
+      "losses": 49,
       "pushes": 4,
-      "win_pct": 52.0,
-      "pnl": 2.02,
-      "roi": 1.8,
-      "bets": 104
+      "win_pct": 51.5,
+      "pnl": 1.02,
+      "roi": 0.9,
+      "bets": 105
     }
   },
   "bets": [
@@ -89,7 +89,8 @@
       "game": "PIT @ ATL",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jacob Misiorowski",
@@ -141,7 +142,8 @@
       "game": "MIL @ COL",
       "game_time": "9:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Spencer Strider",
@@ -191,7 +193,8 @@
       "game": "PIT @ ATL",
       "game_time": "4:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Kyle Schwarber",
@@ -245,7 +248,8 @@
       "team_total": 4.5,
       "batter_iso": 0.34,
       "blast_pct": 12.1,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "loss"
     },
     {
       "name": "Jack Kochanowicz",
@@ -306,7 +310,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Ben Brown",
@@ -364,7 +369,8 @@
         "availability_score": 75,
         "total_checked": 6,
         "starter_ip_per_game": 7.02
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Ranger Suarez",
@@ -475,7 +481,8 @@
         "availability_score": 70,
         "total_checked": 7,
         "starter_ip_per_game": 5.3
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Luinder Avila",
@@ -536,7 +543,8 @@
         "availability_score": 90,
         "total_checked": 8,
         "starter_ip_per_game": 5.83
-      }
+      },
+      "result": "loss"
     }
   ]
 }
