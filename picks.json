@@ -1,33 +1,33 @@
 {
   "date": "2026-06-08",
-  "updated": "02:23 PM ET",
+  "updated": "10:34 AM ET",
   "season_record": {
-    "wins": 269,
-    "losses": 221,
+    "wins": 271,
+    "losses": 223,
     "pushes": 11,
-    "units_pnl": 31.706,
-    "bets_placed": 501
+    "units_pnl": 32.721,
+    "bets_placed": 505
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 56,
-      "losses": 42,
+      "wins": 57,
+      "losses": 43,
       "pushes": 2,
-      "win_pct": 57.1,
-      "pnl": 15.81,
-      "roi": 12.0,
-      "bets": 100
+      "win_pct": 57.0,
+      "pnl": 16.97,
+      "roi": 12.6,
+      "bets": 102
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 161,
-      "losses": 130,
+      "wins": 162,
+      "losses": 131,
       "pushes": 5,
       "win_pct": 55.3,
-      "pnl": 14.88,
+      "pnl": 14.74,
       "roi": 4.4,
-      "bets": 296
+      "bets": 298
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -90,7 +90,8 @@
       "game": "PHI @ TOR",
       "game_time": "7:07 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Kyle Harrison",
@@ -139,7 +140,8 @@
       "game": "MIL @ ATH",
       "game_time": "10:05 PM ET",
       "sharp_pinnacle_odds": -325,
-      "sharp_consensus_odds": -141
+      "sharp_consensus_odds": -141,
+      "result": "loss"
     },
     {
       "name": "Andrew Abbott",
@@ -200,7 +202,8 @@
         "availability_score": 10,
         "total_checked": 6,
         "starter_ip_per_game": 5.17
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Emerson Hancock",
@@ -258,7 +261,8 @@
         "availability_score": 5,
         "total_checked": 6,
         "starter_ip_per_game": 5.96
-      }
+      },
+      "result": "loss"
     }
   ]
 }
