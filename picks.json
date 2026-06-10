@@ -1,43 +1,43 @@
 {
   "date": "2026-06-09",
-  "updated": "11:18 AM ET",
+  "updated": "09:12 AM ET",
   "season_record": {
-    "wins": 271,
-    "losses": 223,
+    "wins": 278,
+    "losses": 228,
     "pushes": 11,
-    "units_pnl": 32.721,
-    "bets_placed": 505
+    "units_pnl": 34.61,
+    "bets_placed": 517
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 57,
-      "losses": 43,
+      "wins": 59,
+      "losses": 46,
       "pushes": 2,
-      "win_pct": 57.0,
-      "pnl": 16.97,
-      "roi": 12.6,
-      "bets": 102
+      "win_pct": 56.2,
+      "pnl": 17.04,
+      "roi": 12.0,
+      "bets": 107
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 162,
-      "losses": 131,
+      "wins": 166,
+      "losses": 133,
       "pushes": 5,
-      "win_pct": 55.3,
-      "pnl": 14.74,
-      "roi": 4.4,
-      "bets": 298
+      "win_pct": 55.5,
+      "pnl": 15.86,
+      "roi": 4.6,
+      "bets": 304
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 52,
+      "wins": 53,
       "losses": 49,
       "pushes": 4,
-      "win_pct": 51.5,
-      "pnl": 1.02,
-      "roi": 0.9,
-      "bets": 105
+      "win_pct": 52.0,
+      "pnl": 1.71,
+      "roi": 1.5,
+      "bets": 106
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
       "game": "PHI @ TOR",
       "game_time": "7:07 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Chase Burns",
@@ -140,7 +141,8 @@
       "game": "CIN @ SD",
       "game_time": "9:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Max Meyer",
@@ -189,7 +191,8 @@
       "game": "AZ @ MIA",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -241,7 +244,8 @@
       "team_total": 5.5,
       "batter_iso": 0.294,
       "blast_pct": 10.4,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "win"
     },
     {
       "name": "Zack Wheeler",
@@ -289,7 +293,8 @@
       "game": "PHI @ TOR",
       "game_time": "7:07 PM ET",
       "sharp_pinnacle_odds": -375,
-      "sharp_consensus_odds": -137
+      "sharp_consensus_odds": -137,
+      "result": "loss"
     },
     {
       "name": "Nick Martinez",
@@ -349,7 +354,8 @@
         "availability_score": 10,
         "total_checked": 7,
         "starter_ip_per_game": 5.32
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Nathan Eovaldi",
@@ -398,7 +404,8 @@
       "game": "TEX @ KC",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Lucas Giolito",
@@ -462,7 +469,8 @@
         "availability_score": 35,
         "total_checked": 6,
         "starter_ip_per_game": 4.93
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Adrian Houser",
@@ -519,7 +527,8 @@
         "availability_score": 85,
         "total_checked": 7,
         "starter_ip_per_game": 5.46
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Zac Gallen",
@@ -576,7 +585,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Gerrit Cole",
@@ -639,7 +649,8 @@
         "availability_score": 25,
         "total_checked": 8,
         "starter_ip_per_game": 5.67
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Robert Gasser",
@@ -699,7 +710,8 @@
         "availability_score": 0,
         "total_checked": 5,
         "starter_ip_per_game": 6.62
-      }
+      },
+      "result": "loss"
     }
   ]
 }
