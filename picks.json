@@ -1,43 +1,43 @@
 {
   "date": "2026-06-10",
-  "updated": "12:18 PM ET",
+  "updated": "10:25 AM ET",
   "season_record": {
-    "wins": 278,
-    "losses": 228,
+    "wins": 283,
+    "losses": 233,
     "pushes": 11,
-    "units_pnl": 34.61,
-    "bets_placed": 517
+    "units_pnl": 32.572,
+    "bets_placed": 527
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 59,
-      "losses": 46,
+      "wins": 61,
+      "losses": 48,
       "pushes": 2,
-      "win_pct": 56.2,
-      "pnl": 17.04,
-      "roi": 12.0,
-      "bets": 107
+      "win_pct": 56.0,
+      "pnl": 16.72,
+      "roi": 11.5,
+      "bets": 111
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 166,
-      "losses": 133,
+      "wins": 168,
+      "losses": 135,
       "pushes": 5,
-      "win_pct": 55.5,
-      "pnl": 15.86,
-      "roi": 4.6,
-      "bets": 304
+      "win_pct": 55.4,
+      "pnl": 14.38,
+      "roi": 4.1,
+      "bets": 308
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 53,
-      "losses": 49,
+      "wins": 54,
+      "losses": 50,
       "pushes": 4,
-      "win_pct": 52.0,
-      "pnl": 1.71,
-      "roi": 1.5,
-      "bets": 106
+      "win_pct": 51.9,
+      "pnl": 1.47,
+      "roi": 1.3,
+      "bets": 108
     }
   },
   "bets": [
@@ -99,7 +99,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Reid Detmers",
@@ -147,7 +148,8 @@
       "game": "HOU @ LAA",
       "game_time": "9:38 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Nick Kurtz",
@@ -201,7 +203,8 @@
       "team_total": 6.5,
       "batter_iso": 0.261,
       "blast_pct": 15.3,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Hunter Goodman",
@@ -253,7 +256,8 @@
       "team_total": 4.5,
       "batter_iso": 0.236,
       "blast_pct": 10.5,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "win"
     },
     {
       "name": "Jes\u00fas Luzardo",
@@ -312,7 +316,8 @@
         "availability_score": 85,
         "total_checked": 8,
         "starter_ip_per_game": 5.66
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Robbie Ray",
@@ -371,7 +376,8 @@
         "availability_score": 55,
         "total_checked": 7,
         "starter_ip_per_game": 5.45
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Drew Rasmussen",
@@ -418,7 +424,8 @@
       "game": "BOS @ TB",
       "game_time": "1:10 PM ET",
       "sharp_pinnacle_odds": -175,
-      "sharp_consensus_odds": -115
+      "sharp_consensus_odds": -115,
+      "result": "win"
     },
     {
       "name": "Chris Sale",
@@ -467,7 +474,8 @@
       "game": "ATL @ CWS",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Shohei Ohtani",
@@ -517,7 +525,8 @@
       "game": "LAD @ PIT",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jake Bennett",
@@ -575,7 +584,8 @@
         "availability_score": 45,
         "total_checked": 7,
         "starter_ip_per_game": 5.48
-      }
+      },
+      "result": "win"
     }
   ]
 }
