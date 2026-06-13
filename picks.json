@@ -1,43 +1,43 @@
 {
   "date": "2026-06-12",
-  "updated": "05:17 PM ET",
+  "updated": "08:05 AM ET",
   "season_record": {
-    "wins": 285,
-    "losses": 234,
+    "wins": 292,
+    "losses": 240,
     "pushes": 11,
-    "units_pnl": 33.322,
-    "bets_placed": 530
+    "units_pnl": 31.881,
+    "bets_placed": 543
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 61,
-      "losses": 48,
+      "wins": 64,
+      "losses": 50,
       "pushes": 2,
-      "win_pct": 56.0,
-      "pnl": 16.72,
-      "roi": 11.5,
-      "bets": 111
+      "win_pct": 56.1,
+      "pnl": 18.21,
+      "roi": 12.0,
+      "bets": 116
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 170,
-      "losses": 135,
+      "wins": 174,
+      "losses": 138,
       "pushes": 5,
-      "win_pct": 55.7,
-      "pnl": 16.13,
-      "roi": 4.6,
-      "bets": 310
+      "win_pct": 55.8,
+      "pnl": 14.2,
+      "roi": 4.0,
+      "bets": 317
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 54,
-      "losses": 51,
+      "losses": 52,
       "pushes": 4,
-      "win_pct": 51.4,
-      "pnl": 0.47,
-      "roi": 0.4,
-      "bets": 109
+      "win_pct": 50.9,
+      "pnl": -0.53,
+      "roi": -0.5,
+      "bets": 110
     }
   },
   "bets": [
@@ -90,7 +90,8 @@
       "game": "SEA @ WSH",
       "game_time": "6:45 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Shane Baz",
@@ -151,7 +152,8 @@
         "availability_score": 10,
         "total_checked": 6,
         "starter_ip_per_game": 5.49
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Sam Aldegheri",
@@ -211,7 +213,8 @@
         "availability_score": 100,
         "total_checked": 8,
         "starter_ip_per_game": 5.44
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Braxton Ashcraft",
@@ -261,7 +264,8 @@
       "game": "MIA @ PIT",
       "game_time": "6:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jacob Misiorowski",
@@ -314,7 +318,8 @@
       "game": "PHI @ MIL",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Jack Flaherty",
@@ -374,7 +379,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Anthony Kay",
@@ -433,7 +439,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Jackson Chourio",
@@ -485,7 +492,8 @@
       "team_total": 4.5,
       "batter_iso": 0.242,
       "blast_pct": 16.3,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Joe Ryan",
@@ -533,7 +541,8 @@
       "game": "STL @ MIN",
       "game_time": "8:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Roki Sasaki",
@@ -582,7 +591,8 @@
       "game": "LAD @ CWS",
       "game_time": "7:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Landen Roupp",
@@ -641,7 +651,8 @@
         "availability_score": 100,
         "total_checked": 8,
         "starter_ip_per_game": 5.43
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Griffin Canning",
@@ -703,7 +714,8 @@
         "availability_score": 90,
         "total_checked": 6,
         "starter_ip_per_game": 4.94
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Nick Lodolo",
@@ -764,7 +776,8 @@
         "availability_score": 100,
         "total_checked": 5,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     }
   ]
 }
