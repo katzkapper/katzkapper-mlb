@@ -1,43 +1,43 @@
 {
   "date": "2026-06-16",
-  "updated": "10:45 AM ET",
+  "updated": "09:56 AM ET",
   "season_record": {
-    "wins": 292,
-    "losses": 240,
+    "wins": 299,
+    "losses": 244,
     "pushes": 11,
-    "units_pnl": 31.881,
-    "bets_placed": 543
+    "units_pnl": 34.315,
+    "bets_placed": 554
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 64,
+      "wins": 66,
       "losses": 50,
       "pushes": 2,
-      "win_pct": 56.1,
-      "pnl": 18.21,
-      "roi": 12.0,
-      "bets": 116
+      "win_pct": 56.9,
+      "pnl": 20.21,
+      "roi": 13.1,
+      "bets": 118
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 174,
-      "losses": 138,
+      "wins": 179,
+      "losses": 140,
       "pushes": 5,
-      "win_pct": 55.8,
-      "pnl": 14.2,
-      "roi": 4.0,
-      "bets": 317
+      "win_pct": 56.1,
+      "pnl": 16.64,
+      "roi": 4.5,
+      "bets": 324
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 54,
-      "losses": 52,
+      "losses": 54,
       "pushes": 4,
-      "win_pct": 50.9,
-      "pnl": -0.53,
-      "roi": -0.5,
-      "bets": 110
+      "win_pct": 50.0,
+      "pnl": -2.53,
+      "roi": -2.1,
+      "bets": 112
     }
   },
   "bets": [
@@ -92,7 +92,8 @@
       "team_total": 5.5,
       "batter_iso": 0.3,
       "blast_pct": 15.4,
-      "over_rate": 0.6
+      "over_rate": 0.6,
+      "result": "loss"
     },
     {
       "name": "Hunter Brown",
@@ -142,7 +143,8 @@
       "game": "DET @ HOU",
       "game_time": "8:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Drew Rasmussen",
@@ -191,7 +193,8 @@
       "game": "TB @ LAD",
       "game_time": "10:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Jack Perkins",
@@ -250,7 +253,8 @@
         "availability_score": 45,
         "total_checked": 7,
         "starter_ip_per_game": 5.68
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Jackson Chourio",
@@ -301,7 +305,8 @@
       "team_total": 4.5,
       "batter_iso": 0.25,
       "blast_pct": 16.6,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Kodai Senga",
@@ -366,7 +371,8 @@
         "availability_score": 90,
         "total_checked": 7,
         "starter_ip_per_game": 6.52
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Edward Cabrera",
@@ -425,7 +431,8 @@
         "availability_score": 55,
         "total_checked": 7,
         "starter_ip_per_game": 7.24
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Brady Singer",
@@ -483,7 +490,8 @@
         "availability_score": 55,
         "total_checked": 5,
         "starter_ip_per_game": 5.22
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Kumar Rocker",
@@ -539,7 +547,8 @@
         "availability_score": 100,
         "total_checked": 7,
         "starter_ip_per_game": 5.56
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Mitch Keller",
@@ -595,7 +604,8 @@
         "availability_score": 60,
         "total_checked": 5,
         "starter_ip_per_game": 5.8
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -652,7 +662,8 @@
         "availability_score": 20,
         "total_checked": 7,
         "starter_ip_per_game": 5.32
-      }
+      },
+      "result": "win"
     }
   ]
 }
