@@ -1,33 +1,33 @@
 {
   "date": "2026-06-17",
-  "updated": "10:34 AM ET",
+  "updated": "12:09 PM ET",
   "season_record": {
-    "wins": 299,
-    "losses": 244,
+    "wins": 301,
+    "losses": 245,
     "pushes": 11,
-    "units_pnl": 34.315,
-    "bets_placed": 554
+    "units_pnl": 34.239,
+    "bets_placed": 557
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 66,
-      "losses": 50,
+      "losses": 51,
       "pushes": 2,
-      "win_pct": 56.9,
-      "pnl": 20.21,
-      "roi": 13.1,
-      "bets": 118
+      "win_pct": 56.4,
+      "pnl": 18.21,
+      "roi": 11.7,
+      "bets": 119
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 179,
+      "wins": 181,
       "losses": 140,
       "pushes": 5,
-      "win_pct": 56.1,
-      "pnl": 16.64,
-      "roi": 4.5,
-      "bets": 324
+      "win_pct": 56.4,
+      "pnl": 18.56,
+      "roi": 5.0,
+      "bets": 326
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -89,7 +89,8 @@
       "game": "TB @ LAD",
       "game_time": "3:10 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Sandy Alcantara",
@@ -149,7 +150,8 @@
         "availability_score": 85,
         "total_checked": 7,
         "starter_ip_per_game": 8.58
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Sam Aldegheri",
@@ -207,7 +209,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "win"
     }
   ]
 }
