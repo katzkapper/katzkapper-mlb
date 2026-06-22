@@ -1,43 +1,43 @@
 {
   "date": "2026-06-18",
-  "updated": "12:34 PM ET",
+  "updated": "02:39 PM ET",
   "season_record": {
-    "wins": 301,
-    "losses": 245,
+    "wins": 303,
+    "losses": 247,
     "pushes": 11,
-    "units_pnl": 34.239,
-    "bets_placed": 557
+    "units_pnl": 33.974,
+    "bets_placed": 561
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
-      "wins": 66,
+      "wins": 67,
       "losses": 51,
       "pushes": 2,
-      "win_pct": 56.4,
-      "pnl": 18.21,
-      "roi": 11.7,
-      "bets": 119
+      "win_pct": 56.8,
+      "pnl": 19.01,
+      "roi": 12.1,
+      "bets": 120
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 181,
-      "losses": 140,
+      "wins": 182,
+      "losses": 141,
       "pushes": 5,
-      "win_pct": 56.4,
-      "pnl": 18.56,
+      "win_pct": 56.3,
+      "pnl": 18.5,
       "roi": 5.0,
-      "bets": 326
+      "bets": 328
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 54,
-      "losses": 54,
+      "losses": 55,
       "pushes": 4,
-      "win_pct": 50.0,
-      "pnl": -2.53,
-      "roi": -2.1,
-      "bets": 112
+      "win_pct": 49.5,
+      "pnl": -3.53,
+      "roi": -2.9,
+      "bets": 113
     }
   },
   "bets": [
@@ -92,7 +92,8 @@
       "team_total": 3.5,
       "batter_iso": 0.282,
       "blast_pct": 16.6,
-      "over_rate": 0.7
+      "over_rate": 0.7,
+      "result": "loss"
     },
     {
       "name": "Joe Ryan",
@@ -141,7 +142,8 @@
       "game": "MIN @ TEX",
       "game_time": "2:35 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "win"
     },
     {
       "name": "Matthew Liberatore",
@@ -199,7 +201,8 @@
         "availability_score": 65,
         "total_checked": 7,
         "starter_ip_per_game": 5.39
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Sean Burke",
@@ -256,7 +259,8 @@
         "availability_score": 35,
         "total_checked": 5,
         "starter_ip_per_game": 7.02
-      }
+      },
+      "result": "loss"
     }
   ]
 }
