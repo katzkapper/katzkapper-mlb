@@ -1,43 +1,43 @@
 {
   "date": "2026-06-28",
-  "updated": "01:18 PM ET",
+  "updated": "08:43 AM ET",
   "season_record": {
-    "wins": 305,
-    "losses": 252,
+    "wins": 308,
+    "losses": 258,
     "pushes": 11,
-    "units_pnl": 30.332,
-    "bets_placed": 568
+    "units_pnl": 25.815,
+    "bets_placed": 577
   },
   "season_breakdown": {
     "pitcher_k": {
       "label": "Strikeouts",
       "wins": 68,
-      "losses": 53,
+      "losses": 56,
       "pushes": 2,
-      "win_pct": 56.2,
-      "pnl": 17.45,
-      "roi": 10.8,
-      "bets": 123
+      "win_pct": 54.8,
+      "pnl": 13.45,
+      "roi": 8.1,
+      "bets": 126
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 183,
-      "losses": 144,
+      "wins": 186,
+      "losses": 146,
       "pushes": 5,
       "win_pct": 56.0,
-      "pnl": 16.41,
+      "pnl": 16.89,
       "roi": 4.4,
-      "bets": 332
+      "bets": 337
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 54,
-      "losses": 55,
+      "losses": 56,
       "pushes": 4,
-      "win_pct": 49.5,
-      "pnl": -3.53,
-      "roi": -2.9,
-      "bets": 113
+      "win_pct": 49.1,
+      "pnl": -4.53,
+      "roi": -3.7,
+      "bets": 114
     }
   },
   "bets": [
@@ -89,7 +89,8 @@
       "game": "PHI @ NYM",
       "game_time": "1:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jackson Chourio",
@@ -142,7 +143,8 @@
       "team_total": 4.5,
       "batter_iso": 0.264,
       "blast_pct": 16.1,
-      "over_rate": 0.5
+      "over_rate": 0.5,
+      "result": "loss"
     },
     {
       "name": "Drew Rasmussen",
@@ -190,7 +192,8 @@
       "game": "AZ @ TB",
       "game_time": "1:40 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Sam Aldegheri",
@@ -252,7 +255,8 @@
         "availability_score": 55,
         "total_checked": 7,
         "starter_ip_per_game": 6.02
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Sonny Gray",
@@ -312,7 +316,8 @@
         "availability_score": 20,
         "total_checked": 7,
         "starter_ip_per_game": 5.58
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Hunter Brown",
@@ -370,7 +375,8 @@
         "availability_score": 50,
         "total_checked": 0,
         "starter_ip_per_game": 5.2
-      }
+      },
+      "result": "loss"
     },
     {
       "name": "Brandon Woodruff",
@@ -434,7 +440,8 @@
         "availability_score": 50,
         "total_checked": 5,
         "starter_ip_per_game": 6.55
-      }
+      },
+      "result": "win"
     },
     {
       "name": "Kyle Bradish",
@@ -483,7 +490,8 @@
       "game": "WSH @ BAL",
       "game_time": "1:35 PM ET",
       "sharp_pinnacle_odds": null,
-      "sharp_consensus_odds": null
+      "sharp_consensus_odds": null,
+      "result": "loss"
     },
     {
       "name": "Jack Flaherty",
@@ -544,7 +552,8 @@
         "availability_score": 30,
         "total_checked": 4,
         "starter_ip_per_game": 5.56
-      }
+      },
+      "result": "win"
     }
   ]
 }
