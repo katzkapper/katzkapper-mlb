@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updated": "11:16 AM ET",
+  "updated": "12:41 PM ET",
   "season_record": {
     "wins": 318,
     "losses": 262,
@@ -42,64 +42,6 @@
   },
   "bets": [
     {
-      "name": "Andrew Alvarez",
-      "type": "pitcher_outs",
-      "team": "WSH",
-      "opponent": "BOS",
-      "line": 14.5,
-      "sharp_signal": false,
-      "odds": -121,
-      "raw_score": 92,
-      "score": 92,
-      "units": 2,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.762,
-      "w_avg_tb": null,
-      "w_avg_outs": 12.15,
-      "implied_ip": 4.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Win prob: 76.2% vs break-even 54.8% | EV edge: +21.4%",
-        "Large EV edge (+21.4%) - strong under signal",
-        "High win probability (76.2%)",
-        "EV edge + win probability aligned - strong under case",
-        "High game total (9.5) - offense expected, under supported",
-        "High blowup risk (47.8% hard hit) - early exit supports under",
-        "Projected: 13.55 outs | Budget: 82.2 pitches | P/out: 6.07",
-        "Budget adj: starter-heavy org +5"
-      ],
-      "breakdown": {
-        "ev_edge": 40,
-        "win_probability": 35,
-        "context": 17
-      },
-      "game": "WSH @ BOS",
-      "game_time": "1:35 PM ET",
-      "direction": "under",
-      "bullpen_avail": {
-        "available_high_quality": 2,
-        "available_any": 4,
-        "tired_arms": 1,
-        "availability_score": 60,
-        "total_checked": 5,
-        "starter_ip_per_game": 6.71
-      },
-      "projected_outs": 13.55,
-      "edge": -0.95
-    },
-    {
       "name": "Andrew Abbott",
       "type": "pitcher_outs",
       "team": "CIN",
@@ -120,17 +62,15 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-1  Vel:1.4c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Win prob: 66.7% vs break-even 51.5% | EV edge: +15.2%",
-        "Large EV edge (+15.2%) - strong under signal",
+        "Win prob: 66.7% vs break-even 51.7% | EV edge: +15.0%",
+        "Large EV edge (+15.0%) - strong under signal",
         "High win probability (66.7%)",
         "EV edge + win probability aligned - strong under case",
         "Projected: 15.51 outs | Budget: 98.4 pitches | P/out: 6.34"
@@ -152,7 +92,9 @@
         "starter_ip_per_game": 5.17
       },
       "projected_outs": 15.51,
-      "edge": -0.99
+      "edge": -0.99,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Francisco Alvarez",
@@ -175,12 +117,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -213,7 +153,7 @@
       "opponent": "DET",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -118,
+      "odds": -112,
       "raw_score": 86,
       "score": 86,
       "units": 2,
@@ -227,17 +167,15 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+6  Vel:8.6c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Win prob: 80.6% vs break-even 54.1% | EV edge: +26.5%",
-        "Large EV edge (+26.5%) - strong under signal",
+        "Win prob: 80.6% vs break-even 52.8% | EV edge: +27.8%",
+        "Large EV edge (+27.8%) - strong under signal",
         "High win probability (80.6%)",
         "EV edge + win probability aligned - strong under case",
         "High game total (9.5) - offense expected, under supported",
@@ -270,7 +208,7 @@
       "opponent": "Will Warren",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": 115,
+      "odds": 117,
       "raw_score": 86,
       "score": 86,
       "units": 2,
@@ -284,19 +222,17 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+2  Vel:2.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Win prob: 71.5% vs break-even 46.5% | EV edge: +25.0%",
+        "Win prob: 71.5% vs break-even 46.1% | EV edge: +25.4%",
         "Adj: platoon advantage + power +6%",
         "Adj: hot streak (3/3 recent) +4%",
-        "Large EV edge (+25.0%) - strong over signal",
+        "Large EV edge (+25.4%) - strong over signal",
         "High win probability (71.5%)",
         "EV edge + win probability aligned - strong case",
         "Strong power (ISO=0.27)",
@@ -336,12 +272,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -373,6 +307,55 @@
       "edge": -3.77
     },
     {
+      "name": "Anthony Seigler",
+      "type": "batter_tb",
+      "team": "BOS",
+      "opponent": "Brad Lord",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 134,
+      "raw_score": 82,
+      "score": 82,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.0,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "neutral",
+      "movement_summary": "No movement  Odds:-12  Vel:17.1c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Win prob: 65.5% vs break-even 42.7% | EV edge: +22.8%",
+        "Adj: high hard-hit allowed +4%",
+        "Large EV edge (+22.8%) - strong over signal",
+        "High win probability (65.5%)",
+        "EV edge + win probability aligned - strong case",
+        "Hot vs this pitcher handedness",
+        "Hot in this series",
+        "Pitcher fatigue"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 35,
+        "context": 7
+      },
+      "game": "WSH @ BOS",
+      "game_time": "1:35 PM ET",
+      "team_total": 4.5,
+      "batter_iso": 0.205,
+      "blast_pct": 11.9,
+      "over_rate": 0.655
+    },
+    {
       "name": "Sal Stewart",
       "type": "batter_tb",
       "team": "MIL",
@@ -393,12 +376,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "advantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -446,12 +427,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -502,17 +481,15 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:-2  Vel:2.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Win prob: 74.8% vs break-even 55.0% | EV edge: +19.8%",
-        "Large EV edge (+19.8%) - strong over signal",
+        "Win prob: 74.8% vs break-even 55.4% | EV edge: +19.4%",
+        "Large EV edge (+19.4%) - strong over signal",
         "High win probability (74.8%)",
         "EV edge + win probability aligned - strong over case",
         "High game total (9.5) - offense expected, over at risk",
@@ -535,63 +512,9 @@
         "starter_ip_per_game": 5.59
       },
       "projected_outs": 17.78,
-      "edge": 2.28
-    },
-    {
-      "name": "Reynaldo L\u00f3pez",
-      "type": "pitcher_outs",
-      "team": "ATL",
-      "opponent": "STL",
-      "line": 14.5,
-      "sharp_signal": false,
-      "odds": 100,
-      "raw_score": 75,
-      "score": 75,
-      "units": 2,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.99,
-      "w_avg_tb": null,
-      "w_avg_outs": 18.6,
-      "implied_ip": 4.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Win prob: 99.0% vs break-even 50.0% | EV edge: +49.0%",
-        "Large EV edge (+49.0%) - strong over signal",
-        "High win probability (99.0%)",
-        "EV edge + win probability aligned - strong over case",
-        "Projected: 19.4 outs | Budget: 104.8 pitches | P/out: 5.4",
-        "Budget adj: starter-heavy org +5"
-      ],
-      "breakdown": {
-        "ev_edge": 40,
-        "win_probability": 35,
-        "context": 0
-      },
-      "game": "STL @ ATL",
-      "game_time": "7:15 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 3,
-        "available_any": 3,
-        "tired_arms": 4,
-        "availability_score": 75,
-        "total_checked": 7,
-        "starter_ip_per_game": 6.13
-      },
-      "projected_outs": 19.4,
-      "edge": 4.9
+      "edge": 2.28,
+      "locked": true,
+      "lock_reason": "Best odds preserved from earlier scan"
     },
     {
       "name": "Chase DeLauter",
@@ -614,12 +537,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -696,64 +617,9 @@
       "team_total": 3.5,
       "batter_iso": 0.221,
       "blast_pct": 7.9,
-      "over_rate": 0.605
-    },
-    {
-      "name": "Payton Tolle",
-      "type": "pitcher_outs",
-      "team": "BOS",
-      "opponent": "WSH",
-      "line": 17.5,
-      "sharp_signal": false,
-      "odds": -101,
-      "raw_score": 72,
-      "score": 72,
-      "units": 1,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.668,
-      "w_avg_tb": null,
-      "w_avg_outs": 18.3,
-      "implied_ip": 5.8,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Win prob: 66.8% vs break-even 50.2% | EV edge: +16.6%",
-        "Large EV edge (+16.6%) - strong over signal",
-        "High win probability (66.8%)",
-        "EV edge + win probability aligned - strong over case",
-        "High game total (9.5) - offense expected, over at risk",
-        "Projected: 18.17 outs | Budget: 95.0 pitches | P/out: 5.23",
-        "Budget adj: starter-heavy org +5"
-      ],
-      "breakdown": {
-        "ev_edge": 40,
-        "win_probability": 35,
-        "context": -3
-      },
-      "game": "WSH @ BOS",
-      "game_time": "1:35 PM ET",
-      "direction": "over",
-      "bullpen_avail": {
-        "available_high_quality": 3,
-        "available_any": 3,
-        "tired_arms": 4,
-        "availability_score": 75,
-        "total_checked": 7,
-        "starter_ip_per_game": 6.71
-      },
-      "projected_outs": 18.17,
-      "edge": 0.67
+      "over_rate": 0.605,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     },
     {
       "name": "Tatsuya Imai",
@@ -776,12 +642,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -819,7 +683,7 @@
       "opponent": "ATL",
       "line": 16.5,
       "sharp_signal": false,
-      "odds": -135,
+      "odds": -130,
       "raw_score": 71,
       "score": 71,
       "units": 1,
@@ -833,17 +697,15 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:7.1c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
-        "Win prob: 78.8% vs break-even 57.4% | EV edge: +21.4%",
-        "Large EV edge (+21.4%) - strong over signal",
+        "Win prob: 78.8% vs break-even 56.5% | EV edge: +22.3%",
+        "Large EV edge (+22.3%) - strong over signal",
         "High win probability (78.8%)",
         "EV edge + win probability aligned - strong over case",
         "High blowup risk (41.7% hard hit) - early exit possible",
@@ -868,6 +730,174 @@
       },
       "projected_outs": 18.04,
       "edge": 1.54
+    },
+    {
+      "name": "Kyle Freeland",
+      "type": "pitcher_outs",
+      "team": "COL",
+      "opponent": "MIA",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -125,
+      "raw_score": 68,
+      "score": 68,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.841,
+      "w_avg_tb": null,
+      "w_avg_outs": 17.66,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-1  Vel:1.4c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Win prob: 84.1% vs break-even 55.6% | EV edge: +28.5%",
+        "Large EV edge (+28.5%) - strong over signal",
+        "High win probability (84.1%)",
+        "EV edge + win probability aligned - strong over case",
+        "High game total (11.0) - offense expected, over at risk",
+        "High blowup risk (44.1% hard hit) - early exit possible",
+        "Projected: 18.43 outs | Budget: 96.4 pitches | P/out: 5.23",
+        "Budget adj: extra rest +4",
+        "Budget adj: starter-heavy org +5"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 35,
+        "context": -7
+      },
+      "game": "MIA @ COL",
+      "game_time": "8:40 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 3,
+        "tired_arms": 2,
+        "availability_score": 35,
+        "total_checked": 5,
+        "starter_ip_per_game": 6.69
+      },
+      "projected_outs": 18.43,
+      "edge": 2.93
+    },
+    {
+      "name": "Paul Skenes",
+      "type": "pitcher_outs",
+      "team": "PIT",
+      "opponent": "PHI",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": 139,
+      "raw_score": 65,
+      "score": 65,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.571,
+      "w_avg_tb": null,
+      "w_avg_outs": 16.56,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement  Odds:-2  Vel:2.9c/hr",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Win prob: 57.1% vs break-even 41.8% | EV edge: +15.3%",
+        "Large EV edge (+15.3%) - strong under signal",
+        "Projected: 16.7 outs | Budget: 108.0 pitches | P/out: 6.47",
+        "Budget adj: starter-heavy org +5"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 20,
+        "context": 5
+      },
+      "game": "PIT @ PHI",
+      "game_time": "6:40 PM ET",
+      "direction": "under",
+      "bullpen_avail": {
+        "available_high_quality": 1,
+        "available_any": 3,
+        "tired_arms": 2,
+        "availability_score": 35,
+        "total_checked": 5,
+        "starter_ip_per_game": 6.12
+      },
+      "projected_outs": 16.7,
+      "edge": -0.8
+    },
+    {
+      "name": "Payton Tolle",
+      "type": "pitcher_outs",
+      "team": "BOS",
+      "opponent": "WSH",
+      "line": 17.5,
+      "sharp_signal": false,
+      "odds": 104,
+      "raw_score": 72,
+      "score": 62,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.668,
+      "w_avg_tb": null,
+      "w_avg_outs": 18.3,
+      "implied_ip": 5.8,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "Juice fade  Odds:+205  Vel:292.9c/hr",
+      "movement_penalty": 10,
+      "movement_bonus": 0,
+      "mv_notes": [
+        "Line movement adj: -10 pts (72 -> 62)"
+      ],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "downgrade",
+      "flags": [
+        "Win prob: 66.8% vs break-even 49.0% | EV edge: +17.8%",
+        "Large EV edge (+17.8%) - strong over signal",
+        "High win probability (66.8%)",
+        "EV edge + win probability aligned - strong over case",
+        "High game total (9.5) - offense expected, over at risk",
+        "Projected: 18.17 outs | Budget: 95.0 pitches | P/out: 5.23",
+        "Budget adj: starter-heavy org +5",
+        "Fast movement (292.9 cents/hr)",
+        "Over juice lighter (+205) Vel:292.9c/hr - STRONG sharp under lean"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 35,
+        "context": -3
+      },
+      "game": "WSH @ BOS",
+      "game_time": "1:35 PM ET",
+      "direction": "over",
+      "bullpen_avail": {
+        "available_high_quality": 3,
+        "available_any": 3,
+        "tired_arms": 4,
+        "availability_score": 75,
+        "total_checked": 7,
+        "starter_ip_per_game": 6.71
+      },
+      "projected_outs": 18.17,
+      "edge": 0.67
     }
   ]
 }
