@@ -1,12 +1,12 @@
 {
   "date": "2026-06-30",
-  "updated": "05:54 PM ET",
+  "updated": "09:05 AM ET",
   "season_record": {
-    "wins": 308,
-    "losses": 258,
+    "wins": 319,
+    "losses": 262,
     "pushes": 11,
-    "units_pnl": 25.815,
-    "bets_placed": 577
+    "units_pnl": 45.847,
+    "bets_placed": 592
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 186,
-      "losses": 146,
+      "wins": 191,
+      "losses": 149,
       "pushes": 5,
-      "win_pct": 56.0,
-      "pnl": 16.89,
-      "roi": 4.4,
-      "bets": 337
+      "win_pct": 56.2,
+      "pnl": 20.56,
+      "roi": 5.2,
+      "bets": 345
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 54,
-      "losses": 56,
+      "wins": 60,
+      "losses": 57,
       "pushes": 4,
-      "win_pct": 49.1,
-      "pnl": -4.53,
-      "roi": -3.7,
-      "bets": 114
+      "win_pct": 51.3,
+      "pnl": 11.83,
+      "roi": 8.7,
+      "bets": 121
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
       "team_total": 3.5,
       "batter_iso": 0.688,
       "blast_pct": 18.8,
-      "over_rate": 0.732
+      "over_rate": 0.732,
+      "result": "win"
     },
     {
       "name": "Enmanuel Valdez",
@@ -155,7 +156,8 @@
       "team_total": 3.5,
       "batter_iso": 0.688,
       "blast_pct": 18.8,
-      "over_rate": 0.732
+      "over_rate": 0.732,
+      "result": "win"
     },
     {
       "name": "Trey Gibson",
@@ -212,7 +214,8 @@
         "starter_ip_per_game": 5.46
       },
       "projected_outs": 13.66,
-      "edge": -0.84
+      "edge": -0.84,
+      "result": "win"
     },
     {
       "name": "Rhett Lowder",
@@ -266,7 +269,8 @@
         "starter_ip_per_game": 5.17
       },
       "projected_outs": 12.2,
-      "edge": -3.3
+      "edge": -3.3,
+      "result": "win"
     },
     {
       "name": "Jeffrey Springs",
@@ -322,7 +326,8 @@
         "starter_ip_per_game": 6.37
       },
       "projected_outs": 12.55,
-      "edge": -2.95
+      "edge": -2.95,
+      "result": "loss"
     },
     {
       "name": "Matthew Liberatore",
@@ -376,7 +381,8 @@
         "starter_ip_per_game": 5.33
       },
       "projected_outs": 14.03,
-      "edge": -1.47
+      "edge": -1.47,
+      "result": "win"
     },
     {
       "name": "Joc Pederson",
@@ -428,7 +434,8 @@
       "team_total": 3.5,
       "batter_iso": 0.213,
       "blast_pct": 12.5,
-      "over_rate": 0.608
+      "over_rate": 0.608,
+      "result": "win"
     },
     {
       "name": "Kerry Carpenter",
@@ -479,7 +486,8 @@
       "team_total": 3.5,
       "batter_iso": 0.258,
       "blast_pct": 8.3,
-      "over_rate": 0.608
+      "over_rate": 0.608,
+      "result": "win"
     },
     {
       "name": "Max Muncy",
@@ -529,7 +537,8 @@
       "team_total": 4.5,
       "batter_iso": 0.301,
       "blast_pct": 11.8,
-      "over_rate": 0.638
+      "over_rate": 0.638,
+      "result": "win"
     },
     {
       "name": "Cade Cavalli",
@@ -585,7 +594,8 @@
       "projected_outs": 13.62,
       "edge": -1.88,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "loss"
     },
     {
       "name": "Connelly Early",
@@ -642,7 +652,8 @@
       "projected_outs": 14.88,
       "edge": -2.62,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Brooks Lee",
@@ -695,7 +706,8 @@
       "blast_pct": 8.2,
       "over_rate": 0.682,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -754,7 +766,8 @@
       "projected_outs": 13.21,
       "edge": -4.29,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "Josh Jung",
@@ -807,7 +820,8 @@
       "blast_pct": 7.7,
       "over_rate": 0.722,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "win"
     },
     {
       "name": "JP Sears",
@@ -864,7 +878,8 @@
         "starter_ip_per_game": 7.84
       },
       "projected_outs": 17.22,
-      "edge": 2.72
+      "edge": 2.72,
+      "result": "loss"
     }
   ]
 }
