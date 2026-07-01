@@ -1,12 +1,12 @@
 {
   "date": "2026-06-30",
-  "updated": "09:05 AM ET",
+  "updated": "09:07 AM ET",
   "season_record": {
-    "wins": 319,
+    "wins": 318,
     "losses": 262,
     "pushes": 11,
-    "units_pnl": 45.847,
-    "bets_placed": 592
+    "units_pnl": 41.047,
+    "bets_placed": 591
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 60,
+      "wins": 59,
       "losses": 57,
       "pushes": 4,
-      "win_pct": 51.3,
-      "pnl": 11.83,
-      "roi": 8.7,
-      "bets": 121
+      "win_pct": 50.9,
+      "pnl": 7.03,
+      "roi": 5.3,
+      "bets": 120
     }
   },
   "bets": [
@@ -86,65 +86,6 @@
         "Hot in this series",
         "Fast movement (35.9 cents/hr)",
         "Over juice heavier (-49) Vel:35.9c/hr - Mild sharp over lean"
-      ],
-      "breakdown": {
-        "ev_edge": 40,
-        "win_probability": 35,
-        "context": 18
-      },
-      "game": "PIT @ PHI",
-      "game_time": "6:40 PM ET",
-      "team_total": 3.5,
-      "batter_iso": 0.688,
-      "blast_pct": 18.8,
-      "over_rate": 0.732,
-      "result": "win"
-    },
-    {
-      "name": "Enmanuel Valdez",
-      "type": "batter_tb",
-      "team": "PIT",
-      "opponent": "Cristopher S\u00e1nchez",
-      "line": 1.5,
-      "sharp_signal": false,
-      "odds": 160,
-      "raw_score": 93,
-      "score": 100,
-      "units": 3,
-      "trend": "hot",
-      "w_avg_k": null,
-      "w_over_rate": null,
-      "w_avg_tb": 2.467,
-      "w_avg_outs": null,
-      "implied_ip": null,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "advantage",
-      "movement_summary": "Sharp lean  Odds:-40  Vel:29.3c/hr",
-      "movement_penalty": 0,
-      "movement_bonus": 8,
-      "mv_notes": [
-        "Line movement adj: +8 pts (93 -> 100)",
-        "Sharp confirmation bonus: +8 pts"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Win prob: 73.2% vs break-even 38.5% | EV edge: +34.7%",
-        "Adj: platoon advantage + power +6%",
-        "Adj: pitcher-friendly park -3%",
-        "Adj: low team total -3%",
-        "Adj: hot streak (3/3 recent) +4%",
-        "Large EV edge (+34.7%) - strong over signal",
-        "High win probability (73.2%)",
-        "EV edge + win probability aligned - strong case",
-        "Elite exit velocity (95.5 mph)",
-        "High barrel rate (38.5%)",
-        "Strong power (ISO=0.688)",
-        "Hot in this series",
-        "Fast movement (29.3 cents/hr)",
-        "Over juice heavier (-40) Vel:29.3c/hr - Mild sharp over lean"
       ],
       "breakdown": {
         "ev_edge": 40,
