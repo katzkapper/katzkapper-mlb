@@ -1,12 +1,12 @@
 {
   "date": "2026-07-01",
-  "updated": "12:41 PM ET",
+  "updated": "09:30 AM ET",
   "season_record": {
-    "wins": 318,
-    "losses": 262,
+    "wins": 326,
+    "losses": 270,
     "pushes": 11,
-    "units_pnl": 41.047,
-    "bets_placed": 591
+    "units_pnl": 41.406,
+    "bets_placed": 607
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 191,
-      "losses": 149,
+      "wins": 198,
+      "losses": 152,
       "pushes": 5,
-      "win_pct": 56.2,
-      "pnl": 20.56,
-      "roi": 5.2,
-      "bets": 345
+      "win_pct": 56.6,
+      "pnl": 28.77,
+      "roi": 7.0,
+      "bets": 355
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 59,
-      "losses": 57,
+      "wins": 60,
+      "losses": 62,
       "pushes": 4,
-      "win_pct": 50.9,
-      "pnl": 7.03,
-      "roi": 5.3,
-      "bets": 120
+      "win_pct": 49.2,
+      "pnl": -0.82,
+      "roi": -0.6,
+      "bets": 126
     }
   },
   "bets": [
@@ -94,7 +94,8 @@
       "projected_outs": 15.51,
       "edge": -0.99,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Francisco Alvarez",
@@ -144,7 +145,8 @@
       "team_total": 3.5,
       "batter_iso": 0.2,
       "blast_pct": 17.7,
-      "over_rate": 0.605
+      "over_rate": 0.605,
+      "result": "loss"
     },
     {
       "name": "Will Warren",
@@ -199,7 +201,8 @@
         "starter_ip_per_game": 5.42
       },
       "projected_outs": 14.28,
-      "edge": -2.22
+      "edge": -2.22,
+      "result": "win"
     },
     {
       "name": "Kerry Carpenter",
@@ -249,7 +252,8 @@
       "team_total": 4.5,
       "batter_iso": 0.27,
       "blast_pct": 8.4,
-      "over_rate": 0.715
+      "over_rate": 0.715,
+      "result": "loss"
     },
     {
       "name": "Freddy Peralta",
@@ -304,7 +308,8 @@
         "starter_ip_per_game": 5.42
       },
       "projected_outs": 13.73,
-      "edge": -3.77
+      "edge": -3.77,
+      "result": "win"
     },
     {
       "name": "Anthony Seigler",
@@ -353,7 +358,8 @@
       "team_total": 4.5,
       "batter_iso": 0.205,
       "blast_pct": 11.9,
-      "over_rate": 0.655
+      "over_rate": 0.655,
+      "result": "loss"
     },
     {
       "name": "Sal Stewart",
@@ -404,7 +410,8 @@
       "team_total": 4.5,
       "batter_iso": 0.26,
       "blast_pct": 11.5,
-      "over_rate": 0.628
+      "over_rate": 0.628,
+      "result": "loss"
     },
     {
       "name": "Taj Bradley",
@@ -458,7 +465,8 @@
         "starter_ip_per_game": 5.62
       },
       "projected_outs": 15.27,
-      "edge": -2.23
+      "edge": -2.23,
+      "result": "win"
     },
     {
       "name": "Troy Melton",
@@ -514,7 +522,8 @@
       "projected_outs": 17.78,
       "edge": 2.28,
       "locked": true,
-      "lock_reason": "Best odds preserved from earlier scan"
+      "lock_reason": "Best odds preserved from earlier scan",
+      "result": "win"
     },
     {
       "name": "Chase DeLauter",
@@ -566,7 +575,8 @@
       "team_total": 3.5,
       "batter_iso": 0.101,
       "blast_pct": 15.1,
-      "over_rate": 0.615
+      "over_rate": 0.615,
+      "result": "win"
     },
     {
       "name": "Brooks Lee",
@@ -619,7 +629,8 @@
       "blast_pct": 7.9,
       "over_rate": 0.605,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Tatsuya Imai",
@@ -674,7 +685,8 @@
         "starter_ip_per_game": 5.5
       },
       "projected_outs": 16.57,
-      "edge": 1.07
+      "edge": 1.07,
+      "result": "loss"
     },
     {
       "name": "Michael McGreevy",
@@ -729,7 +741,8 @@
         "starter_ip_per_game": 5.34
       },
       "projected_outs": 18.04,
-      "edge": 1.54
+      "edge": 1.54,
+      "result": "win"
     },
     {
       "name": "Kyle Freeland",
@@ -786,7 +799,8 @@
         "starter_ip_per_game": 6.69
       },
       "projected_outs": 18.43,
-      "edge": 2.93
+      "edge": 2.93,
+      "result": "loss"
     },
     {
       "name": "Paul Skenes",
@@ -838,7 +852,8 @@
         "starter_ip_per_game": 6.12
       },
       "projected_outs": 16.7,
-      "edge": -0.8
+      "edge": -0.8,
+      "result": "win"
     },
     {
       "name": "Payton Tolle",
@@ -897,7 +912,8 @@
         "starter_ip_per_game": 6.71
       },
       "projected_outs": 18.17,
-      "edge": 0.67
+      "edge": 0.67,
+      "result": "loss"
     }
   ]
 }
