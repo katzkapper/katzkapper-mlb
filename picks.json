@@ -1,12 +1,12 @@
 {
   "date": "2026-07-12",
-  "updated": "11:42 AM ET",
+  "updated": "08:19 AM ET",
   "season_record": {
-    "wins": 326,
-    "losses": 270,
+    "wins": 332,
+    "losses": 274,
     "pushes": 11,
-    "units_pnl": 41.406,
-    "bets_placed": 607
+    "units_pnl": 46.872,
+    "bets_placed": 617
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 198,
-      "losses": 152,
+      "wins": 201,
+      "losses": 155,
       "pushes": 5,
-      "win_pct": 56.6,
-      "pnl": 28.77,
-      "roi": 7.0,
-      "bets": 355
+      "win_pct": 56.5,
+      "pnl": 28.05,
+      "roi": 6.6,
+      "bets": 361
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 60,
-      "losses": 62,
+      "wins": 63,
+      "losses": 63,
       "pushes": 4,
-      "win_pct": 49.2,
-      "pnl": -0.82,
-      "roi": -0.6,
-      "bets": 126
+      "win_pct": 50.0,
+      "pnl": 5.37,
+      "roi": 3.5,
+      "bets": 130
     }
   },
   "bets": [
@@ -91,7 +91,8 @@
       "team_total": 4.8,
       "batter_iso": 0.293,
       "blast_pct": 17.5,
-      "over_rate": 0.649
+      "over_rate": 0.649,
+      "result": "win"
     },
     {
       "name": "Michael Lorenzen",
@@ -149,7 +150,8 @@
         "starter_ip_per_game": 6.59
       },
       "projected_outs": 15.82,
-      "edge": -0.68
+      "edge": -0.68,
+      "result": "win"
     },
     {
       "name": "Trevor McDonald",
@@ -208,7 +210,8 @@
         "starter_ip_per_game": 5.65
       },
       "projected_outs": 10.94,
-      "edge": -4.56
+      "edge": -4.56,
+      "result": "loss"
     },
     {
       "name": "Jos\u00e9 Soriano",
@@ -264,7 +267,8 @@
         "starter_ip_per_game": 5.32
       },
       "projected_outs": 14.65,
-      "edge": -1.85
+      "edge": -1.85,
+      "result": "win"
     },
     {
       "name": "Ryan Jeffers",
@@ -317,7 +321,8 @@
       "team_total": 4.5,
       "batter_iso": 0.303,
       "blast_pct": 14.3,
-      "over_rate": 0.652
+      "over_rate": 0.652,
+      "result": "win"
     },
     {
       "name": "Will Warren",
@@ -374,7 +379,8 @@
         "starter_ip_per_game": 5.6
       },
       "projected_outs": 14.38,
-      "edge": -1.12
+      "edge": -1.12,
+      "result": "win"
     },
     {
       "name": "Emmet Sheehan",
@@ -433,7 +439,8 @@
         "starter_ip_per_game": 5.74
       },
       "projected_outs": 13.64,
-      "edge": -1.86
+      "edge": -1.86,
+      "result": "loss"
     },
     {
       "name": "Casey Schmitt",
@@ -486,7 +493,8 @@
       "team_total": 4.8,
       "batter_iso": 0.228,
       "blast_pct": 13.6,
-      "over_rate": 0.652
+      "over_rate": 0.652,
+      "result": "loss"
     },
     {
       "name": "Garrett Mitchell",
@@ -542,7 +550,8 @@
       "team_total": 3.5,
       "batter_iso": 0.087,
       "blast_pct": 14.5,
-      "over_rate": 0.719
+      "over_rate": 0.719,
+      "result": "win"
     },
     {
       "name": "Heriberto Hernandez",
@@ -651,7 +660,8 @@
         "starter_ip_per_game": 7.57
       },
       "projected_outs": 16.5,
-      "edge": 2.0
+      "edge": 2.0,
+      "result": "loss"
     }
   ]
 }
