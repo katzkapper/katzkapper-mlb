@@ -1,12 +1,12 @@
 {
   "date": "2026-07-12",
-  "updated": "10:49 AM ET",
+  "updated": "10:50 AM ET",
   "season_record": {
-    "wins": 332,
+    "wins": 333,
     "losses": 274,
     "pushes": 11,
-    "units_pnl": 46.872,
-    "bets_placed": 617
+    "units_pnl": 49.372,
+    "bets_placed": 618
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 63,
+      "wins": 64,
       "losses": 63,
       "pushes": 4,
-      "win_pct": 50.0,
-      "pnl": 5.37,
-      "roi": 3.5,
-      "bets": 130
+      "win_pct": 50.4,
+      "pnl": 7.87,
+      "roi": 5.1,
+      "bets": 131
     }
   },
   "bets": [
@@ -603,7 +603,8 @@
       "team_total": 3.5,
       "batter_iso": 0.338,
       "blast_pct": 10.3,
-      "over_rate": 0.702
+      "over_rate": 0.702,
+      "result": "win"
     },
     {
       "name": "Germ\u00e1n M\u00e1rquez",
