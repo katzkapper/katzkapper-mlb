@@ -1,12 +1,12 @@
 {
   "date": "2026-07-17",
-  "updated": "11:39 AM ET",
+  "updated": "11:11 AM ET",
   "season_record": {
-    "wins": 333,
-    "losses": 274,
+    "wins": 341,
+    "losses": 280,
     "pushes": 11,
-    "units_pnl": 49.372,
-    "bets_placed": 618
+    "units_pnl": 52.355,
+    "bets_placed": 632
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 201,
-      "losses": 155,
+      "wins": 207,
+      "losses": 158,
       "pushes": 5,
-      "win_pct": 56.5,
-      "pnl": 28.05,
-      "roi": 6.6,
-      "bets": 361
+      "win_pct": 56.7,
+      "pnl": 30.54,
+      "roi": 7.0,
+      "bets": 370
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 64,
-      "losses": 63,
+      "wins": 66,
+      "losses": 66,
       "pushes": 4,
-      "win_pct": 50.4,
-      "pnl": 7.87,
-      "roi": 5.1,
-      "bets": 131
+      "win_pct": 50.0,
+      "pnl": 8.37,
+      "roi": 5.2,
+      "bets": 136
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 6.18
       },
       "projected_outs": 14.55,
-      "edge": -1.95
+      "edge": -1.95,
+      "result": "win"
     },
     {
       "name": "Gerrit Cole",
@@ -155,7 +156,8 @@
         "starter_ip_per_game": 5.6
       },
       "projected_outs": 14.66,
-      "edge": -1.84
+      "edge": -1.84,
+      "result": "loss"
     },
     {
       "name": "James Wood",
@@ -208,7 +210,8 @@
       "team_total": 4.5,
       "batter_iso": 0.303,
       "blast_pct": 17.5,
-      "over_rate": 0.766
+      "over_rate": 0.766,
+      "result": "loss"
     },
     {
       "name": "Gavin Williams",
@@ -324,7 +327,8 @@
         "starter_ip_per_game": 8.13
       },
       "projected_outs": 22.03,
-      "edge": 5.53
+      "edge": 5.53,
+      "result": "win"
     },
     {
       "name": "Roki Sasaki",
@@ -383,7 +387,8 @@
         "starter_ip_per_game": 5.75
       },
       "projected_outs": 11.96,
-      "edge": -3.54
+      "edge": -3.54,
+      "result": "loss"
     },
     {
       "name": "Garrett Mitchell",
@@ -435,7 +440,8 @@
       "team_total": 4.5,
       "batter_iso": 0.213,
       "blast_pct": 14.8,
-      "over_rate": 0.679
+      "over_rate": 0.679,
+      "result": "win"
     },
     {
       "name": "Ryan Jeffers",
@@ -487,7 +493,8 @@
       "team_total": 5.5,
       "batter_iso": 0.3,
       "blast_pct": 13.9,
-      "over_rate": 0.682
+      "over_rate": 0.682,
+      "result": "win"
     },
     {
       "name": "Sandy Alcantara",
@@ -544,7 +551,8 @@
         "starter_ip_per_game": 6.9
       },
       "projected_outs": 19.75,
-      "edge": 2.25
+      "edge": 2.25,
+      "result": "win"
     },
     {
       "name": "Logan Henderson",
@@ -603,7 +611,8 @@
         "starter_ip_per_game": 6.86
       },
       "projected_outs": 16.21,
-      "edge": 1.71
+      "edge": 1.71,
+      "result": "win"
     },
     {
       "name": "Chris Sale",
@@ -661,7 +670,8 @@
         "starter_ip_per_game": 6.1
       },
       "projected_outs": 15.5,
-      "edge": -2.0
+      "edge": -2.0,
+      "result": "loss"
     },
     {
       "name": "Gabriel Hughes",
@@ -720,7 +730,8 @@
         "starter_ip_per_game": 6.66
       },
       "projected_outs": 18.77,
-      "edge": 4.27
+      "edge": 4.27,
+      "result": "win"
     },
     {
       "name": "Brice Turang",
@@ -771,7 +782,8 @@
       "team_total": 4.5,
       "batter_iso": 0.24,
       "blast_pct": 12.1,
-      "over_rate": 0.796
+      "over_rate": 0.796,
+      "result": "loss"
     },
     {
       "name": "Cody Bellinger",
@@ -823,7 +835,8 @@
       "team_total": 4.5,
       "batter_iso": 0.156,
       "blast_pct": 10.7,
-      "over_rate": 0.605
+      "over_rate": 0.605,
+      "result": "loss"
     },
     {
       "name": "Troy Melton",
@@ -879,7 +892,8 @@
         "starter_ip_per_game": 5.71
       },
       "projected_outs": 17.53,
-      "edge": 1.03
+      "edge": 1.03,
+      "result": "win"
     }
   ]
 }
