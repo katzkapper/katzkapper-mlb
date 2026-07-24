@@ -1,12 +1,12 @@
 {
   "date": "2026-07-18",
-  "updated": "12:00 PM ET",
+  "updated": "08:02 AM ET",
   "season_record": {
-    "wins": 341,
-    "losses": 280,
+    "wins": 344,
+    "losses": 290,
     "pushes": 11,
-    "units_pnl": 52.355,
-    "bets_placed": 632
+    "units_pnl": 41.083,
+    "bets_placed": 645
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 207,
-      "losses": 158,
+      "wins": 209,
+      "losses": 164,
       "pushes": 5,
-      "win_pct": 56.7,
-      "pnl": 30.54,
-      "roi": 7.0,
-      "bets": 370
+      "win_pct": 56.0,
+      "pnl": 21.3,
+      "roi": 4.7,
+      "bets": 378
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 66,
-      "losses": 66,
+      "wins": 67,
+      "losses": 70,
       "pushes": 4,
-      "win_pct": 50.0,
-      "pnl": 8.37,
-      "roi": 5.2,
-      "bets": 136
+      "win_pct": 48.9,
+      "pnl": 6.33,
+      "roi": 3.7,
+      "bets": 141
     }
   },
   "bets": [
@@ -98,7 +98,8 @@
         "starter_ip_per_game": 7.86
       },
       "projected_outs": 13.26,
-      "edge": -2.24
+      "edge": -2.24,
+      "result": "loss"
     },
     {
       "name": "Yordan Alvarez",
@@ -153,7 +154,8 @@
       "team_total": 3.5,
       "batter_iso": 0.262,
       "blast_pct": 18.1,
-      "over_rate": 0.742
+      "over_rate": 0.742,
+      "result": "loss"
     },
     {
       "name": "Davis Martin",
@@ -211,7 +213,8 @@
         "starter_ip_per_game": 7.35
       },
       "projected_outs": 13.25,
-      "edge": -3.25
+      "edge": -3.25,
+      "result": "loss"
     },
     {
       "name": "Garrett Mitchell",
@@ -264,7 +267,8 @@
       "team_total": 3.5,
       "batter_iso": 0.21,
       "blast_pct": 14.4,
-      "over_rate": 0.766
+      "over_rate": 0.766,
+      "result": "win"
     },
     {
       "name": "Gavin Williams",
@@ -322,7 +326,8 @@
         "starter_ip_per_game": 5.63
       },
       "projected_outs": 15.31,
-      "edge": -2.19
+      "edge": -2.19,
+      "result": "loss"
     },
     {
       "name": "Max Meyer",
@@ -381,7 +386,8 @@
         "starter_ip_per_game": 6.92
       },
       "projected_outs": 18.66,
-      "edge": 3.16
+      "edge": 3.16,
+      "result": "loss"
     },
     {
       "name": "Shane Drohan",
@@ -439,7 +445,8 @@
         "starter_ip_per_game": 6.61
       },
       "projected_outs": 17.67,
-      "edge": 2.17
+      "edge": 2.17,
+      "result": "win"
     },
     {
       "name": "Trevor Rogers",
@@ -496,7 +503,8 @@
         "starter_ip_per_game": 5.53
       },
       "projected_outs": 20.26,
-      "edge": 2.76
+      "edge": 2.76,
+      "result": "loss"
     },
     {
       "name": "Jared Jones",
@@ -553,7 +561,8 @@
         "starter_ip_per_game": 6.48
       },
       "projected_outs": 13.48,
-      "edge": -1.02
+      "edge": -1.02,
+      "result": "loss"
     },
     {
       "name": "James Wood",
@@ -607,7 +616,8 @@
       "team_total": 5.5,
       "batter_iso": 0.301,
       "blast_pct": 17.1,
-      "over_rate": 0.642
+      "over_rate": 0.642,
+      "result": "loss"
     },
     {
       "name": "Ryan Jeffers",
@@ -661,7 +671,8 @@
       "team_total": 3.5,
       "batter_iso": 0.16,
       "blast_pct": 13.6,
-      "over_rate": 0.789
+      "over_rate": 0.789,
+      "result": "loss"
     },
     {
       "name": "Willson Contreras",
@@ -712,7 +723,8 @@
       "team_total": 4.5,
       "batter_iso": 0.276,
       "blast_pct": 12.5,
-      "over_rate": 0.732
+      "over_rate": 0.732,
+      "result": "loss"
     },
     {
       "name": "Logan Webb",
@@ -768,7 +780,8 @@
         "starter_ip_per_game": 5.7
       },
       "projected_outs": 19.92,
-      "edge": 1.42
+      "edge": 1.42,
+      "result": "win"
     }
   ]
 }
