@@ -2,11 +2,11 @@
   "date": "2026-07-27",
   "updated": "09:59 AM ET",
   "season_record": {
-    "wins": 347,
+    "wins": 348,
     "losses": 297,
     "pushes": 11,
-    "units_pnl": 36.055,
-    "bets_placed": 655
+    "units_pnl": 38.555,
+    "bets_placed": 656
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -31,13 +31,13 @@
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 68,
+      "wins": 69,
       "losses": 73,
       "pushes": 4,
-      "win_pct": 48.2,
-      "pnl": 5.47,
-      "roi": 3.1,
-      "bets": 145
+      "win_pct": 48.6,
+      "pnl": 7.97,
+      "roi": 4.5,
+      "bets": 146
     }
   },
   "bets": [
@@ -553,7 +553,8 @@
       "team_total": 4.2,
       "batter_iso": 0.201,
       "blast_pct": 10.3,
-      "over_rate": 0.729
+      "over_rate": 0.729,
+      "result": "win"
     },
     {
       "name": "George Kirby",
