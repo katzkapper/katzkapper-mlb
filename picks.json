@@ -1,12 +1,12 @@
 {
   "date": "2026-07-27",
-  "updated": "03:09 PM ET",
+  "updated": "09:59 AM ET",
   "season_record": {
-    "wins": 344,
-    "losses": 290,
+    "wins": 347,
+    "losses": 297,
     "pushes": 11,
-    "units_pnl": 41.083,
-    "bets_placed": 645
+    "units_pnl": 36.055,
+    "bets_placed": 655
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 209,
-      "losses": 164,
+      "wins": 211,
+      "losses": 168,
       "pushes": 5,
-      "win_pct": 56.0,
-      "pnl": 21.3,
-      "roi": 4.7,
-      "bets": 378
+      "win_pct": 55.7,
+      "pnl": 17.14,
+      "roi": 3.7,
+      "bets": 384
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 67,
-      "losses": 70,
+      "wins": 68,
+      "losses": 73,
       "pushes": 4,
-      "win_pct": 48.9,
-      "pnl": 6.33,
-      "roi": 3.7,
-      "bets": 141
+      "win_pct": 48.2,
+      "pnl": 5.47,
+      "roi": 3.1,
+      "bets": 145
     }
   },
   "bets": [
@@ -95,7 +95,8 @@
       "team_total": 3.5,
       "batter_iso": 0.235,
       "blast_pct": 12.8,
-      "over_rate": 0.692
+      "over_rate": 0.692,
+      "result": "win"
     },
     {
       "name": "David Peterson",
@@ -153,7 +154,8 @@
         "starter_ip_per_game": 6.18
       },
       "projected_outs": 14.83,
-      "edge": -1.67
+      "edge": -1.67,
+      "result": "loss"
     },
     {
       "name": "Noah Schultz",
@@ -211,7 +213,8 @@
         "starter_ip_per_game": 7.38
       },
       "projected_outs": 13.32,
-      "edge": -1.18
+      "edge": -1.18,
+      "result": "win"
     },
     {
       "name": "Jack Perkins",
@@ -268,7 +271,8 @@
         "starter_ip_per_game": 6.01
       },
       "projected_outs": 14.17,
-      "edge": -1.33
+      "edge": -1.33,
+      "result": "loss"
     },
     {
       "name": "Drake Baldwin",
@@ -321,7 +325,8 @@
       "team_total": 4.2,
       "batter_iso": 0.174,
       "blast_pct": 14.8,
-      "over_rate": 0.662
+      "over_rate": 0.662,
+      "result": "loss"
     },
     {
       "name": "Max Scherzer",
@@ -382,7 +387,8 @@
         "starter_ip_per_game": 8.56
       },
       "projected_outs": 10.23,
-      "edge": -2.27
+      "edge": -2.27,
+      "result": "win"
     },
     {
       "name": "Brandon Sproat",
@@ -441,7 +447,8 @@
         "starter_ip_per_game": 6.93
       },
       "projected_outs": 13.98,
-      "edge": -1.52
+      "edge": -1.52,
+      "result": "loss"
     },
     {
       "name": "CJ Abrams",
@@ -493,7 +500,8 @@
       "team_total": 5.2,
       "batter_iso": 0.294,
       "blast_pct": 12.1,
-      "over_rate": 0.806
+      "over_rate": 0.806,
+      "result": "loss"
     },
     {
       "name": "Jeremy Pena",
@@ -604,7 +612,8 @@
         "starter_ip_per_game": 5.93
       },
       "projected_outs": 20.76,
-      "edge": 3.26
+      "edge": 3.26,
+      "result": "loss"
     },
     {
       "name": "Christian Yelich",
@@ -654,7 +663,8 @@
       "team_total": 4.2,
       "batter_iso": 0.143,
       "blast_pct": 9.8,
-      "over_rate": 0.766
+      "over_rate": 0.766,
+      "result": "loss"
     }
   ]
 }
