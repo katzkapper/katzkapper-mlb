@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updated": "01:46 PM ET",
+  "updated": "08:54 PM ET",
   "season_record": {
     "wins": 353,
     "losses": 303,
@@ -101,7 +101,65 @@
         "starter_ip_per_game": 5.3
       },
       "projected_outs": 9.82,
-      "edge": -6.1
+      "edge": -6.1,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+    },
+    {
+      "name": "Ian Seymour",
+      "type": "pitcher_outs",
+      "team": "TB",
+      "opponent": "COL",
+      "line": 15.5,
+      "sharp_signal": false,
+      "odds": -159,
+      "raw_score": 86,
+      "score": 86,
+      "units": 2,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": 0.756,
+      "w_avg_tb": null,
+      "w_avg_outs": 12.29,
+      "implied_ip": 5.2,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Win prob: 75.6% vs break-even 61.4% | EV edge: +14.2%",
+        "Large EV edge (+14.2%) - strong under signal",
+        "High win probability (75.6%)",
+        "EV edge + win probability aligned - strong under case",
+        "High game total (11.5) - offense expected, under supported",
+        "Projected: 12.68 outs | Budget: 79.4 pitches | P/out: 6.26",
+        "Budget adj: starter-heavy org +5",
+        "Budget adj: fresh bullpen -5"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 35,
+        "context": 11
+      },
+      "game": "TB @ COL",
+      "game_time": "8:40 PM ET",
+      "direction": "under",
+      "bullpen_avail": {
+        "available_high_quality": 4,
+        "available_any": 4,
+        "tired_arms": 1,
+        "availability_score": 100,
+        "total_checked": 5,
+        "starter_ip_per_game": 7.15
+      },
+      "projected_outs": 12.68,
+      "edge": -2.82
     },
     {
       "name": "Jeremy Pena",
@@ -110,7 +168,7 @@
       "opponent": "Shane Bieber",
       "line": 1.5,
       "sharp_signal": false,
-      "odds": -108,
+      "odds": -103,
       "raw_score": 82,
       "score": 82,
       "units": 2,
@@ -124,21 +182,19 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "disadvantage",
-      "movement_summary": "No data",
+      "movement_summary": "No movement  Odds:+5  Vel:1.9c/hr",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
         "Projected TB: 2.671 vs line 1.5 (edge: +1.171)",
-        "Win prob: 68.0% vs break-even 51.9% | EV edge: +16.1%",
+        "Win prob: 68.0% vs break-even 50.7% | EV edge: +17.3%",
         "Adj: high hard-hit allowed +0.08",
         "Adj: severe PA truncation history (47% of normal PA) - projection reduced 25%",
         "Adj: hot streak (3/3 recent) +0.06",
-        "Large EV edge (+16.1%) - strong over signal",
+        "Large EV edge (+17.3%) - strong over signal",
         "High win probability (68.0%)",
         "EV edge + win probability aligned - strong case",
         "Strong power (ISO=0.234)",
@@ -177,12 +233,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -213,63 +267,6 @@
       "edge": 1.64
     },
     {
-      "name": "Ian Seymour",
-      "type": "pitcher_outs",
-      "team": "TB",
-      "opponent": "COL",
-      "line": 15.5,
-      "sharp_signal": false,
-      "odds": -159,
-      "raw_score": 78,
-      "score": 78,
-      "units": 2,
-      "trend": "flat",
-      "w_avg_k": null,
-      "w_over_rate": 0.717,
-      "w_avg_tb": null,
-      "w_avg_outs": 12.29,
-      "implied_ip": 5.2,
-      "umpire": "",
-      "ump_tier": "",
-      "effective_line": null,
-      "platoon": "",
-      "movement_summary": "No data",
-      "movement_penalty": 0,
-      "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
-      "min_score_to_bet": 55,
-      "mv_recommendation": "proceed",
-      "flags": [
-        "Win prob: 71.7% vs break-even 61.4% | EV edge: +10.3%",
-        "Good EV edge (+10.3%)",
-        "High win probability (71.7%)",
-        "EV edge + win probability aligned - strong under case",
-        "High game total (11.5) - offense expected, under supported",
-        "Projected: 13.47 outs | Budget: 84.4 pitches | P/out: 6.26",
-        "Budget adj: starter-heavy org +5"
-      ],
-      "breakdown": {
-        "ev_edge": 32,
-        "win_probability": 35,
-        "context": 11
-      },
-      "game": "TB @ COL",
-      "game_time": "8:40 PM ET",
-      "direction": "under",
-      "bullpen_avail": {
-        "available_high_quality": 4,
-        "available_any": 4,
-        "tired_arms": 3,
-        "availability_score": 100,
-        "total_checked": 7,
-        "starter_ip_per_game": 7.83
-      },
-      "projected_outs": 13.47,
-      "edge": -2.03
-    },
-    {
       "name": "Michael Lorenzen",
       "type": "pitcher_outs",
       "team": "COL",
@@ -290,12 +287,10 @@
       "ump_tier": "",
       "effective_line": null,
       "platoon": "",
-      "movement_summary": "No data",
+      "movement_summary": "No movement",
       "movement_penalty": 0,
       "movement_bonus": 0,
-      "mv_notes": [
-        "No line movement data - using model score only"
-      ],
+      "mv_notes": [],
       "min_score_to_bet": 55,
       "mv_recommendation": "proceed",
       "flags": [
@@ -326,6 +321,56 @@
       },
       "projected_outs": 13.59,
       "edge": -0.91
+    },
+    {
+      "name": "Freddie Freeman",
+      "type": "batter_tb",
+      "team": "LAD",
+      "opponent": "Matthew Boyd",
+      "line": 1.5,
+      "sharp_signal": false,
+      "odds": 120,
+      "raw_score": 73,
+      "score": 73,
+      "units": 1,
+      "trend": "flat",
+      "w_avg_k": null,
+      "w_over_rate": null,
+      "w_avg_tb": 2.333,
+      "w_avg_outs": null,
+      "implied_ip": null,
+      "umpire": "",
+      "ump_tier": "",
+      "effective_line": null,
+      "platoon": "disadvantage",
+      "movement_summary": "No movement",
+      "movement_penalty": 0,
+      "movement_bonus": 0,
+      "mv_notes": [],
+      "min_score_to_bet": 55,
+      "mv_recommendation": "proceed",
+      "flags": [
+        "Projected TB: 2.22 vs line 1.5 (edge: +0.72)",
+        "Win prob: 59.4% vs break-even 45.5% | EV edge: +13.9%",
+        "Adj: mild PA truncation history (73% of normal PA) - projection reduced 6%",
+        "Adj: pitcher-friendly park -0.06",
+        "Large EV edge (+13.9%) - strong over signal",
+        "Good win probability (59.4%)",
+        "EV edge + win probability aligned - strong case",
+        "Cold vs this pitcher handedness",
+        "Hot in this series"
+      ],
+      "breakdown": {
+        "ev_edge": 40,
+        "win_probability": 33,
+        "context": 0
+      },
+      "game": "LAD @ CHC",
+      "game_time": "8:05 PM ET",
+      "team_total": 4.0,
+      "batter_iso": 0.138,
+      "blast_pct": 11.5,
+      "over_rate": 0.594
     },
     {
       "name": "Jake Bauers",
@@ -378,7 +423,9 @@
       "team_total": 4.5,
       "batter_iso": 0.272,
       "blast_pct": 16.6,
-      "over_rate": 0.499
+      "over_rate": 0.499,
+      "locked": true,
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
     }
   ]
 }
