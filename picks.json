@@ -1,12 +1,12 @@
 {
   "date": "2026-08-03",
-  "updated": "08:54 PM ET",
+  "updated": "02:49 PM ET",
   "season_record": {
-    "wins": 353,
-    "losses": 303,
+    "wins": 355,
+    "losses": 307,
     "pushes": 11,
-    "units_pnl": 33.441,
-    "bets_placed": 667
+    "units_pnl": 31.059,
+    "bets_placed": 673
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 216,
-      "losses": 169,
+      "wins": 218,
+      "losses": 171,
       "pushes": 5,
-      "win_pct": 56.1,
-      "pnl": 23.02,
-      "roi": 4.8,
-      "bets": 390
+      "win_pct": 56.0,
+      "pnl": 22.64,
+      "roi": 4.7,
+      "bets": 394
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 69,
-      "losses": 78,
+      "losses": 80,
       "pushes": 4,
-      "win_pct": 46.9,
-      "pnl": -3.03,
-      "roi": -1.6,
-      "bets": 151
+      "win_pct": 46.3,
+      "pnl": -5.03,
+      "roi": -2.6,
+      "bets": 153
     }
   },
   "bets": [
@@ -103,7 +103,8 @@
       "projected_outs": 9.82,
       "edge": -6.1,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     },
     {
       "name": "Ian Seymour",
@@ -159,7 +160,8 @@
         "starter_ip_per_game": 7.15
       },
       "projected_outs": 12.68,
-      "edge": -2.82
+      "edge": -2.82,
+      "result": "loss"
     },
     {
       "name": "Jeremy Pena",
@@ -264,7 +266,8 @@
         "starter_ip_per_game": 6.31
       },
       "projected_outs": 19.14,
-      "edge": 1.64
+      "edge": 1.64,
+      "result": "win"
     },
     {
       "name": "Michael Lorenzen",
@@ -320,7 +323,8 @@
         "starter_ip_per_game": 6.83
       },
       "projected_outs": 13.59,
-      "edge": -0.91
+      "edge": -0.91,
+      "result": "win"
     },
     {
       "name": "Freddie Freeman",
@@ -370,7 +374,8 @@
       "team_total": 4.0,
       "batter_iso": 0.138,
       "blast_pct": 11.5,
-      "over_rate": 0.594
+      "over_rate": 0.594,
+      "result": "loss"
     },
     {
       "name": "Jake Bauers",
@@ -425,7 +430,8 @@
       "blast_pct": 16.6,
       "over_rate": 0.499,
       "locked": true,
-      "lock_reason": "Preserved from earlier scan - sharp signal preserved"
+      "lock_reason": "Preserved from earlier scan - sharp signal preserved",
+      "result": "loss"
     }
   ]
 }
