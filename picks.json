@@ -1,12 +1,12 @@
 {
   "date": "2026-08-04",
-  "updated": "03:58 PM ET",
+  "updated": "10:19 AM ET",
   "season_record": {
-    "wins": 355,
-    "losses": 307,
-    "pushes": 11,
-    "units_pnl": 31.059,
-    "bets_placed": 673
+    "wins": 360,
+    "losses": 313,
+    "pushes": 12,
+    "units_pnl": 26.913,
+    "bets_placed": 685
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 218,
-      "losses": 171,
-      "pushes": 5,
-      "win_pct": 56.0,
-      "pnl": 22.64,
-      "roi": 4.7,
-      "bets": 394
+      "wins": 222,
+      "losses": 176,
+      "pushes": 6,
+      "win_pct": 55.8,
+      "pnl": 18.54,
+      "roi": 3.7,
+      "bets": 404
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 69,
-      "losses": 80,
+      "wins": 70,
+      "losses": 81,
       "pushes": 4,
-      "win_pct": 46.3,
-      "pnl": -5.03,
+      "win_pct": 46.4,
+      "pnl": -5.08,
       "roi": -2.6,
-      "bets": 153
+      "bets": 155
     }
   },
   "bets": [
@@ -99,7 +99,8 @@
         "starter_ip_per_game": 7.31
       },
       "projected_outs": 15.3,
-      "edge": -1.02
+      "edge": -1.02,
+      "result": "win"
     },
     {
       "name": "Grant Holmes",
@@ -157,7 +158,8 @@
         "starter_ip_per_game": 8.12
       },
       "projected_outs": 14.53,
-      "edge": -0.97
+      "edge": -0.97,
+      "result": "loss"
     },
     {
       "name": "Ryan Gusto",
@@ -215,7 +217,8 @@
         "starter_ip_per_game": 5.92
       },
       "projected_outs": 11.32,
-      "edge": -2.92
+      "edge": -2.92,
+      "result": "loss"
     },
     {
       "name": "Jared Jones",
@@ -271,7 +274,8 @@
         "starter_ip_per_game": 7.06
       },
       "projected_outs": 16.03,
-      "edge": 1.53
+      "edge": 1.53,
+      "result": "loss"
     },
     {
       "name": "Davis Martin",
@@ -327,7 +331,8 @@
         "starter_ip_per_game": 7.53
       },
       "projected_outs": 14.38,
-      "edge": -2.12
+      "edge": -2.12,
+      "result": "win"
     },
     {
       "name": "Ryan Weathers",
@@ -383,7 +388,8 @@
         "starter_ip_per_game": 5.58
       },
       "projected_outs": 15.46,
-      "edge": -2.04
+      "edge": -2.04,
+      "result": "loss"
     },
     {
       "name": "Jeremy Pena",
@@ -492,7 +498,8 @@
         "starter_ip_per_game": 7.1
       },
       "projected_outs": 21.06,
-      "edge": 3.06
+      "edge": 3.06,
+      "result": "win"
     },
     {
       "name": "Trey Yesavage",
@@ -548,7 +555,8 @@
         "starter_ip_per_game": 8.14
       },
       "projected_outs": 17.46,
-      "edge": 0.96
+      "edge": 0.96,
+      "result": "loss"
     },
     {
       "name": "Seiya Suzuki",
@@ -601,7 +609,8 @@
       "team_total": 4.8,
       "batter_iso": 0.268,
       "blast_pct": 11.7,
-      "over_rate": 0.592
+      "over_rate": 0.592,
+      "result": "loss"
     },
     {
       "name": "Teoscar Hernandez",
@@ -710,7 +719,8 @@
         "starter_ip_per_game": 6.01
       },
       "projected_outs": 20.46,
-      "edge": 2.46
+      "edge": 2.46,
+      "result": "push"
     },
     {
       "name": "Gabriel Hughes",
@@ -766,7 +776,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 15.9,
-      "edge": 1.4
+      "edge": 1.4,
+      "result": "win"
     },
     {
       "name": "Ceddanne Rafaela",
@@ -818,7 +829,8 @@
       "team_total": 4.5,
       "batter_iso": 0.17,
       "blast_pct": 7.1,
-      "over_rate": 0.615
+      "over_rate": 0.615,
+      "result": "win"
     }
   ]
 }
