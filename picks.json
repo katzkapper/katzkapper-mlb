@@ -1,12 +1,12 @@
 {
   "date": "2026-08-05",
-  "updated": "03:31 PM ET",
+  "updated": "10:58 AM ET",
   "season_record": {
-    "wins": 360,
-    "losses": 315,
+    "wins": 366,
+    "losses": 322,
     "pushes": 12,
-    "units_pnl": 23.913,
-    "bets_placed": 687
+    "units_pnl": 21.65,
+    "bets_placed": 700
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 222,
-      "losses": 176,
+      "wins": 228,
+      "losses": 180,
       "pushes": 6,
-      "win_pct": 55.8,
-      "pnl": 18.54,
+      "win_pct": 55.9,
+      "pnl": 19.28,
       "roi": 3.7,
-      "bets": 404
+      "bets": 414
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 70,
-      "losses": 83,
+      "losses": 86,
       "pushes": 4,
-      "win_pct": 45.8,
-      "pnl": -8.08,
-      "roi": -4.1,
-      "bets": 157
+      "win_pct": 44.9,
+      "pnl": -11.08,
+      "roi": -5.5,
+      "bets": 160
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 5.37
       },
       "projected_outs": 13.59,
-      "edge": -3.91
+      "edge": -3.91,
+      "result": "loss"
     },
     {
       "name": "Carson Whisenhunt",
@@ -155,7 +156,8 @@
         "starter_ip_per_game": 5.74
       },
       "projected_outs": 13.05,
-      "edge": -2.45
+      "edge": -2.45,
+      "result": "win"
     },
     {
       "name": "Hunter Brown",
@@ -211,7 +213,8 @@
         "starter_ip_per_game": 5.34
       },
       "projected_outs": 14.7,
-      "edge": -3.8
+      "edge": -3.8,
+      "result": "win"
     },
     {
       "name": "Will Warren",
@@ -268,7 +271,8 @@
         "starter_ip_per_game": 5.59
       },
       "projected_outs": 14.13,
-      "edge": -2.37
+      "edge": -2.37,
+      "result": "win"
     },
     {
       "name": "Sonny Gray",
@@ -325,7 +329,8 @@
         "starter_ip_per_game": 7.43
       },
       "projected_outs": 18.68,
-      "edge": 1.18
+      "edge": 1.18,
+      "result": "win"
     },
     {
       "name": "Trevor Rogers",
@@ -381,7 +386,8 @@
         "starter_ip_per_game": 5.78
       },
       "projected_outs": 18.6,
-      "edge": 1.1
+      "edge": 1.1,
+      "result": "loss"
     },
     {
       "name": "Reid Detmers",
@@ -438,7 +444,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 15.82,
-      "edge": -2.65
+      "edge": -2.65,
+      "result": "win"
     },
     {
       "name": "Sean Burke",
@@ -494,7 +501,8 @@
         "starter_ip_per_game": 7.55
       },
       "projected_outs": 19.63,
-      "edge": 2.13
+      "edge": 2.13,
+      "result": "loss"
     },
     {
       "name": "Eury P\u00e9rez",
@@ -550,7 +558,8 @@
         "starter_ip_per_game": 5.94
       },
       "projected_outs": 19.1,
-      "edge": 2.6
+      "edge": 2.6,
+      "result": "loss"
     },
     {
       "name": "Nick Martinez",
@@ -609,7 +618,8 @@
         "starter_ip_per_game": 7.16
       },
       "projected_outs": 20.76,
-      "edge": 4.26
+      "edge": 4.26,
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -662,7 +672,8 @@
       "team_total": 4.5,
       "batter_iso": 0.321,
       "blast_pct": 10.4,
-      "over_rate": 0.568
+      "over_rate": 0.568,
+      "result": "loss"
     },
     {
       "name": "Ezequiel Duran",
@@ -716,7 +727,8 @@
       "team_total": 4.5,
       "batter_iso": 0.134,
       "blast_pct": 9.1,
-      "over_rate": 0.593
+      "over_rate": 0.593,
+      "result": "loss"
     },
     {
       "name": "Osleivis Basabe",
@@ -767,7 +779,8 @@
       "team_total": 4.2,
       "batter_iso": 0.588,
       "blast_pct": 22.6,
-      "over_rate": 0.512
+      "over_rate": 0.512,
+      "result": "loss"
     }
   ]
 }
