@@ -1,12 +1,12 @@
 {
   "date": "2026-08-17",
-  "updated": "04:42 PM ET",
+  "updated": "04:03 PM ET",
   "season_record": {
-    "wins": 366,
-    "losses": 322,
+    "wins": 367,
+    "losses": 327,
     "pushes": 12,
-    "units_pnl": 21.65,
-    "bets_placed": 700
+    "units_pnl": 16.344,
+    "bets_placed": 706
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 228,
-      "losses": 180,
+      "wins": 229,
+      "losses": 182,
       "pushes": 6,
-      "win_pct": 55.9,
-      "pnl": 19.28,
-      "roi": 3.7,
-      "bets": 414
+      "win_pct": 55.7,
+      "pnl": 16.97,
+      "roi": 3.2,
+      "bets": 417
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 70,
-      "losses": 86,
+      "losses": 89,
       "pushes": 4,
-      "win_pct": 44.9,
-      "pnl": -11.08,
-      "roi": -5.5,
-      "bets": 160
+      "win_pct": 44.0,
+      "pnl": -14.08,
+      "roi": -6.9,
+      "bets": 163
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 6.84
       },
       "projected_outs": 15.74,
-      "edge": 3.24
+      "edge": 3.24,
+      "result": "loss"
     },
     {
       "name": "Corbin Carroll",
@@ -150,7 +151,8 @@
       "team_total": 4.5,
       "batter_iso": 0.244,
       "blast_pct": 13.3,
-      "over_rate": 0.621
+      "over_rate": 0.621,
+      "result": "loss"
     },
     {
       "name": "Gabriel Moreno",
@@ -203,7 +205,8 @@
       "team_total": 4.5,
       "batter_iso": 0.172,
       "blast_pct": 11.9,
-      "over_rate": 0.68
+      "over_rate": 0.68,
+      "result": "loss"
     },
     {
       "name": "Munetaka Murakami",
@@ -256,7 +259,8 @@
       "team_total": 4.0,
       "batter_iso": 0.344,
       "blast_pct": 15.1,
-      "over_rate": 0.522
+      "over_rate": 0.522,
+      "result": "loss"
     },
     {
       "name": "Nolan McLean",
@@ -311,7 +315,8 @@
         "starter_ip_per_game": 5.99
       },
       "projected_outs": 18.27,
-      "edge": 0.77
+      "edge": 0.77,
+      "result": "win"
     },
     {
       "name": "Framber Valdez",
@@ -368,7 +373,8 @@
         "starter_ip_per_game": 8.31
       },
       "projected_outs": 20.15,
-      "edge": 2.65
+      "edge": 2.65,
+      "result": "loss"
     }
   ]
 }
