@@ -1,12 +1,12 @@
 {
   "date": "2026-08-18",
-  "updated": "05:59 PM ET",
+  "updated": "11:01 AM ET",
   "season_record": {
-    "wins": 367,
-    "losses": 327,
+    "wins": 371,
+    "losses": 336,
     "pushes": 12,
-    "units_pnl": 16.344,
-    "bets_placed": 706
+    "units_pnl": 6.266,
+    "bets_placed": 719
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 229,
-      "losses": 182,
+      "wins": 232,
+      "losses": 187,
       "pushes": 6,
-      "win_pct": 55.7,
-      "pnl": 16.97,
-      "roi": 3.2,
-      "bets": 417
+      "win_pct": 55.4,
+      "pnl": 13.67,
+      "roi": 2.5,
+      "bets": 425
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 70,
-      "losses": 89,
+      "wins": 71,
+      "losses": 93,
       "pushes": 4,
-      "win_pct": 44.0,
-      "pnl": -14.08,
-      "roi": -6.9,
-      "bets": 163
+      "win_pct": 43.3,
+      "pnl": -20.86,
+      "roi": -9.8,
+      "bets": 168
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 6.85
       },
       "projected_outs": 23.36,
-      "edge": 5.86
+      "edge": 5.86,
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -151,7 +152,8 @@
         "starter_ip_per_game": 5.4
       },
       "projected_outs": 13.72,
-      "edge": -2.78
+      "edge": -2.78,
+      "result": "loss"
     },
     {
       "name": "Matt Olson",
@@ -207,7 +209,8 @@
       "team_total": 4.5,
       "batter_iso": 0.321,
       "blast_pct": 14.6,
-      "over_rate": 0.689
+      "over_rate": 0.689,
+      "result": "loss"
     },
     {
       "name": "Pete Alonso",
@@ -262,7 +265,8 @@
       "team_total": 3.5,
       "batter_iso": 0.188,
       "blast_pct": 16.7,
-      "over_rate": 0.61
+      "over_rate": 0.61,
+      "result": "loss"
     },
     {
       "name": "Merrill Kelly",
@@ -316,7 +320,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 15.24,
-      "edge": -1.26
+      "edge": -1.26,
+      "result": "win"
     },
     {
       "name": "Kyle Harrison",
@@ -375,7 +380,8 @@
         "starter_ip_per_game": 6.91
       },
       "projected_outs": 13.43,
-      "edge": -3.72
+      "edge": -3.72,
+      "result": "win"
     },
     {
       "name": "Eduardo Valencia",
@@ -426,7 +432,8 @@
       "team_total": 3.5,
       "batter_iso": 0.3,
       "blast_pct": 16.4,
-      "over_rate": 0.62
+      "over_rate": 0.62,
+      "result": "loss"
     },
     {
       "name": "Kevin Gausman",
@@ -480,7 +487,8 @@
         "starter_ip_per_game": 6.28
       },
       "projected_outs": 14.98,
-      "edge": -2.52
+      "edge": -2.52,
+      "result": "win"
     },
     {
       "name": "Seiya Suzuki",
@@ -535,7 +543,8 @@
       "team_total": 4.5,
       "batter_iso": 0.259,
       "blast_pct": 11.2,
-      "over_rate": 0.706
+      "over_rate": 0.706,
+      "result": "loss"
     },
     {
       "name": "Ranger Suarez",
@@ -589,7 +598,8 @@
         "starter_ip_per_game": 7.95
       },
       "projected_outs": 11.29,
-      "edge": -4.21
+      "edge": -4.21,
+      "result": "loss"
     },
     {
       "name": "Keider Montero",
@@ -644,7 +654,8 @@
         "starter_ip_per_game": 8.32
       },
       "projected_outs": 17.81,
-      "edge": 2.31
+      "edge": 2.31,
+      "result": "loss"
     },
     {
       "name": "Munetaka Murakami",
@@ -695,7 +706,8 @@
       "team_total": 4.5,
       "batter_iso": 0.344,
       "blast_pct": 15.1,
-      "over_rate": 0.566
+      "over_rate": 0.566,
+      "result": "win"
     },
     {
       "name": "Zac Thornton",
@@ -752,7 +764,8 @@
         "starter_ip_per_game": 6.0
       },
       "projected_outs": 17.74,
-      "edge": 2.24
+      "edge": 2.24,
+      "result": "loss"
     }
   ]
 }
