@@ -1,12 +1,12 @@
 {
   "date": "2026-08-19",
-  "updated": "11:52 AM ET",
+  "updated": "11:36 AM ET",
   "season_record": {
-    "wins": 371,
-    "losses": 336,
+    "wins": 380,
+    "losses": 340,
     "pushes": 12,
-    "units_pnl": 6.266,
-    "bets_placed": 719
+    "units_pnl": 13.959,
+    "bets_placed": 732
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 232,
-      "losses": 187,
+      "wins": 239,
+      "losses": 189,
       "pushes": 6,
-      "win_pct": 55.4,
-      "pnl": 13.67,
-      "roi": 2.5,
-      "bets": 425
+      "win_pct": 55.8,
+      "pnl": 21.79,
+      "roi": 3.9,
+      "bets": 434
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 71,
-      "losses": 93,
+      "wins": 73,
+      "losses": 95,
       "pushes": 4,
-      "win_pct": 43.3,
-      "pnl": -20.86,
-      "roi": -9.8,
-      "bets": 168
+      "win_pct": 43.5,
+      "pnl": -21.28,
+      "roi": -9.7,
+      "bets": 172
     }
   },
   "bets": [
@@ -94,7 +94,8 @@
       "team_total": 4.0,
       "batter_iso": 0.351,
       "blast_pct": 15.2,
-      "over_rate": 0.633
+      "over_rate": 0.633,
+      "result": "loss"
     },
     {
       "name": "Max Scherzer",
@@ -151,7 +152,8 @@
         "starter_ip_per_game": 9.27
       },
       "projected_outs": 12.1,
-      "edge": -3.4
+      "edge": -3.4,
+      "result": "win"
     },
     {
       "name": "Brandon Pfaadt",
@@ -206,7 +208,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 19.87,
-      "edge": 3.37
+      "edge": 3.37,
+      "result": "win"
     },
     {
       "name": "Cade Cavalli",
@@ -263,7 +266,8 @@
         "starter_ip_per_game": 9.57
       },
       "projected_outs": 21.12,
-      "edge": 3.62
+      "edge": 3.62,
+      "result": "win"
     },
     {
       "name": "Fernando Tatis Jr.",
@@ -316,7 +320,8 @@
       "team_total": 4.2,
       "batter_iso": 0.12,
       "blast_pct": 17.9,
-      "over_rate": 0.604
+      "over_rate": 0.604,
+      "result": "win"
     },
     {
       "name": "Michael King",
@@ -372,7 +377,8 @@
         "starter_ip_per_game": 8.15
       },
       "projected_outs": 18.15,
-      "edge": 0.65
+      "edge": 0.65,
+      "result": "win"
     },
     {
       "name": "Sandy Alcantara",
@@ -428,7 +434,8 @@
         "starter_ip_per_game": 5.87
       },
       "projected_outs": 21.9,
-      "edge": 4.4
+      "edge": 4.4,
+      "result": "win"
     },
     {
       "name": "Robert Stock",
@@ -486,7 +493,8 @@
         "starter_ip_per_game": 6.0
       },
       "projected_outs": 12.56,
-      "edge": -1.94
+      "edge": -1.94,
+      "result": "win"
     },
     {
       "name": "Yandy Diaz",
@@ -585,7 +593,8 @@
       "team_total": 4.5,
       "batter_iso": 0.171,
       "blast_pct": 12.0,
-      "over_rate": 0.644
+      "over_rate": 0.644,
+      "result": "win"
     },
     {
       "name": "Matt Olson",
@@ -641,7 +650,8 @@
       "team_total": 4.5,
       "batter_iso": 0.318,
       "blast_pct": 14.6,
-      "over_rate": 0.603
+      "over_rate": 0.603,
+      "result": "loss"
     },
     {
       "name": "Matthew Liberatore",
@@ -697,7 +707,8 @@
         "starter_ip_per_game": 5.67
       },
       "projected_outs": 14.38,
-      "edge": -1.12
+      "edge": -1.12,
+      "result": "loss"
     },
     {
       "name": "Roki Sasaki",
@@ -756,7 +767,8 @@
         "starter_ip_per_game": 5.42
       },
       "projected_outs": 18.86,
-      "edge": 2.36
+      "edge": 2.36,
+      "result": "loss"
     },
     {
       "name": "Chase Burns",
@@ -811,7 +823,8 @@
         "starter_ip_per_game": 5.35
       },
       "projected_outs": 16.56,
-      "edge": -0.94
+      "edge": -0.94,
+      "result": "win"
     }
   ]
 }
