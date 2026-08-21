@@ -1,12 +1,12 @@
 {
   "date": "2026-08-20",
-  "updated": "12:35 PM ET",
+  "updated": "12:02 PM ET",
   "season_record": {
-    "wins": 381,
-    "losses": 340,
+    "wins": 386,
+    "losses": 342,
     "pushes": 12,
-    "units_pnl": 15.159,
-    "bets_placed": 733
+    "units_pnl": 17.061,
+    "bets_placed": 740
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,13 +21,13 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 239,
-      "losses": 189,
+      "wins": 244,
+      "losses": 191,
       "pushes": 6,
-      "win_pct": 55.8,
-      "pnl": 21.79,
-      "roi": 3.9,
-      "bets": 434
+      "win_pct": 56.1,
+      "pnl": 23.69,
+      "roi": 4.2,
+      "bets": 441
     },
     "batter_tb": {
       "label": "Total Bases",
@@ -98,7 +98,8 @@
         "starter_ip_per_game": 5.97
       },
       "projected_outs": 12.79,
-      "edge": -3.53
+      "edge": -3.53,
+      "result": "loss"
     },
     {
       "name": "Grayson Rodriguez",
@@ -153,7 +154,8 @@
         "starter_ip_per_game": 4.91
       },
       "projected_outs": 13.91,
-      "edge": -1.59
+      "edge": -1.59,
+      "result": "loss"
     },
     {
       "name": "George Kirby",
@@ -209,7 +211,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 14.5,
-      "edge": -3.0
+      "edge": -3.0,
+      "result": "win"
     },
     {
       "name": "Peter Lambert",
@@ -265,7 +268,8 @@
         "starter_ip_per_game": 5.45
       },
       "projected_outs": 16.99,
-      "edge": -0.51
+      "edge": -0.51,
+      "result": "win"
     },
     {
       "name": "Michael McGreevy",
@@ -321,7 +325,8 @@
         "starter_ip_per_game": 5.68
       },
       "projected_outs": 15.48,
-      "edge": -2.02
+      "edge": -2.02,
+      "result": "win"
     },
     {
       "name": "Gerrit Cole",
@@ -379,7 +384,8 @@
         "starter_ip_per_game": 5.46
       },
       "projected_outs": 18.98,
-      "edge": 1.48
+      "edge": 1.48,
+      "result": "win"
     },
     {
       "name": "Andrew Alvarez",
@@ -436,7 +442,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 16.06,
-      "edge": 1.56
+      "edge": 1.56,
+      "result": "win"
     }
   ]
 }
