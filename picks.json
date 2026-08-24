@@ -1,12 +1,12 @@
 {
   "date": "2026-08-21",
-  "updated": "12:58 PM ET",
+  "updated": "10:35 AM ET",
   "season_record": {
-    "wins": 386,
-    "losses": 342,
+    "wins": 392,
+    "losses": 349,
     "pushes": 12,
-    "units_pnl": 17.061,
-    "bets_placed": 740
+    "units_pnl": 13.886,
+    "bets_placed": 753
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 244,
-      "losses": 191,
+      "wins": 248,
+      "losses": 196,
       "pushes": 6,
-      "win_pct": 56.1,
-      "pnl": 23.69,
-      "roi": 4.2,
-      "bets": 441
+      "win_pct": 55.9,
+      "pnl": 21.46,
+      "roi": 3.7,
+      "bets": 450
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 74,
-      "losses": 95,
+      "wins": 76,
+      "losses": 97,
       "pushes": 4,
-      "win_pct": 43.8,
-      "pnl": -20.08,
-      "roi": -9.1,
-      "bets": 173
+      "win_pct": 43.9,
+      "pnl": -21.03,
+      "roi": -9.3,
+      "bets": 177
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "starter_ip_per_game": 5.66
       },
       "projected_outs": 14.04,
-      "edge": -1.46
+      "edge": -1.46,
+      "result": "win"
     },
     {
       "name": "Freddy Peralta",
@@ -153,7 +154,8 @@
         "starter_ip_per_game": 6.85
       },
       "projected_outs": 13.45,
-      "edge": -2.05
+      "edge": -2.05,
+      "result": "loss"
     },
     {
       "name": "Nick Lodolo",
@@ -212,7 +214,8 @@
         "starter_ip_per_game": 5.35
       },
       "projected_outs": 13.36,
-      "edge": -1.87
+      "edge": -1.87,
+      "result": "win"
     },
     {
       "name": "Jac Caglianone",
@@ -266,7 +269,8 @@
       "team_total": 4.0,
       "batter_iso": 0.22,
       "blast_pct": 17.9,
-      "over_rate": 0.618
+      "over_rate": 0.618,
+      "result": "loss"
     },
     {
       "name": "Connor Prielipp",
@@ -322,7 +326,8 @@
         "starter_ip_per_game": 5.39
       },
       "projected_outs": 14.28,
-      "edge": -1.22
+      "edge": -1.22,
+      "result": "loss"
     },
     {
       "name": "Ryan Gusto",
@@ -378,7 +383,8 @@
         "starter_ip_per_game": 5.87
       },
       "projected_outs": 13.14,
-      "edge": -2.36
+      "edge": -2.36,
+      "result": "win"
     },
     {
       "name": "Logan Webb",
@@ -437,7 +443,8 @@
         "starter_ip_per_game": 6.5
       },
       "projected_outs": 22.36,
-      "edge": 4.86
+      "edge": 4.86,
+      "result": "loss"
     },
     {
       "name": "Matthew Boyd",
@@ -495,7 +502,8 @@
         "starter_ip_per_game": 6.32
       },
       "projected_outs": 20.07,
-      "edge": 3.57
+      "edge": 3.57,
+      "result": "win"
     },
     {
       "name": "Jes\u00fas Luzardo",
@@ -554,7 +562,8 @@
         "starter_ip_per_game": 7.38
       },
       "projected_outs": 22.11,
-      "edge": 3.61
+      "edge": 3.61,
+      "result": "loss"
     },
     {
       "name": "Noah Cameron",
@@ -612,7 +621,8 @@
         "starter_ip_per_game": 8.47
       },
       "projected_outs": 22.19,
-      "edge": 4.69
+      "edge": 4.69,
+      "result": "loss"
     },
     {
       "name": "Yandy Diaz",
@@ -665,7 +675,8 @@
       "team_total": 3.5,
       "batter_iso": 0.153,
       "blast_pct": 11.6,
-      "over_rate": 0.739
+      "over_rate": 0.739,
+      "result": "loss"
     },
     {
       "name": "Pete Alonso",
@@ -720,7 +731,8 @@
       "team_total": 3.5,
       "batter_iso": 0.248,
       "blast_pct": 16.7,
-      "over_rate": 0.58
+      "over_rate": 0.58,
+      "result": "win"
     },
     {
       "name": "Gabriel Moreno",
@@ -772,7 +784,8 @@
       "team_total": 4.2,
       "batter_iso": 0.196,
       "blast_pct": 12.0,
-      "over_rate": 0.66
+      "over_rate": 0.66,
+      "result": "win"
     }
   ]
 }
