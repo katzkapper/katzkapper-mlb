@@ -1,12 +1,12 @@
 {
   "date": "2026-08-24",
-  "updated": "01:01 PM ET",
+  "updated": "12:29 PM ET",
   "season_record": {
-    "wins": 392,
-    "losses": 349,
+    "wins": 397,
+    "losses": 352,
     "pushes": 12,
-    "units_pnl": 13.886,
-    "bets_placed": 753
+    "units_pnl": 17.135,
+    "bets_placed": 761
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 248,
-      "losses": 196,
+      "wins": 253,
+      "losses": 198,
       "pushes": 6,
-      "win_pct": 55.9,
-      "pnl": 21.46,
-      "roi": 3.7,
-      "bets": 450
+      "win_pct": 56.1,
+      "pnl": 25.71,
+      "roi": 4.3,
+      "bets": 457
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 76,
-      "losses": 97,
+      "losses": 98,
       "pushes": 4,
-      "win_pct": 43.9,
-      "pnl": -21.03,
-      "roi": -9.3,
-      "bets": 177
+      "win_pct": 43.7,
+      "pnl": -22.03,
+      "roi": -9.7,
+      "bets": 178
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 13.87,
-      "edge": -2.63
+      "edge": -2.63,
+      "result": "loss"
     },
     {
       "name": "Zebby Matthews",
@@ -153,7 +154,8 @@
         "starter_ip_per_game": 5.4
       },
       "projected_outs": 15.64,
-      "edge": -1.86
+      "edge": -1.86,
+      "result": "loss"
     },
     {
       "name": "Sandy Alcantara",
@@ -209,7 +211,8 @@
         "starter_ip_per_game": 5.84
       },
       "projected_outs": 20.49,
-      "edge": 1.99
+      "edge": 1.99,
+      "result": "win"
     },
     {
       "name": "Zack Wheeler",
@@ -267,7 +270,8 @@
         "starter_ip_per_game": 7.5
       },
       "projected_outs": 14.15,
-      "edge": -3.35
+      "edge": -3.35,
+      "result": "win"
     },
     {
       "name": "Jeffrey Springs",
@@ -325,7 +329,8 @@
         "starter_ip_per_game": 6.21
       },
       "projected_outs": 14.63,
-      "edge": -0.87
+      "edge": -0.87,
+      "result": "win"
     },
     {
       "name": "Ranger Suarez",
@@ -382,7 +387,8 @@
         "starter_ip_per_game": 8.07
       },
       "projected_outs": 13.38,
-      "edge": -4.12
+      "edge": -4.12,
+      "result": "win"
     },
     {
       "name": "Ceddanne Rafaela",
@@ -435,7 +441,8 @@
       "team_total": 3.5,
       "batter_iso": 0.243,
       "blast_pct": 6.9,
-      "over_rate": 0.613
+      "over_rate": 0.613,
+      "result": "loss"
     },
     {
       "name": "Drew Rasmussen",
@@ -490,7 +497,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 18.65,
-      "edge": 1.15
+      "edge": 1.15,
+      "result": "win"
     }
   ]
 }
