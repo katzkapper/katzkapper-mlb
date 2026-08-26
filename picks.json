@@ -1,12 +1,12 @@
 {
   "date": "2026-08-25",
-  "updated": "01:21 PM ET",
+  "updated": "01:53 PM ET",
   "season_record": {
-    "wins": 397,
-    "losses": 352,
+    "wins": 405,
+    "losses": 354,
     "pushes": 12,
-    "units_pnl": 17.135,
-    "bets_placed": 761
+    "units_pnl": 25.368,
+    "bets_placed": 771
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 253,
-      "losses": 198,
+      "wins": 259,
+      "losses": 200,
       "pushes": 6,
-      "win_pct": 56.1,
-      "pnl": 25.71,
-      "roi": 4.3,
-      "bets": 457
+      "win_pct": 56.4,
+      "pnl": 29.82,
+      "roi": 4.9,
+      "bets": 465
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 76,
+      "wins": 78,
       "losses": 98,
       "pushes": 4,
-      "win_pct": 43.7,
-      "pnl": -22.03,
-      "roi": -9.7,
-      "bets": 178
+      "win_pct": 44.3,
+      "pnl": -17.9,
+      "roi": -7.8,
+      "bets": 180
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "starter_ip_per_game": 5.4
       },
       "projected_outs": 15.34,
-      "edge": -2.16
+      "edge": -2.16,
+      "result": "loss"
     },
     {
       "name": "Max Scherzer",
@@ -153,7 +154,8 @@
         "starter_ip_per_game": 8.21
       },
       "projected_outs": 12.83,
-      "edge": -2.67
+      "edge": -2.67,
+      "result": "win"
     },
     {
       "name": "Will Warren",
@@ -210,7 +212,8 @@
         "starter_ip_per_game": 5.41
       },
       "projected_outs": 12.1,
-      "edge": -3.4
+      "edge": -3.4,
+      "result": "win"
     },
     {
       "name": "Pete Alonso",
@@ -264,7 +267,8 @@
       "team_total": 4.0,
       "batter_iso": 0.252,
       "blast_pct": 17.0,
-      "over_rate": 0.621
+      "over_rate": 0.621,
+      "result": "win"
     },
     {
       "name": "Michael King",
@@ -322,7 +326,8 @@
         "starter_ip_per_game": 8.32
       },
       "projected_outs": 19.0,
-      "edge": 1.5
+      "edge": 1.5,
+      "result": "win"
     },
     {
       "name": "Jacob deGrom",
@@ -380,7 +385,8 @@
         "starter_ip_per_game": 5.95
       },
       "projected_outs": 11.65,
-      "edge": -5.85
+      "edge": -5.85,
+      "result": "win"
     },
     {
       "name": "George Kirby",
@@ -438,7 +444,8 @@
         "starter_ip_per_game": 5.8
       },
       "projected_outs": 13.21,
-      "edge": -4.29
+      "edge": -4.29,
+      "result": "loss"
     },
     {
       "name": "Carson Benge",
@@ -490,7 +497,8 @@
       "team_total": 3.8,
       "batter_iso": 0.156,
       "blast_pct": 11.1,
-      "over_rate": 0.652
+      "over_rate": 0.652,
+      "result": "win"
     },
     {
       "name": "Brandon Pfaadt",
@@ -545,7 +553,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 18.18,
-      "edge": 0.68
+      "edge": 0.68,
+      "result": "win"
     },
     {
       "name": "Bryce Elder",
@@ -604,7 +613,8 @@
         "starter_ip_per_game": 8.79
       },
       "projected_outs": 16.84,
-      "edge": 1.34
+      "edge": 1.34,
+      "result": "win"
     }
   ]
 }
