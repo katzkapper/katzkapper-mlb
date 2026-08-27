@@ -1,12 +1,12 @@
 {
   "date": "2026-08-26",
-  "updated": "02:40 PM ET",
+  "updated": "09:41 AM ET",
   "season_record": {
-    "wins": 405,
-    "losses": 354,
+    "wins": 412,
+    "losses": 360,
     "pushes": 12,
-    "units_pnl": 25.368,
-    "bets_placed": 771
+    "units_pnl": 28.325,
+    "bets_placed": 784
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 259,
-      "losses": 200,
+      "wins": 264,
+      "losses": 203,
       "pushes": 6,
-      "win_pct": 56.4,
-      "pnl": 29.82,
-      "roi": 4.9,
-      "bets": 465
+      "win_pct": 56.5,
+      "pnl": 32.84,
+      "roi": 5.3,
+      "bets": 473
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 78,
-      "losses": 98,
+      "wins": 80,
+      "losses": 101,
       "pushes": 4,
-      "win_pct": 44.3,
-      "pnl": -17.9,
-      "roi": -7.8,
-      "bets": 180
+      "win_pct": 44.2,
+      "pnl": -17.97,
+      "roi": -7.6,
+      "bets": 185
     }
   },
   "bets": [
@@ -100,7 +100,8 @@
         "starter_ip_per_game": 6.02
       },
       "projected_outs": 12.99,
-      "edge": -2.33
+      "edge": -2.33,
+      "result": "win"
     },
     {
       "name": "Michael McGreevy",
@@ -157,7 +158,8 @@
         "starter_ip_per_game": 5.04
       },
       "projected_outs": 15.62,
-      "edge": -1.88
+      "edge": -1.88,
+      "result": "win"
     },
     {
       "name": "Pete Alonso",
@@ -210,7 +212,8 @@
       "team_total": 4.0,
       "batter_iso": 0.254,
       "blast_pct": 17.0,
-      "over_rate": 0.68
+      "over_rate": 0.68,
+      "result": "win"
     },
     {
       "name": "Peter Lambert",
@@ -266,7 +269,8 @@
         "starter_ip_per_game": 5.69
       },
       "projected_outs": 14.37,
-      "edge": -2.13
+      "edge": -2.13,
+      "result": "loss"
     },
     {
       "name": "Connor Prielipp",
@@ -322,7 +326,8 @@
         "starter_ip_per_game": 5.41
       },
       "projected_outs": 15.72,
-      "edge": -0.78
+      "edge": -0.78,
+      "result": "win"
     },
     {
       "name": "Joey Cantillo",
@@ -378,7 +383,8 @@
         "starter_ip_per_game": 5.62
       },
       "projected_outs": 14.19,
-      "edge": -1.31
+      "edge": -1.31,
+      "result": "loss"
     },
     {
       "name": "Matthew Boyd",
@@ -435,7 +441,8 @@
         "starter_ip_per_game": 6.07
       },
       "projected_outs": 19.5,
-      "edge": 2.0
+      "edge": 2.0,
+      "result": "win"
     },
     {
       "name": "Carson Benge",
@@ -487,7 +494,8 @@
       "team_total": 4.2,
       "batter_iso": 0.147,
       "blast_pct": 11.0,
-      "over_rate": 0.629
+      "over_rate": 0.629,
+      "result": "loss"
     },
     {
       "name": "Seiya Suzuki",
@@ -540,7 +548,8 @@
       "team_total": 4.2,
       "batter_iso": 0.246,
       "blast_pct": 11.0,
-      "over_rate": 0.632
+      "over_rate": 0.632,
+      "result": "loss"
     },
     {
       "name": "Fernando Tatis Jr.",
@@ -593,7 +602,8 @@
       "team_total": 4.2,
       "batter_iso": 0.126,
       "blast_pct": 18.4,
-      "over_rate": 0.709
+      "over_rate": 0.709,
+      "result": "loss"
     },
     {
       "name": "Roki Sasaki",
@@ -652,7 +662,8 @@
         "starter_ip_per_game": 5.64
       },
       "projected_outs": 18.65,
-      "edge": 2.15
+      "edge": 2.15,
+      "result": "loss"
     },
     {
       "name": "Pete Crow-Armstrong",
@@ -704,7 +715,8 @@
       "team_total": 4.2,
       "batter_iso": 0.231,
       "blast_pct": 12.0,
-      "over_rate": 0.627
+      "over_rate": 0.627,
+      "result": "win"
     },
     {
       "name": "J.T. Ginn",
@@ -762,7 +774,8 @@
         "starter_ip_per_game": 6.22
       },
       "projected_outs": 19.05,
-      "edge": 3.55
+      "edge": 3.55,
+      "result": "win"
     }
   ]
 }
