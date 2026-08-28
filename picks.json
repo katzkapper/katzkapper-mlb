@@ -1,12 +1,12 @@
 {
   "date": "2026-08-27",
-  "updated": "08:21 PM ET",
+  "updated": "08:54 AM ET",
   "season_record": {
-    "wins": 412,
-    "losses": 360,
+    "wins": 416,
+    "losses": 364,
     "pushes": 12,
-    "units_pnl": 28.325,
-    "bets_placed": 784
+    "units_pnl": 28.635,
+    "bets_placed": 792
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 264,
-      "losses": 203,
+      "wins": 267,
+      "losses": 205,
       "pushes": 6,
-      "win_pct": 56.5,
-      "pnl": 32.84,
-      "roi": 5.3,
-      "bets": 473
+      "win_pct": 56.6,
+      "pnl": 34.1,
+      "roi": 5.4,
+      "bets": 478
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 80,
-      "losses": 101,
+      "wins": 81,
+      "losses": 103,
       "pushes": 4,
-      "win_pct": 44.2,
-      "pnl": -17.97,
-      "roi": -7.6,
-      "bets": 185
+      "win_pct": 44.0,
+      "pnl": -18.92,
+      "roi": -7.9,
+      "bets": 188
     }
   },
   "bets": [
@@ -96,7 +96,8 @@
         "starter_ip_per_game": 8.13
       },
       "projected_outs": 14.47,
-      "edge": -1.03
+      "edge": -1.03,
+      "result": "win"
     },
     {
       "name": "Sean Manaea",
@@ -155,7 +156,8 @@
         "starter_ip_per_game": 6.01
       },
       "projected_outs": 19.34,
-      "edge": 1.84
+      "edge": 1.84,
+      "result": "loss"
     },
     {
       "name": "Jake Irvin",
@@ -214,7 +216,8 @@
         "starter_ip_per_game": 7.98
       },
       "projected_outs": 15.87,
-      "edge": -1.63
+      "edge": -1.63,
+      "result": "win"
     },
     {
       "name": "Pete Alonso",
@@ -269,7 +272,8 @@
       "team_total": 4.0,
       "batter_iso": 0.192,
       "blast_pct": 17.2,
-      "over_rate": 0.75
+      "over_rate": 0.75,
+      "result": "loss"
     },
     {
       "name": "Noah Cameron",
@@ -326,7 +330,8 @@
         "starter_ip_per_game": 7.77
       },
       "projected_outs": 21.28,
-      "edge": 3.78
+      "edge": 3.78,
+      "result": "win"
     },
     {
       "name": "Jordan Walker",
@@ -381,7 +386,8 @@
       "team_total": 4.0,
       "batter_iso": 0.262,
       "blast_pct": 15.7,
-      "over_rate": 0.595
+      "over_rate": 0.595,
+      "result": "win"
     },
     {
       "name": "Jose Altuve",
@@ -434,7 +440,8 @@
       "team_total": 4.0,
       "batter_iso": 0.16,
       "blast_pct": 7.2,
-      "over_rate": 0.605
+      "over_rate": 0.605,
+      "result": "loss"
     },
     {
       "name": "Trevor Rogers",
@@ -490,7 +497,8 @@
         "starter_ip_per_game": 5.63
       },
       "projected_outs": 18.56,
-      "edge": 1.06
+      "edge": 1.06,
+      "result": "loss"
     }
   ]
 }
