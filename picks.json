@@ -1,12 +1,12 @@
 {
   "date": "2026-08-28",
-  "updated": "09:44 AM ET",
+  "updated": "11:10 AM ET",
   "season_record": {
-    "wins": 416,
-    "losses": 364,
+    "wins": 417,
+    "losses": 372,
     "pushes": 12,
-    "units_pnl": 28.635,
-    "bets_placed": 792
+    "units_pnl": 16.389,
+    "bets_placed": 801
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 267,
-      "losses": 205,
+      "wins": 268,
+      "losses": 210,
       "pushes": 6,
-      "win_pct": 56.6,
-      "pnl": 34.1,
-      "roi": 5.4,
-      "bets": 478
+      "win_pct": 56.1,
+      "pnl": 26.85,
+      "roi": 4.2,
+      "bets": 484
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 81,
-      "losses": 103,
+      "losses": 106,
       "pushes": 4,
-      "win_pct": 44.0,
-      "pnl": -18.92,
-      "roi": -7.9,
-      "bets": 188
+      "win_pct": 43.3,
+      "pnl": -23.92,
+      "roi": -9.8,
+      "bets": 191
     }
   },
   "bets": [
@@ -99,7 +99,8 @@
         "starter_ip_per_game": 7.98
       },
       "projected_outs": 12.82,
-      "edge": -2.68
+      "edge": -2.68,
+      "result": "loss"
     },
     {
       "name": "Luis Castillo",
@@ -157,7 +158,8 @@
         "starter_ip_per_game": 10.13
       },
       "projected_outs": 12.79,
-      "edge": -2.71
+      "edge": -2.71,
+      "result": "win"
     },
     {
       "name": "Brandon Young",
@@ -213,7 +215,8 @@
         "starter_ip_per_game": 5.63
       },
       "projected_outs": 14.44,
-      "edge": -3.06
+      "edge": -3.06,
+      "result": "loss"
     },
     {
       "name": "Hunter Brown",
@@ -270,7 +273,8 @@
         "starter_ip_per_game": 5.68
       },
       "projected_outs": 15.82,
-      "edge": -1.68
+      "edge": -1.68,
+      "result": "loss"
     },
     {
       "name": "Pete Alonso",
@@ -324,7 +328,8 @@
       "team_total": 4.5,
       "batter_iso": 0.257,
       "blast_pct": 17.0,
-      "over_rate": 0.73
+      "over_rate": 0.73,
+      "result": "loss"
     },
     {
       "name": "Quinn Mathews",
@@ -381,7 +386,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 13.87,
-      "edge": -2.63
+      "edge": -2.63,
+      "result": "loss"
     },
     {
       "name": "Tristan Peters",
@@ -434,7 +440,8 @@
       "team_total": 4.5,
       "batter_iso": 0.208,
       "blast_pct": 8.8,
-      "over_rate": 0.598
+      "over_rate": 0.598,
+      "result": "loss"
     },
     {
       "name": "Lawrence Butler",
@@ -486,7 +493,8 @@
       "team_total": 4.5,
       "batter_iso": 0.149,
       "blast_pct": 10.8,
-      "over_rate": 0.61
+      "over_rate": 0.61,
+      "result": "loss"
     },
     {
       "name": "Rhett Lowder",
@@ -543,7 +551,8 @@
         "starter_ip_per_game": 5.31
       },
       "projected_outs": 16.67,
-      "edge": 1.17
+      "edge": 1.17,
+      "result": "loss"
     }
   ]
 }
