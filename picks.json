@@ -1,12 +1,12 @@
 {
   "date": "2026-08-29",
-  "updated": "11:55 AM ET",
+  "updated": "11:52 AM ET",
   "season_record": {
-    "wins": 417,
-    "losses": 372,
+    "wins": 421,
+    "losses": 377,
     "pushes": 12,
-    "units_pnl": 16.389,
-    "bets_placed": 801
+    "units_pnl": 16.875,
+    "bets_placed": 810
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 268,
-      "losses": 210,
+      "wins": 272,
+      "losses": 214,
       "pushes": 6,
-      "win_pct": 56.1,
-      "pnl": 26.85,
-      "roi": 4.2,
-      "bets": 484
+      "win_pct": 56.0,
+      "pnl": 29.34,
+      "roi": 4.5,
+      "bets": 492
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 81,
-      "losses": 106,
+      "losses": 107,
       "pushes": 4,
-      "win_pct": 43.3,
-      "pnl": -23.92,
-      "roi": -9.8,
-      "bets": 191
+      "win_pct": 43.1,
+      "pnl": -25.92,
+      "roi": -10.6,
+      "bets": 192
     }
   },
   "bets": [
@@ -98,7 +98,8 @@
         "starter_ip_per_game": 5.77
       },
       "projected_outs": 18.81,
-      "edge": 1.31
+      "edge": 1.31,
+      "result": "loss"
     },
     {
       "name": "Keider Montero",
@@ -156,7 +157,8 @@
         "starter_ip_per_game": 9.27
       },
       "projected_outs": 16.89,
-      "edge": 1.39
+      "edge": 1.39,
+      "result": "win"
     },
     {
       "name": "Cal Quantrill",
@@ -211,7 +213,8 @@
         "starter_ip_per_game": 5.94
       },
       "projected_outs": 16.46,
-      "edge": 1.96
+      "edge": 1.96,
+      "result": "win"
     },
     {
       "name": "Foster Griffin",
@@ -267,7 +270,8 @@
         "starter_ip_per_game": 5.63
       },
       "projected_outs": 14.06,
-      "edge": -3.44
+      "edge": -3.44,
+      "result": "win"
     },
     {
       "name": "Tristan Peters",
@@ -319,7 +323,8 @@
       "team_total": 4.5,
       "batter_iso": 0.205,
       "blast_pct": 8.9,
-      "over_rate": 0.586
+      "over_rate": 0.586,
+      "result": "loss"
     },
     {
       "name": "Kevin Gausman",
@@ -375,7 +380,8 @@
         "starter_ip_per_game": 6.08
       },
       "projected_outs": 15.85,
-      "edge": -1.65
+      "edge": -1.65,
+      "result": "win"
     },
     {
       "name": "Jake Bennett",
@@ -432,7 +438,8 @@
         "starter_ip_per_game": 8.61
       },
       "projected_outs": 15.16,
-      "edge": -2.34
+      "edge": -2.34,
+      "result": "loss"
     },
     {
       "name": "Cade Cavalli",
@@ -490,7 +497,8 @@
         "starter_ip_per_game": 8.1
       },
       "projected_outs": 21.2,
-      "edge": 3.7
+      "edge": 3.7,
+      "result": "loss"
     },
     {
       "name": "Shane Drohan",
@@ -546,7 +554,8 @@
         "starter_ip_per_game": 7.05
       },
       "projected_outs": 17.07,
-      "edge": 1.57
+      "edge": 1.57,
+      "result": "loss"
     }
   ]
 }
