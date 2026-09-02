@@ -1,12 +1,12 @@
 {
   "date": "2026-09-01",
-  "updated": "03:36 PM ET",
+  "updated": "12:14 PM ET",
   "season_record": {
-    "wins": 426,
-    "losses": 380,
+    "wins": 432,
+    "losses": 386,
     "pushes": 12,
-    "units_pnl": 17.161,
-    "bets_placed": 818
+    "units_pnl": 17.467,
+    "bets_placed": 830
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 276,
-      "losses": 217,
+      "wins": 280,
+      "losses": 220,
       "pushes": 6,
       "win_pct": 56.0,
-      "pnl": 28.7,
-      "roi": 4.3,
-      "bets": 499
+      "pnl": 29.8,
+      "roi": 4.4,
+      "bets": 506
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 82,
-      "losses": 107,
+      "wins": 84,
+      "losses": 110,
       "pushes": 4,
-      "win_pct": 43.4,
-      "pnl": -24.99,
-      "roi": -10.2,
-      "bets": 193
+      "win_pct": 43.3,
+      "pnl": -25.79,
+      "roi": -10.1,
+      "bets": 198
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 5.18
       },
       "projected_outs": 12.11,
-      "edge": -3.39
+      "edge": -3.39,
+      "result": "loss"
     },
     {
       "name": "AJ Smith-Shawver",
@@ -157,7 +158,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 12.66,
-      "edge": -2.61
+      "edge": -2.61,
+      "result": "win"
     },
     {
       "name": "Gabriel Hughes",
@@ -215,7 +217,8 @@
         "starter_ip_per_game": 8.16
       },
       "projected_outs": 14.52,
-      "edge": -0.98
+      "edge": -0.98,
+      "result": "win"
     },
     {
       "name": "Rafael Devers",
@@ -269,7 +272,8 @@
       "team_total": 3.5,
       "batter_iso": 0.298,
       "blast_pct": 13.4,
-      "over_rate": 0.637
+      "over_rate": 0.637,
+      "result": "win"
     },
     {
       "name": "Pete Crow-Armstrong",
@@ -323,7 +327,8 @@
       "team_total": 4.8,
       "batter_iso": 0.256,
       "blast_pct": 12.5,
-      "over_rate": 0.71
+      "over_rate": 0.71,
+      "result": "loss"
     },
     {
       "name": "Sean Burke",
@@ -380,7 +385,8 @@
         "starter_ip_per_game": 10.31
       },
       "projected_outs": 14.13,
-      "edge": -2.37
+      "edge": -2.37,
+      "result": "loss"
     },
     {
       "name": "Sal Stewart",
@@ -435,7 +441,8 @@
       "team_total": 3.5,
       "batter_iso": 0.215,
       "blast_pct": 11.3,
-      "over_rate": 0.648
+      "over_rate": 0.648,
+      "result": "win"
     },
     {
       "name": "Eric Lauer",
@@ -491,7 +498,8 @@
         "starter_ip_per_game": 5.94
       },
       "projected_outs": 14.21,
-      "edge": -3.29
+      "edge": -3.29,
+      "result": "win"
     },
     {
       "name": "Jes\u00fas Luzardo",
@@ -546,7 +554,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 20.53,
-      "edge": 2.53
+      "edge": 2.53,
+      "result": "win"
     },
     {
       "name": "Jac Caglianone",
@@ -601,7 +610,8 @@
       "team_total": 4.8,
       "batter_iso": 0.222,
       "blast_pct": 17.9,
-      "over_rate": 0.601
+      "over_rate": 0.601,
+      "result": "loss"
     },
     {
       "name": "Seiya Suzuki",
@@ -654,7 +664,8 @@
       "team_total": 4.8,
       "batter_iso": 0.263,
       "blast_pct": 11.5,
-      "over_rate": 0.657
+      "over_rate": 0.657,
+      "result": "loss"
     },
     {
       "name": "Matthew Boyd",
@@ -712,7 +723,8 @@
         "starter_ip_per_game": 6.12
       },
       "projected_outs": 18.03,
-      "edge": 0.53
+      "edge": 0.53,
+      "result": "loss"
     }
   ]
 }
