@@ -1,12 +1,12 @@
 {
   "date": "2026-09-02",
-  "updated": "01:08 PM ET",
+  "updated": "09:12 AM ET",
   "season_record": {
-    "wins": 432,
-    "losses": 386,
+    "wins": 438,
+    "losses": 395,
     "pushes": 12,
-    "units_pnl": 17.467,
-    "bets_placed": 830
+    "units_pnl": 19.192,
+    "bets_placed": 845
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 280,
-      "losses": 220,
+      "wins": 284,
+      "losses": 226,
       "pushes": 6,
-      "win_pct": 56.0,
-      "pnl": 29.8,
-      "roi": 4.4,
-      "bets": 506
+      "win_pct": 55.7,
+      "pnl": 27.62,
+      "roi": 4.0,
+      "bets": 516
     },
     "batter_tb": {
       "label": "Total Bases",
-      "wins": 84,
-      "losses": 110,
+      "wins": 86,
+      "losses": 113,
       "pushes": 4,
-      "win_pct": 43.3,
-      "pnl": -25.79,
-      "roi": -10.1,
-      "bets": 198
+      "win_pct": 43.2,
+      "pnl": -21.89,
+      "roi": -8.3,
+      "bets": 203
     }
   },
   "bets": [
@@ -94,7 +94,8 @@
       "team_total": 4.5,
       "batter_iso": 0.243,
       "blast_pct": 14.8,
-      "over_rate": 0.661
+      "over_rate": 0.661,
+      "result": "win"
     },
     {
       "name": "Tomoyuki Sugano",
@@ -154,7 +155,8 @@
         "starter_ip_per_game": 8.88
       },
       "projected_outs": 13.79,
-      "edge": -1.71
+      "edge": -1.71,
+      "result": "loss"
     },
     {
       "name": "Rafael Devers",
@@ -208,7 +210,8 @@
       "team_total": 4.5,
       "batter_iso": 0.305,
       "blast_pct": 13.5,
-      "over_rate": 0.658
+      "over_rate": 0.658,
+      "result": "win"
     },
     {
       "name": "Patrick Sandoval",
@@ -264,7 +267,8 @@
         "starter_ip_per_game": 8.83
       },
       "projected_outs": 15.73,
-      "edge": -0.77
+      "edge": -0.77,
+      "result": "win"
     },
     {
       "name": "Jacob Lopez",
@@ -320,7 +324,8 @@
         "starter_ip_per_game": 6.09
       },
       "projected_outs": 17.5,
-      "edge": 2.0
+      "edge": 2.0,
+      "result": "win"
     },
     {
       "name": "Drew Anderson",
@@ -377,7 +382,8 @@
         "starter_ip_per_game": 9.31
       },
       "projected_outs": 14.52,
-      "edge": -0.98
+      "edge": -0.98,
+      "result": "loss"
     },
     {
       "name": "Jacob Misiorowski",
@@ -434,7 +440,8 @@
         "starter_ip_per_game": 7.13
       },
       "projected_outs": 19.44,
-      "edge": 1.94
+      "edge": 1.94,
+      "result": "loss"
     },
     {
       "name": "Cody Bradford",
@@ -493,7 +500,8 @@
         "starter_ip_per_game": 5.89
       },
       "projected_outs": 17.21,
-      "edge": -1.37
+      "edge": -1.37,
+      "result": "win"
     },
     {
       "name": "Casey Mize",
@@ -550,7 +558,8 @@
         "starter_ip_per_game": 8.04
       },
       "projected_outs": 12.31,
-      "edge": -3.19
+      "edge": -3.19,
+      "result": "win"
     },
     {
       "name": "Luke Keaschall",
@@ -603,7 +612,8 @@
       "team_total": 4.5,
       "batter_iso": 0.141,
       "blast_pct": 7.1,
-      "over_rate": 0.634
+      "over_rate": 0.634,
+      "result": "loss"
     },
     {
       "name": "Sal Stewart",
@@ -657,7 +667,8 @@
       "team_total": 3.5,
       "batter_iso": 0.213,
       "blast_pct": 11.2,
-      "over_rate": 0.689
+      "over_rate": 0.689,
+      "result": "loss"
     },
     {
       "name": "Drake Baldwin",
@@ -710,7 +721,8 @@
       "team_total": 4.5,
       "batter_iso": 0.197,
       "blast_pct": 14.8,
-      "over_rate": 0.621
+      "over_rate": 0.621,
+      "result": "loss"
     },
     {
       "name": "Bubba Chandler",
@@ -769,7 +781,8 @@
         "starter_ip_per_game": 7.92
       },
       "projected_outs": 16.67,
-      "edge": 1.17
+      "edge": 1.17,
+      "result": "loss"
     },
     {
       "name": "David Peterson",
@@ -827,7 +840,8 @@
         "starter_ip_per_game": 6.11
       },
       "projected_outs": 17.76,
-      "edge": 2.26
+      "edge": 2.26,
+      "result": "loss"
     },
     {
       "name": "Noah Cameron",
@@ -884,7 +898,8 @@
         "starter_ip_per_game": 7.76
       },
       "projected_outs": 21.05,
-      "edge": 3.55
+      "edge": 3.55,
+      "result": "loss"
     }
   ]
 }
