@@ -1,12 +1,12 @@
 {
   "date": "2026-09-03",
-  "updated": "10:59 AM ET",
+  "updated": "11:27 AM ET",
   "season_record": {
-    "wins": 438,
-    "losses": 395,
+    "wins": 444,
+    "losses": 399,
     "pushes": 12,
-    "units_pnl": 19.192,
-    "bets_placed": 845
+    "units_pnl": 20.818,
+    "bets_placed": 855
   },
   "season_breakdown": {
     "pitcher_k": {
@@ -21,23 +21,23 @@
     },
     "pitcher_outs": {
       "label": "Outs Recorded",
-      "wins": 284,
-      "losses": 226,
+      "wins": 290,
+      "losses": 228,
       "pushes": 6,
-      "win_pct": 55.7,
-      "pnl": 27.62,
-      "roi": 4.0,
-      "bets": 516
+      "win_pct": 56.0,
+      "pnl": 31.25,
+      "roi": 4.4,
+      "bets": 524
     },
     "batter_tb": {
       "label": "Total Bases",
       "wins": 86,
-      "losses": 113,
+      "losses": 115,
       "pushes": 4,
-      "win_pct": 43.2,
-      "pnl": -21.89,
-      "roi": -8.3,
-      "bets": 203
+      "win_pct": 42.8,
+      "pnl": -23.89,
+      "roi": -9.0,
+      "bets": 205
     }
   },
   "bets": [
@@ -97,7 +97,8 @@
         "starter_ip_per_game": 9.79
       },
       "projected_outs": 12.38,
-      "edge": -3.12
+      "edge": -3.12,
+      "result": "win"
     },
     {
       "name": "Quinn Mathews",
@@ -154,7 +155,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 13.19,
-      "edge": -2.31
+      "edge": -2.31,
+      "result": "win"
     },
     {
       "name": "Hunter Brown",
@@ -210,7 +212,8 @@
         "starter_ip_per_game": 5.62
       },
       "projected_outs": 15.72,
-      "edge": -1.78
+      "edge": -1.78,
+      "result": "loss"
     },
     {
       "name": "Cal Quantrill",
@@ -265,7 +268,8 @@
         "starter_ip_per_game": 5.84
       },
       "projected_outs": 17.84,
-      "edge": 2.34
+      "edge": 2.34,
+      "result": "win"
     },
     {
       "name": "Sandy Alcantara",
@@ -320,7 +324,8 @@
         "starter_ip_per_game": 5.2
       },
       "projected_outs": 19.75,
-      "edge": 1.25
+      "edge": 1.25,
+      "result": "loss"
     },
     {
       "name": "Jack Perkins",
@@ -377,7 +382,8 @@
         "starter_ip_per_game": 6.1
       },
       "projected_outs": 13.76,
-      "edge": -1.74
+      "edge": -1.74,
+      "result": "win"
     },
     {
       "name": "Rafael Devers",
@@ -434,7 +440,8 @@
       "team_total": 4.5,
       "batter_iso": 0.312,
       "blast_pct": 13.6,
-      "over_rate": 0.71
+      "over_rate": 0.71,
+      "result": "loss"
     },
     {
       "name": "Logan Henderson",
@@ -493,7 +500,8 @@
         "starter_ip_per_game": 7.12
       },
       "projected_outs": 20.34,
-      "edge": 3.84
+      "edge": 3.84,
+      "result": "win"
     },
     {
       "name": "Blade Tidwell",
@@ -549,7 +557,8 @@
         "starter_ip_per_game": 5.69
       },
       "projected_outs": 16.09,
-      "edge": 1.59
+      "edge": 1.59,
+      "result": "win"
     },
     {
       "name": "Mickey Gasper",
@@ -604,7 +613,8 @@
       "team_total": 3.5,
       "batter_iso": 0.0,
       "blast_pct": 13.2,
-      "over_rate": 0.61
+      "over_rate": 0.61,
+      "result": "loss"
     }
   ]
 }
